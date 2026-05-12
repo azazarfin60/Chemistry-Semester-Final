@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "687d18f97af76dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0bf64b964b69edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5e5bf26f0ea8ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "boss_notes/05.4_Atomic_Spectra.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.4_Atomic_Spectra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5255bbb8f1d65415",
+    "type": "split",
+    "children": [
+      {
+        "id": "4516b0c615401333",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0acded16ff392bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "16a2f77b56b74f23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ac6f550216e07d48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2455cff8403b4bfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da0d5bca589c827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02a82398544d92a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "boss_notes/05.4_Atomic_Spectra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 05.4_Atomic_Spectra"
+            }
+          },
+          {
+            "id": "119495536dca4b3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "boss_notes/05.4_Atomic_Spectra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 05.4_Atomic_Spectra"
+            }
+          },
+          {
+            "id": "783755bb006625f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cf18a98fb1936040",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7d632ffd01268bac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "boss_notes/05.4_Atomic_Spectra.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05.4_Atomic_Spectra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c5e5bf26f0ea8ee0",
+  "lastOpenFiles": [
+    "boss_notes/05.3_Electronic_Configuration_Rules.md",
+    "boss_notes/05.2_Quantum_Numbers.md",
+    "boss_notes/06.2_Types_of_Heat_of_Reaction.md",
+    "boss_notes/06.1_Laws_of_Thermochemistry.md",
+    "boss_notes/03.7_Metallic_Bond_and_Band_Theory.md",
+    "boss_notes/04.1_Vapor_Pressure_Lowering.md",
+    "boss_notes/04.2_Boiling_Point_Elevation.md",
+    "boss_notes/04.3_Freezing_Point_Depression.md",
+    "boss_notes/04.4_Osmotic_Pressure.md",
+    "answers/ClassTests.md",
+    "boss_notes/04.5_Colligative_Numericals.md",
+    "ClassTestQuestions/ClassTest03.md",
+    "ClassTestQuestions/ClassTest02.md",
+    "ClassTestQuestions/ClassTest01.md",
+    "concise_analysis.md",
+    "boss_notes/11.00_Miscellaneous.md",
+    "boss_notes/10.4_Precision_and_Accuracy.md",
+    "boss_notes/10.3_Buffer_Solutions.md",
+    "boss_notes/10.2_pH_and_Ionic_Equilibrium.md",
+    "boss_notes/10.1_Acid_Base_Theories.md",
+    "boss_notes/09.4_Redox_from_Electronic_Config.md",
+    "boss_notes/09.3_Ionization_Potential.md",
+    "boss_notes/09.2_Periodic_Properties.md",
+    "boss_notes/09.1_Modern_Periodic_Law.md",
+    "boss_notes/08.4_Solubility_and_Temperature.md",
+    "boss_notes/08.3_Ideal_vs_Non_Ideal_Solutions.md",
+    "boss_notes",
+    "setup_boss_notes.py",
+    "Topicwise-Answers",
+    "sort_topics.py",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-015.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-014.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-016.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-013.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-012.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-011.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-010.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-009.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-008.png",
+    "ResourcesGivenByTeachers/Acid-Base/Acid-Base-007.png",
+    "ResourcesGivenByTeachers/Acid-Base",
+    "ResourcesGivenByTeachers/Chemical-Equilibrium",
+    "answers"
+  ]
+}
