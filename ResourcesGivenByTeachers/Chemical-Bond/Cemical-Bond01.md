@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Cemical-Bond02 ➡](Cemical-Bond02.md)
+
+---
+
 # Chemical Bond - Slides 001-005
 
 ## Slide 1
@@ -129,3 +133,8 @@ A chemical bond is defined as the attractive force that holds two or more atoms 
 3.  Melting and boiling points (generally low)
 4.  Electrical conductivity (generally non-conductors)
 5.  Solubility in polar and non-polar solvents (often soluble in non-polar)
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Cemical-Bond02 ➡](Cemical-Bond02.md)

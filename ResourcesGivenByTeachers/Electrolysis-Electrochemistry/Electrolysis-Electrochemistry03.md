@@ -1,3 +1,7 @@
+[⬅ Electrolysis-Electrochemistry02](Electrolysis-Electrochemistry02.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry04 ➡](Electrolysis-Electrochemistry04.md)
+
+---
+
 # Electrolysis and Electrochemistry - Slides 011-015
 
 ---
@@ -75,3 +79,8 @@ Thus the ionic conductance of an ion is obtained by multiplying the equivalent c
 The specific conductance of saturated solution of silver chloride at 18°C is $1.24 \times 10^{-6}$ mhos after subtracting that of water. The mobilities of Ag⁺ and Cl⁻ ions at this temperature are 53.8 and 65.3 respectively. Calculate the solubility of silver chloride in grams per liter.
 
 **Slide Number: 15**
+
+
+---
+
+[⬅ Electrolysis-Electrochemistry02](Electrolysis-Electrochemistry02.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry04 ➡](Electrolysis-Electrochemistry04.md)

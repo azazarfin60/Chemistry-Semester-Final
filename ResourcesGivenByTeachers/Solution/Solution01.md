@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Solution02 ➡](Solution02.md)
+
+---
+
 ---
 title: "Solution Lecture Notes"
 author: "Digitized Slides"
@@ -109,3 +113,8 @@ A **solution** is a homogeneous mixture of two or more components in which the p
 
 ### **Pedagogical Analysis of Table:**
 This table systematically categorizes solutions based on the nine possible combinations of the three states of matter (Solid, Liquid, Gas) for both the solute and the solvent. It provides familiar real-world examples for each combination, such as air for gas-gas and gold alloys for solid-solid solutions, helping students relate abstract chemical concepts to everyday substances.
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Solution02 ➡](Solution02.md)

@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties08](Colligative-Properties08.md) | [🏠 Index](index.md) | [Colligative-Properties10 ➡](Colligative-Properties10.md)
+
+---
+
 # Colligative Properties - Slides 41-45
 
 ---
@@ -113,3 +117,8 @@ This slide provides a complex worked example involving the mixing of two differe
 * **Calculation Nuance:** Note that both urea and cane sugar are calculated using the *final total volume* ($200 \text{ ml} = 0.2 \text{ L}$) because they are now both distributed throughout the entire mixture. 
 * **Parameters:** $R = 0.0821 \text{ L.atm/mol.K}$, $T = 293 \text{ K}$ (20 + 273).
 * The final answer, **7.37 atm**, is the sum of the partial osmotic pressures.
+
+
+---
+
+[⬅ Colligative-Properties08](Colligative-Properties08.md) | [🏠 Index](index.md) | [Colligative-Properties10 ➡](Colligative-Properties10.md)

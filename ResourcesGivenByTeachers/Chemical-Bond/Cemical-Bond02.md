@@ -1,3 +1,7 @@
+[⬅ Cemical-Bond01](Cemical-Bond01.md) | [🏠 Index](index.md) | [Cemical-Bond03 ➡](Cemical-Bond03.md)
+
+---
+
 # Chemical Bond - Slides 006-010
 
 ## Slide 6
@@ -100,3 +104,8 @@ A hydrogen atom may be linked to two similar or different electronegative atoms.
 *   Melting point of **o-nitrophenol** is $214^\circ C$, while its **p-isomer** is $279^\circ C$ (due to association in the p-isomer).
 *   o-nitrophenol is volatile in steam and less soluble in water.
 *   p-nitrophenol shows inter-molecular H-bonding, resulting in the association of molecules.
+
+
+---
+
+[⬅ Cemical-Bond01](Cemical-Bond01.md) | [🏠 Index](index.md) | [Cemical-Bond03 ➡](Cemical-Bond03.md)

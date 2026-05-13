@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure12](Atomic-Structure12.md) | [🏠 Index](index.md) | [Atomic-Structure14 ➡](Atomic-Structure14.md)
+
+---
+
 # Atomic Structure: Slides 061-065
 
 ## Slide 61
@@ -74,3 +78,8 @@ The slide illustrates the process of electron emission:
 - **Electron Transition:** An electron ($e^-$) is shown falling from the higher level to the lower level.
 - **Photon Emission:** As the electron loses energy, it is released as **Emitted light**, represented by a blue wavy arrow.
 - **Key Concept:** "Emission occurs when the electron falls from an excited (high energy) to the ground, or in general, a lower energy level."
+
+
+---
+
+[⬅ Atomic-Structure12](Atomic-Structure12.md) | [🏠 Index](index.md) | [Atomic-Structure14 ➡](Atomic-Structure14.md)

@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [concise analysis ➡](concise_analysis.md)
+
+---
+
 # 📊 Chem 2117 — Semester Final Question Analysis Report
 ### Inorganic and Physical Chemistry | RUET ECE Department
 **Data Source:** 7 Previous Year Papers (2017–2024) + 4 Class Tests
@@ -749,3 +753,8 @@ The ultimate study priority list, ranked by a composite score of: frequency acro
 ---
 
 *Report generated from analysis of 7 semester final papers (2017, 2018, 2019, 2020, 2021, 2023, 2024) and 4 class tests (CT01–CT04) for CHEM 2117, Inorganic and Physical Chemistry, Department of ECE, RUET.*
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [concise analysis ➡](concise_analysis.md)

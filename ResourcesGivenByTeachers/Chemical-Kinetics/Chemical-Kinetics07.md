@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics06](Chemical-Kinetics06.md) | [🏠 Index](index.md) | [Chemical-Kinetics08 ➡](Chemical-Kinetics08.md)
+
+---
+
 # Chemical Kinetics: Slides 031-035
 
 ## Slide 31
@@ -110,3 +114,8 @@ Suppose, the initial concentration of A is "a" mole/liter and of B is "b" mole/l
 $$\frac{dx}{dt} = k(a-x)(b-x) \quad \dots (i)$$
 
 Or, $$\frac{dx}{(a-x)(b-x)} = kdt$$
+
+
+---
+
+[⬅ Chemical-Kinetics06](Chemical-Kinetics06.md) | [🏠 Index](index.md) | [Chemical-Kinetics08 ➡](Chemical-Kinetics08.md)

@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Colligative-Properties02 ➡](Colligative-Properties02.md)
+
+---
+
 # Colligative Properties - Slides 1-5
 
 ---
@@ -123,3 +127,8 @@ The slide introduces the mathematical derivation of "Relative Lowering of Vapor 
 * **Comparison Diagrams:**
     * **(a) Pure Solvent:** A beaker of blue liquid shows many solvent particles (blue spheres) in the headspace, indicating high vapor pressure.
     * **(b) Solution:** A beaker containing a non-volatile solute (green spheres) shows fewer solvent particles (blue spheres) in the headspace, visually representing the "Lower vapor pressure". Solute particles are shown at the surface, obstructing evaporation.
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Colligative-Properties02 ➡](Colligative-Properties02.md)

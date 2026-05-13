@@ -1,3 +1,7 @@
+[⬅ Acid-Base01](Acid-Base01.md) | [🏠 Index](index.md) | [Acid-Base03 ➡](Acid-Base03.md)
+
+---
+
 # Acid-Base Lecture Notes (Continued)
 
 ## Slide 06: Calculation of Relative Strength of Weak Acids from $K_a$
@@ -116,3 +120,8 @@ This concept can explain acid-base reactions in both aqueous and non-aqueous sol
 (iii) Cannot explain neutralization reactions occurring without the presence of ions.
 
 **Summary:** This theory is essentially an extension of the Arrhenius water-ion system.
+
+
+---
+
+[⬅ Acid-Base01](Acid-Base01.md) | [🏠 Index](index.md) | [Acid-Base03 ➡](Acid-Base03.md)

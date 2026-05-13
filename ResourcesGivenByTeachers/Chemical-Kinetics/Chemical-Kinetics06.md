@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics05](Chemical-Kinetics05.md) | [🏠 Index](index.md) | [Chemical-Kinetics07 ➡](Chemical-Kinetics07.md)
+
+---
+
 # Chemical Kinetics: Slides 026-030
 
 ## Slide 26
@@ -105,3 +109,8 @@ Again, $t(90\%) = \frac{2.303}{k} \log \frac{a}{a - 0.9a} \quad [x = 0.9a]$
 $$t(90\%) = \frac{2.303}{0.030130} \log \frac{1}{1 - 0.9} \quad [x = 0.9a]$$
 
 $$t(90\%) = \frac{2.303}{0.030130} = 76.4 \text{ min}$$
+
+
+---
+
+[⬅ Chemical-Kinetics05](Chemical-Kinetics05.md) | [🏠 Index](index.md) | [Chemical-Kinetics07 ➡](Chemical-Kinetics07.md)

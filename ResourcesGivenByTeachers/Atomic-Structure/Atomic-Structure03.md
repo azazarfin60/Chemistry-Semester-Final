@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure02](Atomic-Structure02.md) | [🏠 Index](index.md) | [Atomic-Structure04 ➡](Atomic-Structure04.md)
+
+---
+
 # Atomic Structure: Slides 011-015
 
 ## Slide 11
@@ -79,3 +83,8 @@ This microscopic view shows alpha particles (green circles with '++') interactin
 - **Small deflection:** Occurs when alpha particles pass near the nucleus.
 - **Large deflection / Turned back:** Occurs when alpha particles get very close to or hit the nucleus directly, due to electrostatic repulsion.
 - **Empty space:** Most particles pass straight through the gaps between nuclei, proving the atom is mostly empty space.
+
+
+---
+
+[⬅ Atomic-Structure02](Atomic-Structure02.md) | [🏠 Index](index.md) | [Atomic-Structure04 ➡](Atomic-Structure04.md)

@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure09](Atomic-Structure09.md) | [🏠 Index](index.md) | [Atomic-Structure11 ➡](Atomic-Structure11.md)
+
+---
+
 # Atomic Structure: Slides 046-050
 
 ## Slide 46
@@ -83,3 +87,8 @@ The slide illustrates the concept of nodes (regions of zero electron density).
 This slide serves as a visual summary of the two main conceptual models discussed:
 - **Bohr Model (Left):** Shows electrons on discrete, concentric, circular 2D "Orbits".
 - **Quantum Model (Right):** Shows electrons moving in multi-planar, 3D "Orbitals" (represented by overlapping ellipses), reflecting the more complex reality of electron probability clouds.
+
+
+---
+
+[⬅ Atomic-Structure09](Atomic-Structure09.md) | [🏠 Index](index.md) | [Atomic-Structure11 ➡](Atomic-Structure11.md)

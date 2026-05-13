@@ -1,3 +1,7 @@
+[⬅ Thermochemistry03](Thermochemistry03.md) | [🏠 Index](index.md) | [Thermochemistry05 ➡](Thermochemistry05.md)
+
+---
+
 # Thermochemistry - Page 10
 
 ## 280 | 8 PHYSICAL CHEMISTRY
@@ -139,3 +143,8 @@ $$= [c \times \Delta H_f^\circ(C) + d \times \Delta H_f^\circ(D)] - [a \times \D
 > $$= [2 \times (-393.5) + 3 \times -285.5] - [-277.0 - 0]$$
 > $$= -1643.5 - (-277)$$
 > **$= -1366.5 \text{ kJ}$**
+
+
+---
+
+[⬅ Thermochemistry03](Thermochemistry03.md) | [🏠 Index](index.md) | [Thermochemistry05 ➡](Thermochemistry05.md)

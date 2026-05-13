@@ -1,3 +1,7 @@
+[⬅ Solution04](Solution04.md) | [🏠 Index](index.md) | [Solution06 ➡](Solution06.md)
+
+---
+
 ---
 title: "Solution Lecture Notes"
 author: "Digitized Slides"
@@ -94,3 +98,8 @@ The three-part diagram illustrates the effect of pressure on gas solubility:
 - **(b) $P_{gas}$ increased:** A piston compresses the gas, increasing its partial pressure. This forces more gas collisions with the liquid surface.
 - **(c) New Dynamic equilibrium:** To restore equilibrium, more gas molecules dissolve into the liquid until the rates again equalize. This visually confirms that higher pressure leads to higher gas solubility.
 - **Historical Context:** Includes a portrait of **William Henry**, the British chemist who formulated this law in 1803.
+
+
+---
+
+[⬅ Solution04](Solution04.md) | [🏠 Index](index.md) | [Solution06 ➡](Solution06.md)

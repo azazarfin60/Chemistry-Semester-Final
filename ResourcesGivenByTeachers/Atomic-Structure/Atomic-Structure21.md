@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure20](Atomic-Structure20.md) | [🏠 Index](index.md) | [Atomic-Structure22 ➡](Atomic-Structure22.md)
+
+---
+
 # Atomic Structure: Slides 101-105
 
 ## Slide 101
@@ -88,3 +92,8 @@ Neon, argon, krypton, xenon, and radon in the periodic table belong to group-18 
 - The process by which free electrons are emitted from the metal surface by the application of light is called **photoelectric emission**.
 - Photoelectric emission is also called as photoemission or photoelectron emission or photoelectric effect.
 - In this method, light or photons is used to remove the free electrons from the solid metal. Hence, the free electrons emitted from the solid metal are called **photoelectrons** and current produced due to this process is called **photoelectric current**.
+
+
+---
+
+[⬅ Atomic-Structure20](Atomic-Structure20.md) | [🏠 Index](index.md) | [Atomic-Structure22 ➡](Atomic-Structure22.md)

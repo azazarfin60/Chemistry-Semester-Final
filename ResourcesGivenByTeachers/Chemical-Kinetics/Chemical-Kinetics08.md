@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics07](Chemical-Kinetics07.md) | [🏠 Index](index.md) | [Chemical-Kinetics09 ➡](Chemical-Kinetics09.md)
+
+---
+
 # Chemical Kinetics: Slides 036-040
 
 ## Slide 36
@@ -96,3 +100,8 @@ At the time of reaction, $a$ is constant, so
 $$k = \frac{1}{t} \ln \frac{b}{(b-x)}$$
 
 This is the mathematical expression of $1^{st}$ order kinetics.
+
+
+---
+
+[⬅ Chemical-Kinetics07](Chemical-Kinetics07.md) | [🏠 Index](index.md) | [Chemical-Kinetics09 ➡](Chemical-Kinetics09.md)

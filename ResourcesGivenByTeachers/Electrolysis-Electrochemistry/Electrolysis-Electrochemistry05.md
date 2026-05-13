@@ -1,3 +1,7 @@
+[⬅ Electrolysis-Electrochemistry04](Electrolysis-Electrochemistry04.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry06 ➡](Electrolysis-Electrochemistry06.md)
+
+---
+
 # Electrolysis and Electrochemistry - Slides 021-025
 
 ---
@@ -115,3 +119,8 @@ The illustration demonstrates the origin of electrode potential:
 **Caption:** Formation of double electric layer gives rise to potential difference between the metal (Zn metal) and solution containing its own ions (Zn²⁺ ions) which is called electrode potential.
 
 **Slide Number: 25**
+
+
+---
+
+[⬅ Electrolysis-Electrochemistry04](Electrolysis-Electrochemistry04.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry06 ➡](Electrolysis-Electrochemistry06.md)

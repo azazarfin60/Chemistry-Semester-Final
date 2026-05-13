@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics11](Chemical-Kinetics11.md) | [🏠 Index](index.md) | [Chemical-Kinetics13 ➡](Chemical-Kinetics13.md)
+
+---
+
 # Chemical Kinetics: Slides 056-060
 
 ## Slide 56
@@ -97,3 +101,8 @@ Given: $E_a = 0$
 $$\therefore \frac{E_a}{2.303 R} \left[ \frac{T_2 - T_1}{T_2 T_1} \right] = 0$$
 $$\log \frac{k_{300}}{k_{280}} = 0 \implies \frac{k_{300}}{k_{280}} = 1$$
 Hence, $k_{300} = k_{280} = 1.6 \times 10^6 s^{-1}$
+
+
+---
+
+[⬅ Chemical-Kinetics11](Chemical-Kinetics11.md) | [🏠 Index](index.md) | [Chemical-Kinetics13 ➡](Chemical-Kinetics13.md)

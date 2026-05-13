@@ -1,3 +1,7 @@
+[⬅ Thermochemistry02](Thermochemistry02.md) | [🏠 Index](index.md) | [Thermochemistry04 ➡](Thermochemistry04.md)
+
+---
+
 # Thermochemistry - Page 07
 
 ## THERMOCHEMISTRY | 277
@@ -113,3 +117,8 @@ or
 **$$\Delta H_2 - \Delta H_1 = \Delta C_P [T_2 - T_1] \quad ...(6)$$**
 
 The relations (2), (3), (5) and (6) were first derived by Kirchoff and are called **Kirchoff’s equations**. These equations may be used for calculating heat of reaction at a given temperature when it is known at some other temperature and when the heat capacities of products and reactants are known.
+
+
+---
+
+[⬅ Thermochemistry02](Thermochemistry02.md) | [🏠 Index](index.md) | [Thermochemistry04 ➡](Thermochemistry04.md)

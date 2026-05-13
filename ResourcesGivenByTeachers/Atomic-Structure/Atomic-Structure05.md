@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure04](Atomic-Structure04.md) | [🏠 Index](index.md) | [Atomic-Structure06 ➡](Atomic-Structure06.md)
+
+---
+
 # Atomic Structure: Slides 021-025
 
 ## Slide 21
@@ -73,3 +77,8 @@ The diagram shows the Bohr model for an **Argon** atom.
 | It couldn't explain the stability of the atom. | It accounts for the stability of an atom. |
 | It is based on an alpha particle scattering experiment. | It is based on the atomic spectra of the Hydrogen atom. |
 | It doesn't explain the orbits or energy level. | It successfully explains that electrons move in permitted orbit with fixed energy and angular momentum. |
+
+
+---
+
+[⬅ Atomic-Structure04](Atomic-Structure04.md) | [🏠 Index](index.md) | [Atomic-Structure06 ➡](Atomic-Structure06.md)

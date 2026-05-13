@@ -1,3 +1,7 @@
+[⬅ 06-Thermochemistry](06-Thermochemistry.md) | [🏠 Index](index.md) | [08-Solutions ➡](08-Solutions.md)
+
+---
+
 # Electrochemistry
 **Priority:** 🟠 HIGH | **Frequency:** 13 sub-parts across 5/7 exams + CT04
 
@@ -389,3 +393,8 @@ $$\alpha = \frac{\Lambda_v}{\Lambda^\circ}$$
 This derived equation elegantly allows the determination of the fundamental constant $K_w$ by simply measuring the specific conductance ($\kappa$) of ultra-pure water.
 
 ---
+
+
+---
+
+[⬅ 06-Thermochemistry](06-Thermochemistry.md) | [🏠 Index](index.md) | [08-Solutions ➡](08-Solutions.md)

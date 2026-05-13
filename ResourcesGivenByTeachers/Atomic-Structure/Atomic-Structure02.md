@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure01](Atomic-Structure01.md) | [🏠 Index](index.md) | [Atomic-Structure03 ➡](Atomic-Structure03.md)
+
+---
+
 # Atomic Structure: Slides 006-010
 
 ## Slide 6
@@ -73,3 +77,8 @@ The diagram depicts the formation of a water molecule from its constituent atoms
 - **Mass number:** The sum of the number of protons and the number of neutrons in an atom.
 - **Atomic number:** The number of protons in an atom.
 - **Atomic mass:** The average mass of an atom, taking into account all its naturally occurring isotopes.
+
+
+---
+
+[⬅ Atomic-Structure01](Atomic-Structure01.md) | [🏠 Index](index.md) | [Atomic-Structure03 ➡](Atomic-Structure03.md)

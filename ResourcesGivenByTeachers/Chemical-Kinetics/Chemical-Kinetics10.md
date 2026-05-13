@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics09](Chemical-Kinetics09.md) | [🏠 Index](index.md) | [Chemical-Kinetics11 ➡](Chemical-Kinetics11.md)
+
+---
+
 # Chemical Kinetics: Slides 046-050
 
 ## Slide 46
@@ -86,3 +90,8 @@ $$aA + bB + cC \longrightarrow \text{Products}$$
 Suppose we isolate A by taking B and C in large excess and get order of reaction with respect to A. Similarly, we isolate B by taking A and C in large excess, and so on.
 
 Overall order of reaction $n = p + q + r$
+
+
+---
+
+[⬅ Chemical-Kinetics09](Chemical-Kinetics09.md) | [🏠 Index](index.md) | [Chemical-Kinetics11 ➡](Chemical-Kinetics11.md)

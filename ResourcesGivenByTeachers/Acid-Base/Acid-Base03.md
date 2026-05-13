@@ -1,3 +1,7 @@
+[⬅ Acid-Base02](Acid-Base02.md) | [🏠 Index](index.md) | [Acid-Base04 ➡](Acid-Base04.md)
+
+---
+
 # Acid-Base Lecture Notes (Continued)
 
 ## Slide 11: Usanovich Concept
@@ -113,3 +117,8 @@ Oxygen and Sulfur atoms (6 valence electrons) act as Lewis acids.
 **Examples (Oxidation as Acid-Base):**
 - $SO_3^{2-} (\text{Base}) + :O (\text{Acid}) \rightarrow SO_4^{2-}$
 - $SO_3^{2-} (\text{Base}) + :S (\text{Acid}) \rightarrow S_2O_3^{2-}$
+
+
+---
+
+[⬅ Acid-Base02](Acid-Base02.md) | [🏠 Index](index.md) | [Acid-Base04 ➡](Acid-Base04.md)

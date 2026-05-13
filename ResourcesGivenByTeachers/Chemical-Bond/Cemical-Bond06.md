@@ -1,3 +1,7 @@
+[⬅ Cemical-Bond05](Cemical-Bond05.md) | [🏠 Index](index.md) | [Cemical-Bond07 ➡](Cemical-Bond07.md)
+
+---
+
 # Chemical Bond - Slides 026-030
 
 ## Slide 26
@@ -67,3 +71,8 @@ Analysis of the Tetraamminecopper(II) complex: $[Cu(NH_3)_4]^{2+}$.
     *   **Unpaired Electron Promotion:** The single unpaired electron from the 3d orbital is promoted to the vacant 4p orbital (specifically the third p-orbital).
 *   **Coordination:** Four pairs of electrons from the $:NH_3$ ligands enter the newly formed $dsp^2$ hybrid orbitals.
 *   **Resulting Geometry:** **Square Planar**.
+
+
+---
+
+[⬅ Cemical-Bond05](Cemical-Bond05.md) | [🏠 Index](index.md) | [Cemical-Bond07 ➡](Cemical-Bond07.md)

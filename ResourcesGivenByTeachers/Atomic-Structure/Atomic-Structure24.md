@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure23](Atomic-Structure23.md) | [🏠 Index](index.md) | [Atomic-Structure25 ➡](Atomic-Structure25.md)
+
+---
+
 # Atomic Structure: Slides 116-120
 
 ## Slide 116
@@ -124,3 +128,8 @@ Here, $v$ = velocity of electron
 From equation (14), the angular momentum of electron = **$\frac{n h}{2 \pi}$**
 
 Therefore, the de-Broglie theory explains Bohr’s quantization of angular momentum.
+
+
+---
+
+[⬅ Atomic-Structure23](Atomic-Structure23.md) | [🏠 Index](index.md) | [Atomic-Structure25 ➡](Atomic-Structure25.md)

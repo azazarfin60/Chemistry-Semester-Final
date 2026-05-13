@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Thermochemistry02 ➡](Thermochemistry02.md)
+
+---
+
 # Thermochemistry - Page 01
 
 ## Chapter 8: Thermochemistry
@@ -129,3 +133,8 @@ The value of $\Delta H$ may be either zero, negative or positive. Where $\Delta 
 **Such reactions which are accompanied by the evolution of heat energy are called Exothermic reactions.**
 
 When $\Delta H$ is positive, the enthalpy or heat content of the reactants and an equivalent of heat is absorbed by the system from the surroundings.
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Thermochemistry02 ➡](Thermochemistry02.md)

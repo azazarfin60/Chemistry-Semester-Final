@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics08](Chemical-Kinetics08.md) | [🏠 Index](index.md) | [Chemical-Kinetics10 ➡](Chemical-Kinetics10.md)
+
+---
+
 # Chemical Kinetics: Slides 041-045
 
 ## Slide 41
@@ -105,3 +109,8 @@ $$k = \frac{1}{t} \times \frac{nx(2an - nx)}{2(an)^2(an - nx)^2}$$
 Or, $k = \frac{1}{t} \times \frac{x(2a - x)}{2a^2(a - x)^2} \times \frac{1}{n^2}$$
 
 So, the value of $k$ is $1/n^2$ times of previous one.
+
+
+---
+
+[⬅ Chemical-Kinetics08](Chemical-Kinetics08.md) | [🏠 Index](index.md) | [Chemical-Kinetics10 ➡](Chemical-Kinetics10.md)

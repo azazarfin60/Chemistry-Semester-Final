@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties06](Colligative-Properties06.md) | [🏠 Index](index.md) | [Colligative-Properties08 ➡](Colligative-Properties08.md)
+
+---
+
 # Colligative Properties - Slides 31-35
 
 ---
@@ -109,3 +113,8 @@ This slide uses a U-tube experiment to quantify osmotic pressure:
 2. **Dynamic Equilibrium:** Solvent flows to the concentrated side, creating a height difference ($\Delta \pi$) which represents the natural osmotic pressure.
 3. **Applied Pressure:** An external piston applies pressure ($\pi$) to return the levels to equal height, effectively measuring the osmotic pressure of the solution.
 The circular microscopic diagrams below each U-tube show the arrow of net flux decreasing as counter-pressure is applied.
+
+
+---
+
+[⬅ Colligative-Properties06](Colligative-Properties06.md) | [🏠 Index](index.md) | [Colligative-Properties08 ➡](Colligative-Properties08.md)

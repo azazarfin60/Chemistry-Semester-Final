@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure13](Atomic-Structure13.md) | [🏠 Index](index.md) | [Atomic-Structure15 ➡](Atomic-Structure15.md)
+
+---
+
 # Atomic Structure: Slides 066-070
 
 ## Slide 66
@@ -79,3 +83,8 @@ The slide shows the experimental derivation of emission and absorption spectra:
 ** (b) Absorption Spectra:**
 - **Source:** Light from a "High density hot matter" (continuous source) passes through a "Cold gas".
 - **Result:** An **Absorption spectrum** is produced, appearing as a continuous rainbow background with specific dark vertical lines where the cold gas has absorbed particular wavelengths.
+
+
+---
+
+[⬅ Atomic-Structure13](Atomic-Structure13.md) | [🏠 Index](index.md) | [Atomic-Structure15 ➡](Atomic-Structure15.md)

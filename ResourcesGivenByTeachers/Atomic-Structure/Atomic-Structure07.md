@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure06](Atomic-Structure06.md) | [🏠 Index](index.md) | [Atomic-Structure08 ➡](Atomic-Structure08.md)
+
+---
+
 # Atomic Structure: Slides 031-035
 
 ## Slide 31
@@ -95,3 +99,8 @@ The relation between the first Bohr orbit and the nth orbit of the hydrogen atom
 
 **Problem:** Calculate the radius of the second orbit of the hydrogen atom if the radius of the first orbit of hydrogen = 0.529 $\mathring{A}$.
 **Solution:** The radius of the second orbit of the hydrogen atom ($r_2$) = $n^2 \times r_1 = 2^2 \times 0.529 = 2.12 \mathring{A}$.
+
+
+---
+
+[⬅ Atomic-Structure06](Atomic-Structure06.md) | [🏠 Index](index.md) | [Atomic-Structure08 ➡](Atomic-Structure08.md)

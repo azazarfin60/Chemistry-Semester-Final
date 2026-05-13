@@ -1,3 +1,7 @@
+[⬅ 08-Solutions](08-Solutions.md) | [🏠 Index](index.md) | [10-Acid-Base-Buffer ➡](10-Acid-Base-Buffer.md)
+
+---
+
 # Periodic Table
 **Priority:** 🟡 MEDIUM | **Frequency:** 8 sub-parts across 3/7 exams
 
@@ -293,3 +297,8 @@ It is always observed that $IP_1 < IP_2 < IP_3 \dots$ because as each electron i
 
 ---
 
+
+
+---
+
+[⬅ 08-Solutions](08-Solutions.md) | [🏠 Index](index.md) | [10-Acid-Base-Buffer ➡](10-Acid-Base-Buffer.md)

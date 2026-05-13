@@ -1,3 +1,7 @@
+[⬅ Cemical-Bond04](Cemical-Bond04.md) | [🏠 Index](index.md) | [Cemical-Bond06 ➡](Cemical-Bond06.md)
+
+---
+
 # Chemical Bond - Slides 021-025
 
 ## Slide 21
@@ -71,3 +75,8 @@ The process of mixing one 's' and three 'p' orbitals to produce four equivalent 
     *   **Visual:** Shows the "umbrella" shape of ammonia with the lone pair at the top.
 
 **Examples:** $CH_4, NH_4^+, :NH_3, H_2O, :NX_3, :PX_3$ etc.
+
+
+---
+
+[⬅ Cemical-Bond04](Cemical-Bond04.md) | [🏠 Index](index.md) | [Cemical-Bond06 ➡](Cemical-Bond06.md)

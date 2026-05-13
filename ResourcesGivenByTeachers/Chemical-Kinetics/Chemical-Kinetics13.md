@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics12](Chemical-Kinetics12.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Chemical Kinetics: Slides 061-063 (Final)
 
 ## Slide 61
@@ -71,3 +75,8 @@ $\ln(0.141) = E_a \times (-0.0000493) \implies -1.958 = E_a \times (-0.0000493)$
 **$E_a = 39716 \, \text{J mol}^{-1} \approx 39.72 \, \text{kJ mol}^{-1}$**
 
 The activation energy of the reaction is approximately $39716 \, \text{J mol}^{-1}$.
+
+
+---
+
+[⬅ Chemical-Kinetics12](Chemical-Kinetics12.md) | [🏠 Index](index.md) | *(end)*

@@ -1,3 +1,7 @@
+[⬅ Solution03](Solution03.md) | [🏠 Index](index.md) | [Solution05 ➡](Solution05.md)
+
+---
+
 ---
 title: "Solution Lecture Notes"
 author: "Digitized Slides"
@@ -84,3 +88,8 @@ The slide uses a radial mind map to summarize the key variables that influence h
     6.  **Physical forms of drug:** Particularly relevant in pharmacology (e.g., crystalline vs. amorphous).
     7.  **Pressure:** Significantly affects the solubility of gases (Henry's Law).
     8.  **Polarity:** Determines the compatibility of the components.
+
+
+---
+
+[⬅ Solution03](Solution03.md) | [🏠 Index](index.md) | [Solution05 ➡](Solution05.md)

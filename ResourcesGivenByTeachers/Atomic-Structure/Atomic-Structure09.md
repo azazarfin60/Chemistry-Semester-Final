@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure08](Atomic-Structure08.md) | [🏠 Index](index.md) | [Atomic-Structure10 ➡](Atomic-Structure10.md)
+
+---
+
 # Atomic Structure: Slides 041-045
 
 ## Slide 41
@@ -77,3 +81,8 @@ This slide bridges the gap between Bohr's orbits and the quantum mechanical subs
     - **S Orbital:** Spherical shape.
     - **P Orbital:** Dumbbell shape.
 - **Key Note:** "Different Orbitals have different Shapes".
+
+
+---
+
+[⬅ Atomic-Structure08](Atomic-Structure08.md) | [🏠 Index](index.md) | [Atomic-Structure10 ➡](Atomic-Structure10.md)

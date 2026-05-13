@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Chemical-Equilibrium02 ➡](Chemical-Equilibrium02.md)
+
+---
+
 # Chemical Equilibrium - Slides 01-05
 
 ## Slide 01
@@ -90,3 +94,8 @@ $$H_2O (g) + CO (g) \rightleftharpoons H_2 (g) + CO_2 (g)$$
    - **Products ($[CO_2]$ or $[H_2]$ - Red)**: Increase from zero and plateau.
    - **Equilibrium Region**: Indicated by the dashed line where all concentration curves become horizontal (constant over time).
    - **Note**: The slide mentions that concentration $[X]$ can be replaced by partial pressure $P_X$ for gaseous systems.
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Chemical-Equilibrium02 ➡](Chemical-Equilibrium02.md)

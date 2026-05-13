@@ -1,3 +1,7 @@
+[⬅ Analysis Report](Analysis_Report.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # ⚡ Chem 2117 — Concise Analysis
 **7 Papers (2017–2024) | 4 Class Tests | RUET ECE**
 
@@ -103,3 +107,8 @@
 | 🔥 Very Likely | Thermochemistry, Electrochemistry | 6 hrs |
 | 📘 Likely | Atomic Structure | 3 hrs |
 | 📗 Possible | Periodic Table | 1 hr |
+
+
+---
+
+[⬅ Analysis Report](Analysis_Report.md) | [🏠 Index](index.md) | *(end)*

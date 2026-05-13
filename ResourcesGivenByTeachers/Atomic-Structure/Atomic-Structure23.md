@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure22](Atomic-Structure22.md) | [🏠 Index](index.md) | [Atomic-Structure24 ➡](Atomic-Structure24.md)
+
+---
+
 # Atomic Structure: Slides 111-115
 
 ## Slide 111
@@ -104,3 +108,8 @@ According to de Broglie, the below equation is entirely general and applies to m
 **$\lambda = h/mv$**
 
 The wavelength of the matter waves is referred to as the **de Broglie wavelength**. Through Planck’s constant, this equation connects the wave character (wavelength) and the particle character (momentum p).
+
+
+---
+
+[⬅ Atomic-Structure22](Atomic-Structure22.md) | [🏠 Index](index.md) | [Atomic-Structure24 ➡](Atomic-Structure24.md)

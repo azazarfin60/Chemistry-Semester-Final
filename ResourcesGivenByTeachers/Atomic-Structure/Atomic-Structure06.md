@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure05](Atomic-Structure05.md) | [🏠 Index](index.md) | [Atomic-Structure07 ➡](Atomic-Structure07.md)
+
+---
+
 # Atomic Structure: Slides 026-030
 
 ## Slide 26
@@ -76,3 +80,8 @@ This graph provides a quantitative look at the Stark effect in Hydrogen.
 - **The distance** between Zeeman sub-levels is a function of magnetic field strength. Therefore, we can use the Zeeman effect to measure magnetic field strength. For example, measuring the magnetic field strength of the Sun and other stars.
 - **There are many** important applications of the Zeeman effect, such as nuclear magnetic resonance spectroscopy, electron spin resonance spectroscopy, magnetic resonance imaging, etc.
 - **Moreover,** we can use it to improve the accuracy of atomic absorption spectroscopy.
+
+
+---
+
+[⬅ Atomic-Structure05](Atomic-Structure05.md) | [🏠 Index](index.md) | [Atomic-Structure07 ➡](Atomic-Structure07.md)

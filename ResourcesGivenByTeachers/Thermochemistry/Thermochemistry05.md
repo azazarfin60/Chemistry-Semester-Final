@@ -1,3 +1,7 @@
+[⬅ Thermochemistry04](Thermochemistry04.md) | [🏠 Index](index.md) | [Thermochemistry06 ➡](Thermochemistry06.md)
+
+---
+
 # Thermochemistry - Page 13
 
 ## THERMOCHEMISTRY | 283
@@ -116,3 +120,8 @@ Hence the heat of dissociation of $NH_4OH$ is $1.4 \text{ kcal}$ *i.e.*, $1.4 \t
 ### ENERGY CHANGES DURING TRANSITIONS OR PHASE CHANGES
 
 The three states of matter – solid, liquid and gas differ from one another in the arrangement of their constituent particles. The magnitudes of intermolecular forces acting between the particles in these states are also different. It is a common observation that when a solid is converted into the liquid state, energy is to be supplied. This energy is spent in breaking the intermolecular forces in the solid which are of high magnitude. **Whenever there is a change in the state of matter (solid $\longrightarrow$ liquid or liquid $\longrightarrow$ gas), the process is called phase change or transition.** It is also accompanied by the change in enthalpy or heat content of the system.
+
+
+---
+
+[⬅ Thermochemistry04](Thermochemistry04.md) | [🏠 Index](index.md) | [Thermochemistry06 ➡](Thermochemistry06.md)

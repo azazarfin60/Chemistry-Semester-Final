@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics04](Chemical-Kinetics04.md) | [🏠 Index](index.md) | [Chemical-Kinetics06 ➡](Chemical-Kinetics06.md)
+
+---
+
 # Chemical Kinetics: Slides 021-025
 
 ## Slide 21
@@ -112,3 +116,8 @@ This is the integrated rate expression for first order reaction.
 * Hydrolysis of diazo derivatives.
   $$C_5H_5N = NCl + H_2O \rightarrow C_6H_5OH + N_2 + HCl$$
   *(Note: The slide likely refers to Benzenediazonium chloride, usually $C_6H_5N_2Cl$)*
+
+
+---
+
+[⬅ Chemical-Kinetics04](Chemical-Kinetics04.md) | [🏠 Index](index.md) | [Chemical-Kinetics06 ➡](Chemical-Kinetics06.md)

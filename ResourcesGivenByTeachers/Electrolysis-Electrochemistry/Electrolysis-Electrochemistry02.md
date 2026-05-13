@@ -1,3 +1,7 @@
+[⬅ Electrolysis-Electrochemistry01](Electrolysis-Electrochemistry01.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry03 ➡](Electrolysis-Electrochemistry03.md)
+
+---
+
 # Electrolysis and Electrochemistry - Slides 006-010
 
 ---
@@ -85,3 +89,8 @@ $$r = \frac{t_+}{t_-} = \frac{t_+}{1 - t_+}$$
 $$t_- = \frac{1}{1 + r}$$
 
 **Slide Number: 10**
+
+
+---
+
+[⬅ Electrolysis-Electrochemistry01](Electrolysis-Electrochemistry01.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry03 ➡](Electrolysis-Electrochemistry03.md)

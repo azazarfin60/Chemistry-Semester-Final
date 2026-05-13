@@ -1,3 +1,7 @@
+[⬅ 2024](2024.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Comprehensive Answers for Class Tests (CT-01 to CT-04)
 
 This document contains the digitized answers for the four class tests provided in the repository.
@@ -180,3 +184,8 @@ $$\alpha = \frac{\Lambda_v}{\Lambda^\circ}$$
     The $C^2$ terms perfectly cancel out, yielding the final equation:
     **$$K_w = \left[ \frac{1000 \cdot \kappa}{\lambda^\circ_{H^+} + \lambda^\circ_{OH^-}} \right]^2$$**
 This derived equation elegantly allows the determination of the fundamental constant $K_w$ by simply measuring the specific conductance ($\kappa$) of ultra-pure water.
+
+
+---
+
+[⬅ 2024](2024.md) | [🏠 Index](index.md) | *(end)*

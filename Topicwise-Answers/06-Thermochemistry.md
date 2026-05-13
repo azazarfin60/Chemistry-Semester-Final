@@ -1,3 +1,7 @@
+[⬅ 05-Atomic-Structure](05-Atomic-Structure.md) | [🏠 Index](index.md) | [07-Electrochemistry ➡](07-Electrochemistry.md)
+
+---
+
 # Thermochemistry
 **Priority:** 🟠 HIGH | **Frequency:** 14 sub-parts across 5/7 exams
 
@@ -435,3 +439,8 @@ Thermochemistry is governed by two fundamental laws, both of which are direct co
 
 ---
 
+
+
+---
+
+[⬅ 05-Atomic-Structure](05-Atomic-Structure.md) | [🏠 Index](index.md) | [07-Electrochemistry ➡](07-Electrochemistry.md)

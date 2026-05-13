@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Chemical-Kinetics02 ➡](Chemical-Kinetics02.md)
+
+---
+
 # Chemical Kinetics: Slides 001-005
 
 ## Slide 1
@@ -90,3 +94,8 @@ The slide presents a quantitative graph and a series of beakers illustrating the
     * **Curve B (Green):** Shows the corresponding increase in product molecules, starting at 0 and approaching 50.
 * **Beaker Sequence:** Above the graph, seven beakers correspond to the time markers (0, 10, 20, 30, 40, 50, 60 s). They visually demonstrate the purple reactant spheres being progressively replaced by green product spheres.
 * **Observation:** The rate of reaction is highest at the beginning (steepest slopes) and slows down as the concentration of reactant A decreases.
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Chemical-Kinetics02 ➡](Chemical-Kinetics02.md)

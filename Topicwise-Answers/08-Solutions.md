@@ -1,3 +1,7 @@
+[⬅ 07-Electrochemistry](07-Electrochemistry.md) | [🏠 Index](index.md) | [09-Periodic-Table ➡](09-Periodic-Table.md)
+
+---
+
 # Solutions
 **Priority:** 🟡 MEDIUM | **Frequency:** 12 sub-parts across 4/7 exams + CT01
 
@@ -331,3 +335,8 @@ $m = 0.1613 \text{ moles} / 0.45 \text{ kg} = \mathbf{0.358 \text{ mol/kg (or 0.
 ---
 
 ---
+
+
+---
+
+[⬅ 07-Electrochemistry](07-Electrochemistry.md) | [🏠 Index](index.md) | [09-Periodic-Table ➡](09-Periodic-Table.md)

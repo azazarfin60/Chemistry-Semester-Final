@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure18](Atomic-Structure18.md) | [🏠 Index](index.md) | [Atomic-Structure20 ➡](Atomic-Structure20.md)
+
+---
+
 # Atomic Structure: Slides 091-095
 
 ## Slide 91
@@ -83,3 +87,8 @@ The slide illustrates the shell-based electron distribution for several elements
   **Ans.** We know that the values of the quantum number **l** determine the number of subshells.
   For **n=3**, **l** has the values: **0, 1, and 2**. So three subshells **s, p, and d** are possible at **n=3** energy level.
   For **n=3** energy level we have three subshells- **s, p, and d** subshells. We know that the **s** subshell has **1** orbital. **p** has **3** orbitals and **d** subshell has **5** orbitals. So the total number of orbitals at **n=3** energy level is **9**.
+
+
+---
+
+[⬅ Atomic-Structure18](Atomic-Structure18.md) | [🏠 Index](index.md) | [Atomic-Structure20 ➡](Atomic-Structure20.md)

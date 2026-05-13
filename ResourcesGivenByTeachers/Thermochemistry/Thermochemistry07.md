@@ -1,3 +1,7 @@
+[⬅ Thermochemistry06](Thermochemistry06.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Thermochemistry - Page 19
 
 ## THERMOCHEMISTRY | 289
@@ -136,3 +140,8 @@ In a similar manner the bond energies of other types of bonds have been calculat
 > $HCl(g) \longrightarrow H(g) + Cl(g) \quad \Delta H = 428.5 \text{ kJ}$
 >
 > Thus the bond energy of $H-Cl$ is **$428.5 \text{ kJ}$**.
+
+
+---
+
+[⬅ Thermochemistry06](Thermochemistry06.md) | [🏠 Index](index.md) | *(end)*

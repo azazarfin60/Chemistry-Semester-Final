@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure19](Atomic-Structure19.md) | [🏠 Index](index.md) | [Atomic-Structure21 ➡](Atomic-Structure21.md)
+
+---
+
 # Atomic Structure: Slides 096-100
 
 ## Slide 96
@@ -79,3 +83,8 @@ The odd electron- containing atoms are reactive species, unstable, and some may 
 - Explains the high reactivity of elements close to noble gases.
 - Explains the high stability and inertness of the noble gases.
 - Helps in predicting the properties of p-block elements.
+
+
+---
+
+[⬅ Atomic-Structure19](Atomic-Structure19.md) | [🏠 Index](index.md) | [Atomic-Structure21 ➡](Atomic-Structure21.md)

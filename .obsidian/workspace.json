@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boss_notes/05.4_Atomic_Spectra.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.4_Atomic_Spectra"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boss_notes/05.4_Atomic_Spectra.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05.4_Atomic_Spectra"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "boss_notes/05.4_Atomic_Spectra.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 05.4_Atomic_Spectra"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "boss_notes/05.4_Atomic_Spectra.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05.4_Atomic_Spectra"
+              "title": "Outline of README"
             }
           }
         ]
@@ -185,32 +185,35 @@
   },
   "active": "c5e5bf26f0ea8ee0",
   "lastOpenFiles": [
-    "boss_notes/05.3_Electronic_Configuration_Rules.md",
-    "boss_notes/05.2_Quantum_Numbers.md",
-    "boss_notes/06.2_Types_of_Heat_of_Reaction.md",
-    "boss_notes/06.1_Laws_of_Thermochemistry.md",
-    "boss_notes/03.7_Metallic_Bond_and_Band_Theory.md",
-    "boss_notes/04.1_Vapor_Pressure_Lowering.md",
-    "boss_notes/04.2_Boiling_Point_Elevation.md",
-    "boss_notes/04.3_Freezing_Point_Depression.md",
-    "boss_notes/04.4_Osmotic_Pressure.md",
-    "answers/ClassTests.md",
-    "boss_notes/04.5_Colligative_Numericals.md",
-    "ClassTestQuestions/ClassTest03.md",
-    "ClassTestQuestions/ClassTest02.md",
-    "ClassTestQuestions/ClassTest01.md",
-    "concise_analysis.md",
-    "boss_notes/11.00_Miscellaneous.md",
-    "boss_notes/10.4_Precision_and_Accuracy.md",
-    "boss_notes/10.3_Buffer_Solutions.md",
-    "boss_notes/10.2_pH_and_Ionic_Equilibrium.md",
-    "boss_notes/10.1_Acid_Base_Theories.md",
-    "boss_notes/09.4_Redox_from_Electronic_Config.md",
-    "boss_notes/09.3_Ionization_Potential.md",
-    "boss_notes/09.2_Periodic_Properties.md",
-    "boss_notes/09.1_Modern_Periodic_Law.md",
-    "boss_notes/08.4_Solubility_and_Temperature.md",
-    "boss_notes/08.3_Ideal_vs_Non_Ideal_Solutions.md",
+    "boss_notes/README.md",
+    "ClassTestQuestions/README.md",
+    "answers/README.md",
+    "answers/index.md",
+    "index.md",
+    "generate_detailed_readmes.py",
+    "README.md",
+    "boss_notes/05.4_Atomic_Spectra.md",
+    "ResourcesGivenByTeachers/Thermochemistry/README.md",
+    "ResourcesGivenByTeachers/Solution/README.md",
+    "ResourcesGivenByTeachers/Electrolysis-Electrochemistry/README.md",
+    "ResourcesGivenByTeachers/Colligative-Properties/README.md",
+    "ResourcesGivenByTeachers/Chemical-Kinetics/README.md",
+    "ResourcesGivenByTeachers/Chemical-Equilibrium/README.md",
+    "ResourcesGivenByTeachers/Chemical-Bond/README.md",
+    "ResourcesGivenByTeachers/Atomic-Structure/README.md",
+    "ResourcesGivenByTeachers/Acid-Base/README.md",
+    "ResourcesGivenByTeachers/README.md",
+    "Topicwise-Answers/README.md",
+    "PreviousYearQuestions/README.md",
+    "generate_readmes.py",
+    "ResourcesGivenByTeachers/Thermochemistry/index.md",
+    "ResourcesGivenByTeachers/Solution/index.md",
+    "ResourcesGivenByTeachers/Electrolysis-Electrochemistry/index.md",
+    "ResourcesGivenByTeachers/Colligative-Properties/index.md",
+    "ResourcesGivenByTeachers/Chemical-Kinetics/index.md",
+    "ResourcesGivenByTeachers/Chemical-Equilibrium/index.md",
+    "ResourcesGivenByTeachers/Chemical-Bond/index.md",
+    "add_navigation.py",
     "boss_notes",
     "setup_boss_notes.py",
     "Topicwise-Answers",

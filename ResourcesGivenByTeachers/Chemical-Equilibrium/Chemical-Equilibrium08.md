@@ -1,3 +1,7 @@
+[⬅ Chemical-Equilibrium07](Chemical-Equilibrium07.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Chemical Equilibrium - Slides 36-39
 
 ## Slide 36
@@ -74,3 +78,8 @@ $$P_{NH_3} = 2.24 \times 10^{-3} \text{ atm}$$
 
 **Comment:** The result can be verified by recalculating $K_p$ using the solved value:
 $$K_p = \frac{(2.24 \times 10^{-3})^2}{(0.432)(0.928)^3} \approx 1.45 \times 10^{-5}$$
+
+
+---
+
+[⬅ Chemical-Equilibrium07](Chemical-Equilibrium07.md) | [🏠 Index](index.md) | *(end)*

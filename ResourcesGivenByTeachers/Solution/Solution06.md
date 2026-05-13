@@ -1,3 +1,7 @@
+[⬅ Solution05](Solution05.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 ---
 title: "Solution Lecture Notes"
 author: "Digitized Slides"
@@ -56,3 +60,8 @@ This diagram provides a clear mechanical explanation for the "fizz" in carbonate
 - **Diver Image:** The cartoon illustrates a scuba diver at depth, where the ambient pressure is significantly higher than at the surface.
 - **The "Bends":** The text explains that at depth, nitrogen (which is normally insoluble at surface pressure) dissolves into the blood and tissues. If the diver surfaces too quickly, this nitrogen rapidly comes out of solution as bubbles (just like the soda can diagram shown on the right), causing decompression sickness or "the bends."
 - **Solution:** Diluting the breathing gas with **Helium** (which has much lower solubility in blood than nitrogen) helps prevent this dangerous condition.
+
+
+---
+
+[⬅ Solution05](Solution05.md) | [🏠 Index](index.md) | *(end)*

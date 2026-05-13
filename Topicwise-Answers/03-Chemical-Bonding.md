@@ -1,3 +1,7 @@
+[⬅ 02-Chemical-Equilibrium](02-Chemical-Equilibrium.md) | [🏠 Index](index.md) | [04-Colligative-Properties ➡](04-Colligative-Properties.md)
+
+---
+
 # Chemical Bonding
 **Priority:** 🔴 CRITICAL | **Frequency:** 16 sub-parts across 6/7 exams + CT02
 
@@ -421,3 +425,8 @@ M.O. Configuration: $\sigma 1s^2, \sigma^* 1s^2, \sigma 2s^2, \sigma^* 2s^2, \si
 ---
 
 ---
+
+
+---
+
+[⬅ 02-Chemical-Equilibrium](02-Chemical-Equilibrium.md) | [🏠 Index](index.md) | [04-Colligative-Properties ➡](04-Colligative-Properties.md)

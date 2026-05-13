@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Acid-Base02 ➡](Acid-Base02.md)
+
+---
+
 # Acid-Base Lecture Notes
 
 ## Slide 01: Arrhenius Concept of Water Ion System
@@ -130,3 +134,8 @@ $$B + H_2O \rightleftharpoons BH^+ + OH^-$$
 The base dissociation constant is:
 $$K_b = \frac{[BH^+][OH^-]}{[B]}$$
 **Conclusion:** A larger $K_b$ value indicates a higher concentration of $OH^-$ ions and, therefore, a stronger base.
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Acid-Base02 ➡](Acid-Base02.md)

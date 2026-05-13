@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure07](Atomic-Structure07.md) | [🏠 Index](index.md) | [Atomic-Structure09 ➡](Atomic-Structure09.md)
+
+---
+
 # Atomic Structure: Slides 036-040
 
 ## Slide 36
@@ -92,3 +96,8 @@ The slide provides visual analogies to reinforce the concept of an **Orbit** as 
 - **The Main Road:** A car moving between City P and City Q on a specific road. The text "Repeat its Motion" emphasizes that the car stays on this predefined path.
 - **The Solar System:** The Earth revolving around the Sun. This is labeled as a "FIXED CIRCULAR PATH -> ORBIT", where the motion is repeated over and over.
 - **Conclusion:** These analogies help define an orbit as a non-random, predictable path for an electron.
+
+
+---
+
+[⬅ Atomic-Structure07](Atomic-Structure07.md) | [🏠 Index](index.md) | [Atomic-Structure09 ➡](Atomic-Structure09.md)

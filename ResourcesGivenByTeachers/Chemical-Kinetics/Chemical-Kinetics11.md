@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics10](Chemical-Kinetics10.md) | [🏠 Index](index.md) | [Chemical-Kinetics12 ➡](Chemical-Kinetics12.md)
+
+---
+
 # Chemical Kinetics: Slides 051-055
 
 ## Slide 51
@@ -97,3 +101,8 @@ $$\ln k = -\frac{E}{RT} + a (\text{constant}) \quad \dots (iv)$$
 Or, $$k = A \exp(-E/RT) \quad \dots (v)$$
 
 Here, **$A$** – frequency factor, **$T$** – kelvin temperature and **$R$** – molar gas constant.
+
+
+---
+
+[⬅ Chemical-Kinetics10](Chemical-Kinetics10.md) | [🏠 Index](index.md) | [Chemical-Kinetics12 ➡](Chemical-Kinetics12.md)

@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties10](Colligative-Properties10.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Colligative Properties - Slide 51
 
 ---
@@ -24,3 +28,8 @@ This concluding slide synthesizes the theory of "Anomalous Colligative Propertie
 * **Dissociation:** Explains why salts like NaCl produce double the expected effect. Since colligative properties depend only on particle count, the splitting of one formula unit into two ions directly doubles the magnitude of $\Delta T_b$, $\Delta T_f$, etc.
 * **Association (Dimerization):** Explains the opposite effect. Using acetic acid in a non-polar solvent like benzene as an example, it describes how two molecules can join via hydrogen bonds to act as a single particle. This reduces the particle count by half, leading to experimental values that are lower than theoretical predictions.
 * This slide provides the necessary qualitative foundation for the **Van't Hoff Factor ($i$)**, which quantifies these deviations.
+
+
+---
+
+[⬅ Colligative-Properties10](Colligative-Properties10.md) | [🏠 Index](index.md) | *(end)*

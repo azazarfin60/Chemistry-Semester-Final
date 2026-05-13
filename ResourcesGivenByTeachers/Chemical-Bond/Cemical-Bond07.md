@@ -1,3 +1,7 @@
+[⬅ Cemical-Bond06](Cemical-Bond06.md) | [🏠 Index](index.md) | [Cemical-Bond08 ➡](Cemical-Bond08.md)
+
+---
+
 # Chemical Bond - Slides 031-035
 
 ## Slide 31
@@ -77,3 +81,8 @@ Molecular orbitals are formed by the interference of electron waves:
 *   **$N_2^-$:** $(KK)(KK) (\pi 2p_x^2 = \pi 2p_y^2) \sigma 2p_z^2 \pi^* 2p_x^1$
 *   **$O_2$:** $(\sigma 1s^2 \sigma^* 1s^2) (\sigma 2s^2 \sigma^* 2s^2) \sigma 2p_z^2 (\pi 2p_x^2 = \pi 2p_y^2) (\pi^* 2p_x^1 = \pi^* 2p_y^1)$
 *   **$O_2$ Magnetic Nature:** **Paramagnetic** (Due to two unpaired electrons in antibonding $\pi^*$ orbitals).
+
+
+---
+
+[⬅ Cemical-Bond06](Cemical-Bond06.md) | [🏠 Index](index.md) | [Cemical-Bond08 ➡](Cemical-Bond08.md)

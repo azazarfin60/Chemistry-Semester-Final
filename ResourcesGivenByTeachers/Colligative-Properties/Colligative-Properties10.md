@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties09](Colligative-Properties09.md) | [🏠 Index](index.md) | [Colligative-Properties11 ➡](Colligative-Properties11.md)
+
+---
+
 # Colligative Properties - Slides 46-50
 
 ---
@@ -108,3 +112,8 @@ This slide introduces the **Van't Hoff Factor ($i$)** conceptually, explaining w
     * The left image shows an ionic crystal (NaCl) being attacked by water molecules and dissociating into individual $Na^+$ and $Cl^-$ ions. This effectively doubles the number of particles.
     * The right image shows methanol molecules dispersed in water but remaining intact as single neutral units.
 * **Pedagogical Impact:** It explains the "anomalous" results often seen in experiments where the observed colligative effect is a multiple of the expected theoretical value.
+
+
+---
+
+[⬅ Colligative-Properties09](Colligative-Properties09.md) | [🏠 Index](index.md) | [Colligative-Properties11 ➡](Colligative-Properties11.md)

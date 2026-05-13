@@ -1,3 +1,7 @@
+[⬅ 09-Periodic-Table](09-Periodic-Table.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Acid Base Buffer
 **Priority:** 🟡 MEDIUM | **Frequency:** 7 sub-parts across 3/7 exams
 
@@ -197,3 +201,8 @@ Proposed by G.N. Lewis (1923), this is the most comprehensive theory because it 
 
 ---
 
+
+
+---
+
+[⬅ 09-Periodic-Table](09-Periodic-Table.md) | [🏠 Index](index.md) | *(end)*

@@ -1,3 +1,7 @@
+[⬅ Acid-Base03](Acid-Base03.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Acid-Base Lecture Notes (Continued)
 
 ## Slide 16: Practice Problems and Buffer Solutions
@@ -23,3 +27,8 @@
 10. **Effect of Acid Addition on Buffer:** The $pH$ of a buffer solution containing $0.5$ mole/liter $CH_3COOH$ and $0.5$ mole/liter $CH_3COONa$ is $4.76$. What will be the $pH$ of this solution after $0.1$ mole/liter $HCl$ has been added to the buffer? (Assume volume is unchanged, $K_a = 1.75 \times 10^{-5}$).
 
 11. **Effect of Base Addition on Buffer:** A liter of solution containing $0.1$ mole of $CH_3COOH$ and $0.1$ mole of $CH_3COONa$ provides a buffer of $pH$ $4.74$. Calculate the $pH$ of the solution after the addition of $0.02$ mole $NaOH$. ($K_a = 1.8 \times 10^{-5}$).
+
+
+---
+
+[⬅ Acid-Base03](Acid-Base03.md) | [🏠 Index](index.md) | *(end)*

@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [02-Chemical-Equilibrium ➡](02-Chemical-Equilibrium.md)
+
+---
+
 # Chemical Kinetics
 **Priority:** 🔴 CRITICAL | **Frequency:** 25 sub-parts across 7/7 exams + CT03
 
@@ -624,3 +628,8 @@ Because the rate constant ($k$) is a constant at a given temperature, and the fr
 ---
 
 ---
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [02-Chemical-Equilibrium ➡](02-Chemical-Equilibrium.md)

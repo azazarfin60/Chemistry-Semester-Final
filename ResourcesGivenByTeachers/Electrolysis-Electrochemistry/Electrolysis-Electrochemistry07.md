@@ -1,3 +1,7 @@
+[⬅ Electrolysis-Electrochemistry06](Electrolysis-Electrochemistry06.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry08 ➡](Electrolysis-Electrochemistry08.md)
+
+---
+
 # Electrolysis and Electrochemistry - Slides 031-035
 
 ---
@@ -135,3 +139,8 @@ $$\text{pH} = \frac{E_{\text{cell}} - E_{\text{SCE}} + E_G^\circ}{0.0591} \text{
 $$\text{pH} = \frac{E_{\text{SCE}} - E_G^\circ - E_{\text{cell}}}{0.0591}$$
 
 **Slide Number: 35**
+
+
+---
+
+[⬅ Electrolysis-Electrochemistry06](Electrolysis-Electrochemistry06.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry08 ➡](Electrolysis-Electrochemistry08.md)

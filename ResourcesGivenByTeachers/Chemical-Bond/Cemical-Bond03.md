@@ -1,3 +1,7 @@
+[⬅ Cemical-Bond02](Cemical-Bond02.md) | [🏠 Index](index.md) | [Cemical-Bond04 ➡](Cemical-Bond04.md)
+
+---
+
 # Chemical Bond - Slides 011-015
 
 ## Slide 11
@@ -78,3 +82,8 @@ As the electron cloud around the positive center oscillates, it becomes more den
 *   The number of covalent bonds equals the number of unpaired electrons in the valence shell.
 *   Covalent bonds have **directional characteristics** (except for s-orbitals which are spherically symmetrical).
 *   **Molecular Geometry:** Decided by the directional orientation of overlapping orbitals (p, d, f). Orbitals orient themselves to minimize electronic repulsion and maximize symmetry (staying as far apart as possible).
+
+
+---
+
+[⬅ Cemical-Bond02](Cemical-Bond02.md) | [🏠 Index](index.md) | [Cemical-Bond04 ➡](Cemical-Bond04.md)

@@ -1,3 +1,7 @@
+[⬅ Chemical-Equilibrium02](Chemical-Equilibrium02.md) | [🏠 Index](index.md) | [Chemical-Equilibrium04 ➡](Chemical-Equilibrium04.md)
+
+---
+
 # Chemical Equilibrium - Slides 11-15
 
 ## Slide 11
@@ -105,3 +109,8 @@ The relationship between $K_p$ and $K_c$ is $K_p = K_c(RT)^{\Delta n} = K_c(RT)$
 
 (b) $$K_c = \frac{[Hg_2^{2+}]}{[Hg^{2+}]}$$
 In this case, it's not appropriate to write an expression for $K_p$ because none of the reactants and products is a gas.
+
+
+---
+
+[⬅ Chemical-Equilibrium02](Chemical-Equilibrium02.md) | [🏠 Index](index.md) | [Chemical-Equilibrium04 ➡](Chemical-Equilibrium04.md)

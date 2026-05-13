@@ -1,3 +1,7 @@
+[⬅ Electrolysis-Electrochemistry05](Electrolysis-Electrochemistry05.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry07 ➡](Electrolysis-Electrochemistry07.md)
+
+---
+
 # Electrolysis and Electrochemistry - Slides 026-030
 
 ---
@@ -106,3 +110,8 @@ $$E_{\text{measured}} = E_R - E_L$$
 The diagram (reprinted from Slide 26) shows the components of the SHE, which serves as the primary reference with a potential defined as exactly 0.00 V.
 
 **Slide Number: 30**
+
+
+---
+
+[⬅ Electrolysis-Electrochemistry05](Electrolysis-Electrochemistry05.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry07 ➡](Electrolysis-Electrochemistry07.md)

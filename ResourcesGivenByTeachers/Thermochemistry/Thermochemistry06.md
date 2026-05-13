@@ -1,3 +1,7 @@
+[⬅ Thermochemistry05](Thermochemistry05.md) | [🏠 Index](index.md) | [Thermochemistry07 ➡](Thermochemistry07.md)
+
+---
+
 # Thermochemistry - Page 16
 
 ## 286 | 8 PHYSICAL CHEMISTRY
@@ -140,3 +144,8 @@ It is obvious from the above examples that by the addition of a series of chemic
 > or $K(s) + \frac{1}{2} H_2(g) + \frac{1}{2} O_2(g) \longrightarrow KOH(s) \quad \Delta H = -102.5 \text{ kcal}$
 >
 > Thus heat of formation of KOH is **$-102.5 \text{ kcal}$**
+
+
+---
+
+[⬅ Thermochemistry05](Thermochemistry05.md) | [🏠 Index](index.md) | [Thermochemistry07 ➡](Thermochemistry07.md)

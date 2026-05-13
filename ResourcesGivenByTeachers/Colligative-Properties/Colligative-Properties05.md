@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties04](Colligative-Properties04.md) | [🏠 Index](index.md) | [Colligative-Properties06 ➡](Colligative-Properties06.md)
+
+---
+
 # Colligative Properties - Slides 21-25
 
 ---
@@ -131,3 +135,8 @@ $M_2 = 158.98 \text{ g mol}^{-1}$
 This slide provides another worked example, this time using benzene as the solvent. 
 * It demonstrates an alternative way to handle units: converting the solvent mass ($W_1$) to kilograms (0.1 Kg) before plugging it into the formula, rather than using the "1000" factor within the formula. 
 * The final result, $158.98 \text{ g/mol}$, is calculated with high precision, reflecting the typical accuracy expected in ebullioscopic determinations.
+
+
+---
+
+[⬅ Colligative-Properties04](Colligative-Properties04.md) | [🏠 Index](index.md) | [Colligative-Properties06 ➡](Colligative-Properties06.md)

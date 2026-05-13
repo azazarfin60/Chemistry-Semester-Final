@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Atomic-Structure02 ➡](Atomic-Structure02.md)
+
+---
+
 # Atomic Structure: Slides 001-005
 
 ## Slide 1
@@ -69,3 +73,8 @@ The diagram illustrates the "Diminishing Scale" of matter from the macroscopic l
 4. **Nucleus with Electrons:** Atoms consist of a nucleus surrounded by electrons.
 5. **Protons, Neutron, Nucleons:** The nucleus is composed of protons and neutrons.
 6. **Elementary Particles:** Protons and neutrons are further composed of fundamental particles such as Fermions, Leptons, Quarks, Bosons (labeled as Basons), Gluons, and Muons.
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Atomic-Structure02 ➡](Atomic-Structure02.md)

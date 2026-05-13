@@ -1,3 +1,7 @@
+[⬅ Chemical-Equilibrium04](Chemical-Equilibrium04.md) | [🏠 Index](index.md) | [Chemical-Equilibrium06 ➡](Chemical-Equilibrium06.md)
+
+---
+
 # Chemical Equilibrium - Slides 21-25
 
 ## Slide 21
@@ -118,3 +122,8 @@ $$K_c = [Ag^+][Cl^-]$$
 Since $PCl_3$ is a liquid and $P_4$ is a solid:
 $$K_c = \frac{1}{[Cl_2]^6}$$
 $$K_p = \frac{1}{P_{Cl_2}^6}$$
+
+
+---
+
+[⬅ Chemical-Equilibrium04](Chemical-Equilibrium04.md) | [🏠 Index](index.md) | [Chemical-Equilibrium06 ➡](Chemical-Equilibrium06.md)

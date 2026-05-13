@@ -1,3 +1,7 @@
+[⬅ 04-Colligative-Properties](04-Colligative-Properties.md) | [🏠 Index](index.md) | [06-Thermochemistry ➡](06-Thermochemistry.md)
+
+---
+
 # Atomic Structure
 **Priority:** 🟠 HIGH | **Frequency:** 14 sub-parts across 5/7 exams
 
@@ -328,3 +332,8 @@ The magnetic quantum number ($m_l$) is the third quantum number derived from the
 
 ---
 
+
+
+---
+
+[⬅ 04-Colligative-Properties](04-Colligative-Properties.md) | [🏠 Index](index.md) | [06-Thermochemistry ➡](06-Thermochemistry.md)

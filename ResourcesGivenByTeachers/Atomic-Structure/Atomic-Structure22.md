@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure21](Atomic-Structure21.md) | [🏠 Index](index.md) | [Atomic-Structure23 ➡](Atomic-Structure23.md)
+
+---
+
 # Atomic Structure: Slides 106-110
 
 ## Slide 106
@@ -74,3 +78,8 @@ On the basis of Planck’s quantum theory, Einstein derived an equation for the 
 - Part of this energy is used by the electron to come out of the surface of the metal and the remaining part is the kinetic energy with which the electron is emitted.
 - The minimum energy required by an electron to come out of the surface of the metal is called the **photoelectric work function ($\phi_0$)** of the metal.
 - The remaining energy **($h\nu - \phi_0$)** is the maximum kinetic energy of the electron with which a photoelectron will be ejected.
+
+
+---
+
+[⬅ Atomic-Structure21](Atomic-Structure21.md) | [🏠 Index](index.md) | [Atomic-Structure23 ➡](Atomic-Structure23.md)

@@ -1,3 +1,7 @@
+[⬅ Chemical-Equilibrium01](Chemical-Equilibrium01.md) | [🏠 Index](index.md) | [Chemical-Equilibrium03 ➡](Chemical-Equilibrium03.md)
+
+---
+
 # Chemical Equilibrium - Slides 06-10
 
 ## Slide 06
@@ -107,3 +111,8 @@ $$K_{eq} = \frac{[C]^c [D]^d}{[A]^a [B]^b}$$
    - **Before (Starting conditions)**: Shows a separation between reactants ($A$ - blue spheres) and products ($B$ - purple spheres). 
    - **After (At equilibrium)**: Shows a mixture of both types with green arrows indicating the continuous conversion of $A$ to $B$ and $B$ to $A$.
    - **Key takeaway**: The reaction is in **dynamic equilibrium** because conversion continues in both directions at equal rates.
+
+
+---
+
+[⬅ Chemical-Equilibrium01](Chemical-Equilibrium01.md) | [🏠 Index](index.md) | [Chemical-Equilibrium03 ➡](Chemical-Equilibrium03.md)

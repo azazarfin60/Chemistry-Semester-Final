@@ -1,3 +1,7 @@
+[⬅ Chemical-Equilibrium03](Chemical-Equilibrium03.md) | [🏠 Index](index.md) | [Chemical-Equilibrium05 ➡](Chemical-Equilibrium05.md)
+
+---
+
 # Chemical Equilibrium - Slides 16-20
 
 ## Slide 16
@@ -116,3 +120,8 @@ Let $P$ be the total pressure at equilibrium, then:
 
 $$K_p = \frac{p_{PCl_3} \times p_{Cl_2}}{p_{PCl_5}} = \frac{\frac{\alpha P}{(1+\alpha)} \times \frac{\alpha P}{(1+\alpha)}}{\frac{(1-\alpha)P}{(1+\alpha)}}$$
 $$K_p = \frac{\alpha^2}{(1-\alpha)(1+\alpha)} P = \frac{\alpha^2}{1-\alpha^2} P$$
+
+
+---
+
+[⬅ Chemical-Equilibrium03](Chemical-Equilibrium03.md) | [🏠 Index](index.md) | [Chemical-Equilibrium05 ➡](Chemical-Equilibrium05.md)

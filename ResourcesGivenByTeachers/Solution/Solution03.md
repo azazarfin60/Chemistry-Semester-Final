@@ -1,3 +1,7 @@
+[⬅ Solution02](Solution02.md) | [🏠 Index](index.md) | [Solution04 ➡](Solution04.md)
+
+---
+
 ---
 title: "Solution Lecture Notes"
 author: "Digitized Slides"
@@ -111,3 +115,8 @@ This slide poses a conceptual "Why" question.
     - $m = \frac{0.1 \text{ mol}}{0.1 \text{ kg}} = 1 \text{ mol kg}^{-1}$
 
 **Ans:** The molality of solution is $1 \text{ mol kg}^{-1}$ or 1 m.
+
+
+---
+
+[⬅ Solution02](Solution02.md) | [🏠 Index](index.md) | [Solution04 ➡](Solution04.md)

@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics02](Chemical-Kinetics02.md) | [🏠 Index](index.md) | [Chemical-Kinetics04 ➡](Chemical-Kinetics04.md)
+
+---
+
 # Chemical Kinetics: Slides 011-015
 
 ## Slide 11
@@ -103,3 +107,8 @@ This visual demonstrates the geometric principle of how surface area increases t
 5. **Divided into plates:** $V = 1 \text{ m}^3$, $A = 36 \text{ m}^2$
 6. **Powdered Form:** $V = 1 \text{ m}^3$, $A = ?????$
 The progression shows that as the particle size decreases, the exposed surface area ($A$) grows dramatically, which provides more sites for collisions and thus increases the reaction rate.
+
+
+---
+
+[⬅ Chemical-Kinetics02](Chemical-Kinetics02.md) | [🏠 Index](index.md) | [Chemical-Kinetics04 ➡](Chemical-Kinetics04.md)

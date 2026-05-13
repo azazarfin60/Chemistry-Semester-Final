@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure16](Atomic-Structure16.md) | [🏠 Index](index.md) | [Atomic-Structure18 ➡](Atomic-Structure18.md)
+
+---
+
 # Atomic Structure: Slides 081-085
 
 ## Slide 81
@@ -85,3 +89,8 @@ From the description given in the table, it follows that the energies of the var
 - The Aufbau Principle is extremely effective for the ground state of the atoms up to the first 18 elements, but it is less effective for the remaining 100 electrons after that.
 - Similar to the d and f block elements, which add stability to the atoms whether they are filled or partially filled, do not always follow the Aufbau Principle.
 - When an ion is to be formed, Aufbau principle doesn’t tell which electrons are to be removed.
+
+
+---
+
+[⬅ Atomic-Structure16](Atomic-Structure16.md) | [🏠 Index](index.md) | [Atomic-Structure18 ➡](Atomic-Structure18.md)

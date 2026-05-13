@@ -1,3 +1,7 @@
+[⬅ 01-Chemical-Kinetics](01-Chemical-Kinetics.md) | [🏠 Index](index.md) | [03-Chemical-Bonding ➡](03-Chemical-Bonding.md)
+
+---
+
 # Chemical Equilibrium
 **Priority:** 🔴 CRITICAL | **Frequency:** 17 sub-parts across 7/7 exams
 
@@ -526,3 +530,8 @@ The state of chemical equilibrium possesses several distinct, fundamental charac
 6.  **Effect of a Catalyst:** A positive catalyst alters the activation energy, speeding up *both* the forward and backward reactions by the exact same proportion. It helps the system attain equilibrium much faster, but it absolutely does not change the final equilibrium concentrations or the value of the equilibrium constant.
 
 ---
+
+
+---
+
+[⬅ 01-Chemical-Kinetics](01-Chemical-Kinetics.md) | [🏠 Index](index.md) | [03-Chemical-Bonding ➡](03-Chemical-Bonding.md)

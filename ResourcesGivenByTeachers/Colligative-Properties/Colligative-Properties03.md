@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties02](Colligative-Properties02.md) | [🏠 Index](index.md) | [Colligative-Properties04 ➡](Colligative-Properties04.md)
+
+---
+
 # Colligative Properties - Slides 11-15
 
 ---
@@ -135,3 +139,8 @@ This slide is particularly important as it introduces the effect of **electrolyt
 * The calculation explicitly accounts for this by adding both ion counts to the denominator of the mole fraction equation. 
 * This demonstrates why electrolyte solutes have a more significant impact on vapor pressure lowering than non-electrolytes of the same molar concentration.
 * Note: The chemical formula $C_6H_{12}O_6$ appears in the question text but seems to be a typo or artifact, as the solution focuses entirely on $CaCl_2$.
+
+
+---
+
+[⬅ Colligative-Properties02](Colligative-Properties02.md) | [🏠 Index](index.md) | [Colligative-Properties04 ➡](Colligative-Properties04.md)

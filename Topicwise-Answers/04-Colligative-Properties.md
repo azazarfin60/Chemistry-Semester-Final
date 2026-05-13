@@ -1,3 +1,7 @@
+[⬅ 03-Chemical-Bonding](03-Chemical-Bonding.md) | [🏠 Index](index.md) | [05-Atomic-Structure ➡](05-Atomic-Structure.md)
+
+---
+
 # Colligative Properties
 **Priority:** 🟠 HIGH | **Frequency:** 15 sub-parts across 5/7 exams
 
@@ -365,3 +369,8 @@ According to the van 't Hoff equation for dilute solutions, **$\pi = CRT$** (whe
 *Significance:* Osmotic pressure is uniquely valuable among colligative properties because its magnitude is relatively large even for extremely dilute solutions. Therefore, it is the primary and most accurate method used to experimentally determine the enormous molecular weights of macromolecules, polymers, and biological proteins that cannot withstand boiling or freezing.
 
 ---
+
+
+---
+
+[⬅ 03-Chemical-Bonding](03-Chemical-Bonding.md) | [🏠 Index](index.md) | [05-Atomic-Structure ➡](05-Atomic-Structure.md)

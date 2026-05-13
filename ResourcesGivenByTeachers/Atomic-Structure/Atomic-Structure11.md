@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure10](Atomic-Structure10.md) | [🏠 Index](index.md) | [Atomic-Structure12 ➡](Atomic-Structure12.md)
+
+---
+
 # Atomic Structure: Slides 051-055
 
 ## Slide 51
@@ -89,3 +93,8 @@ The four types of Quantum Numbers are listed below:
 2. **Azimuthal Quantum Number**
 3. **Magnetic Quantum Number**
 4. **Spin Quantum Number**
+
+
+---
+
+[⬅ Atomic-Structure10](Atomic-Structure10.md) | [🏠 Index](index.md) | [Atomic-Structure12 ➡](Atomic-Structure12.md)

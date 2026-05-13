@@ -1,3 +1,7 @@
+[⬅ Cemical-Bond03](Cemical-Bond03.md) | [🏠 Index](index.md) | [Cemical-Bond05 ➡](Cemical-Bond05.md)
+
+---
+
 # Chemical Bond - Slides 016-020
 
 ## Slide 16
@@ -89,3 +93,8 @@ The process of mixing pure atomic orbitals of nearly equal energy on an atom to 
 4.  Hybrid orbitals differ in their spatial orientation.
 5.  Hybridization allows for the prediction of molecular geometry and bond angles.
 6.  The spatial orientation is determined by the number of mixed orbitals and the specific axes ($x, y, z$) of the original pure orbitals.
+
+
+---
+
+[⬅ Cemical-Bond03](Cemical-Bond03.md) | [🏠 Index](index.md) | [Cemical-Bond05 ➡](Cemical-Bond05.md)

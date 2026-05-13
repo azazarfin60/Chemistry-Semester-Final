@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties03](Colligative-Properties03.md) | [🏠 Index](index.md) | [Colligative-Properties05 ➡](Colligative-Properties05.md)
+
+---
+
 # Colligative Properties - Slides 16-20
 
 ---
@@ -136,3 +140,8 @@ This slide derives the final equation for boiling point elevation.
 * It combines the proportionality found in Slide 19 with Raoult's Law ($x_2$). 
 * It shows the transition from mole fraction ($x_2$) to molality ($C_m$) by incorporating the mass and molar mass terms. 
 * The final equation $\Delta T_b = K_b \times C_m$ is the standard form used in chemistry to calculate boiling point changes, with $K_b$ being a characteristic property of the solvent.
+
+
+---
+
+[⬅ Colligative-Properties03](Colligative-Properties03.md) | [🏠 Index](index.md) | [Colligative-Properties05 ➡](Colligative-Properties05.md)

@@ -1,3 +1,7 @@
+[⬅ Chemical-Equilibrium06](Chemical-Equilibrium06.md) | [🏠 Index](index.md) | [Chemical-Equilibrium08 ➡](Chemical-Equilibrium08.md)
+
+---
+
 # Chemical Equilibrium - Slides 31-35
 
 ## Slide 31
@@ -80,3 +84,8 @@ The apparatus visualizes the engineering application of Le Châtelier's Principl
 - **Continuous Removal**: Ammonia is cooled in a refrigerated unit and removed as a liquid. According to Le Châtelier's Principle, removing a product ($NH_3$) shifts the equilibrium to the **right**, promoting further production.
 - **Heat Management**: Heat exchangers and preheaters are used to maintain the optimal temperature range ($460\text{--}550 ^\circ C$) for the catalyst while conserving energy.
 - **Compression**: High pressure is maintained to favor the side with fewer gas moles (2 moles of $NH_3$ vs 4 moles of reactants).
+
+
+---
+
+[⬅ Chemical-Equilibrium06](Chemical-Equilibrium06.md) | [🏠 Index](index.md) | [Chemical-Equilibrium08 ➡](Chemical-Equilibrium08.md)

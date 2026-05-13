@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics01](Chemical-Kinetics01.md) | [🏠 Index](index.md) | [Chemical-Kinetics03 ➡](Chemical-Kinetics03.md)
+
+---
+
 # Chemical Kinetics: Slides 006-010
 
 ## Slide 6
@@ -94,3 +98,8 @@ $$2N_2O_5(g) \rightarrow 4NO_2(g) + O_2(g)$$
 
 > **reactants decrease with time**
 > **products increase with time**
+
+
+---
+
+[⬅ Chemical-Kinetics01](Chemical-Kinetics01.md) | [🏠 Index](index.md) | [Chemical-Kinetics03 ➡](Chemical-Kinetics03.md)

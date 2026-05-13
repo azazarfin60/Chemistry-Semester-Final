@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure24](Atomic-Structure24.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Atomic Structure: Slides 121-122
 
 ## Slide 121
@@ -42,3 +46,8 @@ $\lambda = 6.626 \times 10^{-34} J \cdot s / 4.84 \times 10^{-24} kg \cdot m/sec
 **$\lambda = 1.37 \AA$**
 
 The wavelength of an electron moving $5.31 \times 10^6 m/sec$ is $1.37 \times 10^{-10} m$ or $1.37 \AA$.
+
+
+---
+
+[⬅ Atomic-Structure24](Atomic-Structure24.md) | [🏠 Index](index.md) | *(end)*

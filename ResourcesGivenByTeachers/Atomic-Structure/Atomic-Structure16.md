@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure15](Atomic-Structure15.md) | [🏠 Index](index.md) | [Atomic-Structure17 ➡](Atomic-Structure17.md)
+
+---
+
 # Atomic Structure: Slides 076-080
 
 ## Slide 76
@@ -84,3 +88,8 @@ The Electronic Configuration of Elements refers to the arrangement of electrons 
 
 **The (n + l) Rule:**
 > The energy of an orbital depends on the sum of the values of the principal quantum number (n) and the azimuthal sum number (l). This is called the **(n + l) rule**.
+
+
+---
+
+[⬅ Atomic-Structure15](Atomic-Structure15.md) | [🏠 Index](index.md) | [Atomic-Structure17 ➡](Atomic-Structure17.md)

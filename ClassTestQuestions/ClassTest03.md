@@ -1,3 +1,7 @@
+[⬅ ClassTest02](ClassTest02.md) | [🏠 Index](index.md) | [ClassTest04 ➡](ClassTest04.md)
+
+---
+
 # Class Test- II
 **Chem 2117 (ECE Series- 23)**
 
@@ -10,3 +14,8 @@
 **Q.3** Derive an expression for the rate constant of a first order reaction. **(5)**
 
 **Q.4** Show that the time required to complete a given fraction of reaction is independent of initial concentration of reactant. **(3)**
+
+
+---
+
+[⬅ ClassTest02](ClassTest02.md) | [🏠 Index](index.md) | [ClassTest04 ➡](ClassTest04.md)

@@ -1,3 +1,7 @@
+[⬅ Cemical-Bond07](Cemical-Bond07.md) | [🏠 Index](index.md) | *(end)*
+
+---
+
 # Chemical Bond - Slide 036
 
 ## Valence-Shell Electron Pair Repulsion (VSEPR) Theory
@@ -39,3 +43,8 @@ When a molecule contains lone pairs, the bonding electron pairs are pushed close
 *   **Trigonal Bipyramidal:** Shows a central atom with three equatorial bonds in a plane and two axial bonds perpendicular to the plane.
 *   **Octahedral:** Shows a central atom (e.g., Sulfur) with six equivalent bonds directed toward the corners of an octahedron.
 *   **Pentagonal Bipyramidal:** Shows a central atom with five equatorial bonds in a pentagonal plane and two axial bonds.
+
+
+---
+
+[⬅ Cemical-Bond07](Cemical-Bond07.md) | [🏠 Index](index.md) | *(end)*

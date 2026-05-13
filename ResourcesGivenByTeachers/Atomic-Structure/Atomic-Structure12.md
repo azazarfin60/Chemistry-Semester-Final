@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure11](Atomic-Structure11.md) | [🏠 Index](index.md) | [Atomic-Structure13 ➡](Atomic-Structure13.md)
+
+---
+
 # Atomic Structure: Slides 056-060
 
 ## Slide 56
@@ -95,3 +99,8 @@ iv) It signifies the direction of spin of an electron
 | | m = -1 | $f_{xyz}$ | |
 | | m = -2 | $f_{yz^2}$ | |
 | | m = -3 | $f_{y(3x^2-y^2)}$ | |
+
+
+---
+
+[⬅ Atomic-Structure11](Atomic-Structure11.md) | [🏠 Index](index.md) | [Atomic-Structure13 ➡](Atomic-Structure13.md)

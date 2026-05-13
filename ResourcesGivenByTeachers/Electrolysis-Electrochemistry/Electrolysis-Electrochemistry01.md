@@ -1,3 +1,7 @@
+*(start)* | [🏠 Index](index.md) | [Electrolysis-Electrochemistry02 ➡](Electrolysis-Electrochemistry02.md)
+
+---
+
 # Electrolysis and Electrochemistry - Slides 001-005
 
 ---
@@ -126,3 +130,8 @@ The second law of electrolysis helps to calculate:
 *   0.1978 g of copper is deposited by a current of 0.2 ampere in 50 minutes. What is the electrochemical equivalent of copper? (Exercise)
 
 **Slide Number: 5**
+
+
+---
+
+*(start)* | [🏠 Index](index.md) | [Electrolysis-Electrochemistry02 ➡](Electrolysis-Electrochemistry02.md)

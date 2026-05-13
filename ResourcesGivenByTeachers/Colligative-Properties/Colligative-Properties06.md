@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties05](Colligative-Properties05.md) | [🏠 Index](index.md) | [Colligative-Properties07 ➡](Colligative-Properties07.md)
+
+---
+
 # Colligative Properties - Slides 26-30
 
 ---
@@ -136,3 +140,8 @@ $K_f$ = Proportionality constant known as molal depression constant.
 
 ### Diagram Analysis
 This slide summarizes the final cryoscopic equation. It explicitly shows how molality ($C_m$) is calculated using the "1000" factor (to account for solvent mass in grams) and substituted into the proportionality. This result is the standard equation used in cryoscopy for molar mass determination of unknown solutes.
+
+
+---
+
+[⬅ Colligative-Properties05](Colligative-Properties05.md) | [🏠 Index](index.md) | [Colligative-Properties07 ➡](Colligative-Properties07.md)

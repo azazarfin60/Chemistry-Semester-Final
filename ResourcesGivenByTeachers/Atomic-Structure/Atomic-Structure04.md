@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure03](Atomic-Structure03.md) | [🏠 Index](index.md) | [Atomic-Structure05 ➡](Atomic-Structure05.md)
+
+---
+
 # Atomic Structure: Slides 016-020
 
 ## Slide 16
@@ -61,3 +65,8 @@ In 1915, Niels Bohr proposed Bohr's Atomic Model. This model was a modification 
 
 - **The circular orbits** are numbered as 1,2,3,4 or designated as K, L, M, N shells. These numbers are referred as principal quantum numbers (n). K shell (n = 1) is closer to the nucleus and is associated with lowest energy. L, M, N are the next higher energy levels. As the distance from the nucleus increases, the energy of the shells also increase.
 - **An electron can revolve** around the nucleus in an atom only in those stable orbits whose angular momentum is the integral multiple of $h/2\pi$, where h is the Planck's constant. If the mass of the electron be m and it is revolving with velocity v in an orbit of radius r, then its angular momentum will be mvr. According to Bohr's postulate, **$mvr = nh/2\pi$**. Here, n is integer 1,2,3..... known as a principal quantum number and h is Planck's constant ($6.67 \times 10^{-34}$ J-s)
+
+
+---
+
+[⬅ Atomic-Structure03](Atomic-Structure03.md) | [🏠 Index](index.md) | [Atomic-Structure05 ➡](Atomic-Structure05.md)

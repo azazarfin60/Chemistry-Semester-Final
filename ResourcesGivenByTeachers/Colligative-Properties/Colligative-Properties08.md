@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties07](Colligative-Properties07.md) | [🏠 Index](index.md) | [Colligative-Properties09 ➡](Colligative-Properties09.md)
+
+---
+
 # Colligative Properties - Slides 36-40
 
 ---
@@ -105,3 +109,8 @@ Eq- (i) is the results of Vant-Hoff’s theory. From the equation, it can also b
 This slide introduces the **Vant-Hoff Equation**, which is mathematically analogous to the Ideal Gas Law ($PV = nRT$). 
 * **Conceptual Link:** It establishes the profound link between dissolved solutes and gaseous particles, suggesting that in dilute solutions, the identity of the solute is less important than the number of particles (moles).
 * **Variables:** It clearly defines the units and variables, including the use of Absolute Temperature (Kelvin) and the universal gas constant (R). This equation forms the basis for all quantitative osmotic calculations.
+
+
+---
+
+[⬅ Colligative-Properties07](Colligative-Properties07.md) | [🏠 Index](index.md) | [Colligative-Properties09 ➡](Colligative-Properties09.md)

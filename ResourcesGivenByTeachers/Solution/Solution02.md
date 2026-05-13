@@ -1,3 +1,7 @@
+[⬅ Solution01](Solution01.md) | [🏠 Index](index.md) | [Solution03 ➡](Solution03.md)
+
+---
+
 ---
 title: "Solution Lecture Notes"
 author: "Digitized Slides"
@@ -88,3 +92,8 @@ This comprehensive table provides a point-by-point comparison between ideal and 
 1. Normality is defined as the gram equivalent present in the per liter of the solution.
 2. **Formula:** $\text{Normality} = \frac{\text{mass of solute (g)}}{\text{equivalent mass} \times \text{volume of the solution (L)}}$
 3. **Unit:** $\text{g-eq L}^{-1}$
+
+
+---
+
+[⬅ Solution01](Solution01.md) | [🏠 Index](index.md) | [Solution03 ➡](Solution03.md)

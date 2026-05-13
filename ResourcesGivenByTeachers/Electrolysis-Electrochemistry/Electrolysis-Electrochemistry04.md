@@ -1,3 +1,7 @@
+[⬅ Electrolysis-Electrochemistry03](Electrolysis-Electrochemistry03.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry05 ➡](Electrolysis-Electrochemistry05.md)
+
+---
+
 # Electrolysis and Electrochemistry - Slides 016-020
 
 ---
@@ -109,3 +113,8 @@ The diagram illustrates the relationship between specific and equivalent conduct
 *   **Core Idea:** Equivalent conductance is simply the sum of the conductances of all individual unit volumes that together contain exactly one gram-equivalent of the solute.
 
 **Slide Number: 20**
+
+
+---
+
+[⬅ Electrolysis-Electrochemistry03](Electrolysis-Electrochemistry03.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry05 ➡](Electrolysis-Electrochemistry05.md)

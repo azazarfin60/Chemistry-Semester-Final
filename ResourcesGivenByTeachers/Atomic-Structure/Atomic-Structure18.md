@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure17](Atomic-Structure17.md) | [🏠 Index](index.md) | [Atomic-Structure19 ➡](Atomic-Structure19.md)
+
+---
+
 # Atomic Structure: Slides 086-090
 
 ## Slide 86
@@ -85,3 +89,8 @@ No two electrons in an atom can have the **same four quantum numbers.**
     - **Hydrogen:** One electron in $1s$.
     - **Helium:** Two paired electrons ($\uparrow\downarrow$) in $1s$.
     - **Lithium:** Two paired electrons in $1s$, and one electron in $2s$.
+
+
+---
+
+[⬅ Atomic-Structure17](Atomic-Structure17.md) | [🏠 Index](index.md) | [Atomic-Structure19 ➡](Atomic-Structure19.md)

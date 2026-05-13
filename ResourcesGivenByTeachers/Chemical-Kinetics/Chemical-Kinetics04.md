@@ -1,3 +1,7 @@
+[⬅ Chemical-Kinetics03](Chemical-Kinetics03.md) | [🏠 Index](index.md) | [Chemical-Kinetics05 ➡](Chemical-Kinetics05.md)
+
+---
+
 # Chemical Kinetics: Slides 016-020
 
 ## Slide 16
@@ -114,3 +118,8 @@ $$[A] = [A_0] - kt$$
 **Diagram Analysis:**
 * **Top Graph (Rate vs. Time):** Shows a horizontal line at height $k$ with **Slope = 0**, confirming the rate is constant over time.
 * **Bottom Graph (Concentration vs. Time):** Shows a linear decrease in concentration from $[A_0]$, where the slope of the line is $-k$.
+
+
+---
+
+[⬅ Chemical-Kinetics03](Chemical-Kinetics03.md) | [🏠 Index](index.md) | [Chemical-Kinetics05 ➡](Chemical-Kinetics05.md)

@@ -1,3 +1,7 @@
+[⬅ Chemical-Equilibrium05](Chemical-Equilibrium05.md) | [🏠 Index](index.md) | [Chemical-Equilibrium07 ➡](Chemical-Equilibrium07.md)
+
+---
+
 # Chemical Equilibrium - Slides 26-30
 
 ## Slide 26
@@ -102,3 +106,8 @@ The experiment visualizes the endothermic nature of this complex ion reaction:
 - **Heating**: Shifts equilibrium to the **right**. The solution turns **blue** due to increased $[CoCl_4]^{2-}$ formation.
 - **Cooling**: Shifts equilibrium to the **left**. The solution turns **pink** due to increased $[Co(H_2O)_6]^{2+}$ formation.
 - **Conclusion**: Heat acts as a "reactant" for this endothermic process.
+
+
+---
+
+[⬅ Chemical-Equilibrium05](Chemical-Equilibrium05.md) | [🏠 Index](index.md) | [Chemical-Equilibrium07 ➡](Chemical-Equilibrium07.md)

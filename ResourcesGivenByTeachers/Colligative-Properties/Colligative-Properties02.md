@@ -1,3 +1,7 @@
+[⬅ Colligative-Properties01](Colligative-Properties01.md) | [🏠 Index](index.md) | [Colligative-Properties03 ➡](Colligative-Properties03.md)
+
+---
+
 # Colligative Properties - Slides 6-10
 
 ---
@@ -135,3 +139,8 @@ m = 210.48 Ans.
 
 ### Diagram Analysis
 This slide provides another numerical example, this time using vapor pressure lowering ($\Delta p$) directly. It follows a clear structure: listing the given variables, stating the formula, substituting values, and calculating the final answer. This reinforces the method for calculating molecular weight from vapor pressure data.
+
+
+---
+
+[⬅ Colligative-Properties01](Colligative-Properties01.md) | [🏠 Index](index.md) | [Colligative-Properties03 ➡](Colligative-Properties03.md)

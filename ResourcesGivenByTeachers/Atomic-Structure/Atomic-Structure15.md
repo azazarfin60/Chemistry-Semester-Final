@@ -1,3 +1,7 @@
+[⬅ Atomic-Structure14](Atomic-Structure14.md) | [🏠 Index](index.md) | [Atomic-Structure16 ➡](Atomic-Structure16.md)
+
+---
+
 # Atomic Structure: Slides 071-075
 
 ## Slide 71
@@ -76,3 +80,8 @@ A comprehensive energy level diagram ($n=1$ to $n=\infty$) showing the major spe
 - **Brackett (n=4):** Transitions down to n=4. Located in the **far infrared**.
 - **Pfund (n=5):** Transitions down to n=5. Located in the **far infrared**.
 - **Wavelength Scale:** The visible region (Balmer) is mapped against a scale from **4000 Å to 7000 Å**.
+
+
+---
+
+[⬅ Atomic-Structure14](Atomic-Structure14.md) | [🏠 Index](index.md) | [Atomic-Structure16 ➡](Atomic-Structure16.md)
