@@ -1,4 +1,4 @@
-[⬅ Electrolysis-Electrochemistry01](Electrolysis-Electrochemistry01.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry03 ➡](Electrolysis-Electrochemistry03.md)
+[⬅ Electrolysis-Electrochemistry01](Electrolysis-Electrochemistry01.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry03 ➡](Electrolysis-Electrochemistry03.md)
 
 ---
 
@@ -93,4 +93,4 @@ $$t_- = \frac{1}{1 + r}$$
 
 ---
 
-[⬅ Electrolysis-Electrochemistry01](Electrolysis-Electrochemistry01.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry03 ➡](Electrolysis-Electrochemistry03.md)
+[⬅ Electrolysis-Electrochemistry01](Electrolysis-Electrochemistry01.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry03 ➡](Electrolysis-Electrochemistry03.md)

@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics03](Chemical-Kinetics03.md) | [🏠 Index](index.md) | [Chemical-Kinetics05 ➡](Chemical-Kinetics05.md)
+[⬅ Chemical-Kinetics03](Chemical-Kinetics03.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics05 ➡](Chemical-Kinetics05.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 16
 
-![Factors Affecting Rate: Concentration and Temperature](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-016.png)
+> 📷 **[Diagram]** Factors Affecting Rate: Concentration and Temperature
 
 ### **Factors Affecting the Rate**
 
@@ -31,7 +31,7 @@ The graph plots **Reaction Rate $k$ ($s^{-1}$)** against **Temp (K)**:
 
 ## Slide 17
 
-![Effect of Catalyst on Activation Energy](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-017.png)
+> 📷 **[Diagram]** Effect of Catalyst on Activation Energy
 
 ### **Factors Affecting the Rate**
 
@@ -50,7 +50,7 @@ The energy profile diagram compares the **uncatalyzed** (red) and **catalyzed** 
 
 ## Slide 18
 
-![Reaction Half-Life Visualization](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-018.png)
+> 📷 **[Diagram]** Reaction Half-Life Visualization
 
 ### **Reaction Half-Life**
 
@@ -69,7 +69,7 @@ This graph illustrates the concept of **half-life ($t_{1/2}$)** for a first-orde
 
 ## Slide 19
 
-![Pseudo-Order Reaction and Example](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-019.png)
+> 📷 **[Diagram]** Pseudo-Order Reaction and Example
 
 ### **Pseudo-Order Reaction**
 
@@ -98,7 +98,7 @@ Thus, hydrolysis of cane sugar is **pseudo first order reaction**.
 
 ## Slide 20
 
-![Zero-Order Reaction Kinetics](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-020.png)
+> 📷 **[Diagram]** Zero-Order Reaction Kinetics
 
 ### **Zero-Order Reaction**
 
@@ -122,4 +122,4 @@ $$[A] = [A_0] - kt$$
 
 ---
 
-[⬅ Chemical-Kinetics03](Chemical-Kinetics03.md) | [🏠 Index](index.md) | [Chemical-Kinetics05 ➡](Chemical-Kinetics05.md)
+[⬅ Chemical-Kinetics03](Chemical-Kinetics03.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics05 ➡](Chemical-Kinetics05.md)

@@ -1,11 +1,11 @@
-[⬅ Chemical-Equilibrium03](Chemical-Equilibrium03.md) | [🏠 Index](index.md) | [Chemical-Equilibrium05 ➡](Chemical-Equilibrium05.md)
+[⬅ Chemical-Equilibrium03](Chemical-Equilibrium03.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium05 ➡](Chemical-Equilibrium05.md)
 
 ---
 
 # Chemical Equilibrium - Slides 16-20
 
 ## Slide 16
-![Chemical Equilibrium-016](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-016.png)
+> 📷 **[Diagram]** Chemical Equilibrium-016
 
 ### Text Content
 **Equilibrium Constant Expression**
@@ -36,7 +36,7 @@ Write the equilibrium-constant expression, $K_c$ for:
 ---
 
 ## Slide 17
-![Chemical Equilibrium-017](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-017.png)
+> 📷 **[Diagram]** Chemical Equilibrium-017
 
 ### Text Content
 **Equilibrium Constant Expression**
@@ -59,13 +59,13 @@ If $P$ is the total pressure of the equilibrium reaction mixture,
 - $p_{H_2} = \frac{3(1-x)P}{2(2-x)}$
 - $p_{NH_3} = \frac{2xP}{2(2-x)}$
 
-Substituting in the expression, 
+Substituting in the expression,
 $$K_p = \frac{p_{NH_3}^2}{p_{N_2} p_{H_2}^3}$$
 
 ---
 
 ## Slide 18
-![Chemical Equilibrium-018](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-018.png)
+> 📷 **[Diagram]** Chemical Equilibrium-018
 
 ### Text Content
 **Equilibrium Constant Expression**
@@ -88,7 +88,7 @@ $$K_c = K_p = \frac{\alpha^2}{4(1-\alpha)^2}$$
 ---
 
 ## Slide 19
-![Chemical Equilibrium-019](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-019.png)
+> 📷 **[Diagram]** Chemical Equilibrium-019
 
 ### Text Content
 **Equilibrium Constant Expression**
@@ -107,7 +107,7 @@ $$K_c = \frac{a\alpha^2}{(1-\alpha)V}$$
 ---
 
 ## Slide 20
-![Chemical Equilibrium-020](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-020.png)
+> 📷 **[Diagram]** Chemical Equilibrium-020
 
 ### Text Content
 **Equilibrium Constant Expression**
@@ -124,4 +124,4 @@ $$K_p = \frac{\alpha^2}{(1-\alpha)(1+\alpha)} P = \frac{\alpha^2}{1-\alpha^2} P$
 
 ---
 
-[⬅ Chemical-Equilibrium03](Chemical-Equilibrium03.md) | [🏠 Index](index.md) | [Chemical-Equilibrium05 ➡](Chemical-Equilibrium05.md)
+[⬅ Chemical-Equilibrium03](Chemical-Equilibrium03.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium05 ➡](Chemical-Equilibrium05.md)

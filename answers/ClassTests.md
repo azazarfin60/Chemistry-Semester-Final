@@ -1,4 +1,4 @@
-[⬅ 2024](2024.md) | [🏠 Index](index.md) | *(end)*
+[⬅ 2024](2024.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -188,4 +188,4 @@ This derived equation elegantly allows the determination of the fundamental cons
 
 ---
 
-[⬅ 2024](2024.md) | [🏠 Index](index.md) | *(end)*
+[⬅ 2024](2024.md) | [🏠 Index](00-index.md) | *(end)*

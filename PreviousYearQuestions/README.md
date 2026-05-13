@@ -13,4 +13,4 @@ Analyzing past exam questions is arguably the most critical step in university e
 *   **Need the Answers?** If you want to grade your mock exam chronologically, navigate to the [`../answers/`](../answers/README.md) directory, which contains full solutions matching these specific years.
 *   **Studying by Topic?** If you don't want to take a full mock exam but instead want to see how a specific *topic* has been tested over the years, navigate to the [`../Topicwise-Answers/`](../Topicwise-Answers/README.md) directory.
 
-Use the [Index](index.md) to navigate through the available exam years.
+Use the [Index](00-index.md) to navigate through the available exam years.

@@ -1,4 +1,4 @@
-[⬅ Electrolysis-Electrochemistry02](Electrolysis-Electrochemistry02.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry04 ➡](Electrolysis-Electrochemistry04.md)
+[⬅ Electrolysis-Electrochemistry02](Electrolysis-Electrochemistry02.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry04 ➡](Electrolysis-Electrochemistry04.md)
 
 ---
 
@@ -83,4 +83,4 @@ The specific conductance of saturated solution of silver chloride at 18°C is $1
 
 ---
 
-[⬅ Electrolysis-Electrochemistry02](Electrolysis-Electrochemistry02.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry04 ➡](Electrolysis-Electrochemistry04.md)
+[⬅ Electrolysis-Electrochemistry02](Electrolysis-Electrochemistry02.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry04 ➡](Electrolysis-Electrochemistry04.md)

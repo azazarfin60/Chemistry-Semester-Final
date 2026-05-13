@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties08](Colligative-Properties08.md) | [🏠 Index](index.md) | [Colligative-Properties10 ➡](Colligative-Properties10.md)
+[⬅ Colligative-Properties08](Colligative-Properties08.md) | [🏠 Index](00-index.md) | [Colligative-Properties10 ➡](Colligative-Properties10.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 41
 
-![Slide 41](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-041.png)
+> 📷 **[Diagram]** Slide 41
 
 ### Exact Copy of Text
 **Law of Osmotic Pressure**
@@ -38,7 +38,7 @@ This slide breaks down the **Vant-Hoff Equation** into its constituent laws, mir
 
 ## Slide 42
 
-![Slide 42](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-042.png)
+> 📷 **[Diagram]** Slide 42
 
 ### Exact Copy of Text
 **Molecular Mass from Osmotic Pressure**
@@ -58,7 +58,7 @@ This slide provides the algebraic derivation for calculating the **Molar Mass (M
 
 ## Slide 43
 
-![Slide 43](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-043.png)
+> 📷 **[Diagram]** Slide 43
 
 ### Exact Copy of Text
 **Osmotic Pressure Measurement**
@@ -78,7 +78,7 @@ This slide illustrates the **Berkeley and Hartley method**, a precision laborato
 
 ## Slide 44
 
-![Slide 44](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-044.png)
+> 📷 **[Diagram]** Slide 44
 
 ### Exact Copy of Text
 **Diffusion-Osmosis- Animation**
@@ -90,7 +90,7 @@ The slide presents a stylized animation frame showing a beaker divided by a cent
 
 ## Slide 45
 
-![Slide 45](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-045.png)
+> 📷 **[Diagram]** Slide 45
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -112,13 +112,13 @@ $\pi = 0.56 \text{ atm}$
 Hence, the total osmotic pressure of the mixture: $6.81 + 0.56 = 7.37$
 
 ### Diagram Analysis
-This slide provides a complex worked example involving the mixing of two different solutions. 
-* **Key Concept:** It demonstrates that osmotic pressure is additive (Dalton's Law equivalent for solutions). 
-* **Calculation Nuance:** Note that both urea and cane sugar are calculated using the *final total volume* ($200 \text{ ml} = 0.2 \text{ L}$) because they are now both distributed throughout the entire mixture. 
+This slide provides a complex worked example involving the mixing of two different solutions.
+* **Key Concept:** It demonstrates that osmotic pressure is additive (Dalton's Law equivalent for solutions).
+* **Calculation Nuance:** Note that both urea and cane sugar are calculated using the *final total volume* ($200 \text{ ml} = 0.2 \text{ L}$) because they are now both distributed throughout the entire mixture.
 * **Parameters:** $R = 0.0821 \text{ L.atm/mol.K}$, $T = 293 \text{ K}$ (20 + 273).
 * The final answer, **7.37 atm**, is the sum of the partial osmotic pressures.
 
 
 ---
 
-[⬅ Colligative-Properties08](Colligative-Properties08.md) | [🏠 Index](index.md) | [Colligative-Properties10 ➡](Colligative-Properties10.md)
+[⬅ Colligative-Properties08](Colligative-Properties08.md) | [🏠 Index](00-index.md) | [Colligative-Properties10 ➡](Colligative-Properties10.md)

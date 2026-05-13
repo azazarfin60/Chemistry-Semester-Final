@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties07](Colligative-Properties07.md) | [🏠 Index](index.md) | [Colligative-Properties09 ➡](Colligative-Properties09.md)
+[⬅ Colligative-Properties07](Colligative-Properties07.md) | [🏠 Index](00-index.md) | [Colligative-Properties09 ➡](Colligative-Properties09.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 36
 
-![Slide 36](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-036.png)
+> 📷 **[Diagram]** Slide 36
 
 ### Exact Copy of Text
 **Osmotic Pressure**
@@ -25,7 +25,7 @@ This slide provides several visual models to reinforce the concept of osmotic pr
 
 ## Slide 37
 
-![Slide 37](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-037.png)
+> 📷 **[Diagram]** Slide 37
 
 ### Exact Copy of Text
 **Osmosis & Diffusion**
@@ -38,15 +38,15 @@ This slide provides several visual models to reinforce the concept of osmotic pr
 | Rate of process | Osmosis is a slow process. | Diffusion is the fast process |
 
 ### Diagram Analysis
-This slide uses a structured table to distinguish between two often-confused processes. 
-* **Key Distinctions:** It emphasizes that osmosis is restricted to liquids and *requires* a semi-permeable membrane, whereas diffusion is a more general phenomenon occurring in all states of matter without the need for a barrier. 
+This slide uses a structured table to distinguish between two often-confused processes.
+* **Key Distinctions:** It emphasizes that osmosis is restricted to liquids and *requires* a semi-permeable membrane, whereas diffusion is a more general phenomenon occurring in all states of matter without the need for a barrier.
 * **Speed:** It also notes the relative kinetics, characterizing osmosis as a "slow" process compared to "fast" diffusion.
 
 ---
 
 ## Slide 38
 
-![Slide 38](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-038.png)
+> 📷 **[Diagram]** Slide 38
 
 ### Exact Copy of Text
 **Osmotic Pressure- Animation**
@@ -65,7 +65,7 @@ This slide acts as a structural summary within the lecture series. It highlights
 
 ## Slide 39
 
-![Slide 39](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-039.png)
+> 📷 **[Diagram]** Slide 39
 
 ### Exact Copy of Text
 **Osmotic Pressure- Key Term**
@@ -89,7 +89,7 @@ This slide defines the biological and practical applications of osmotic pressure
 
 ## Slide 40
 
-![Slide 40](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-040.png)
+> 📷 **[Diagram]** Slide 40
 
 ### Exact Copy of Text
 **Vant-Hoff’s Theory of Dilute Solution**
@@ -106,11 +106,11 @@ Here, c = n/V; $\pi$ = osmotic pressure; c = molar concentration; R = molar gas 
 Eq- (i) is the results of Vant-Hoff’s theory. From the equation, it can also be concluded that the solutions which have same concentration and temperature, will have same osmotic pressure.
 
 ### Diagram Analysis
-This slide introduces the **Vant-Hoff Equation**, which is mathematically analogous to the Ideal Gas Law ($PV = nRT$). 
+This slide introduces the **Vant-Hoff Equation**, which is mathematically analogous to the Ideal Gas Law ($PV = nRT$).
 * **Conceptual Link:** It establishes the profound link between dissolved solutes and gaseous particles, suggesting that in dilute solutions, the identity of the solute is less important than the number of particles (moles).
 * **Variables:** It clearly defines the units and variables, including the use of Absolute Temperature (Kelvin) and the universal gas constant (R). This equation forms the basis for all quantitative osmotic calculations.
 
 
 ---
 
-[⬅ Colligative-Properties07](Colligative-Properties07.md) | [🏠 Index](index.md) | [Colligative-Properties09 ➡](Colligative-Properties09.md)
+[⬅ Colligative-Properties07](Colligative-Properties07.md) | [🏠 Index](00-index.md) | [Colligative-Properties09 ➡](Colligative-Properties09.md)

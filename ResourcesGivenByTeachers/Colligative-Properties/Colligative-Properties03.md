@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties02](Colligative-Properties02.md) | [🏠 Index](index.md) | [Colligative-Properties04 ➡](Colligative-Properties04.md)
+[⬅ Colligative-Properties02](Colligative-Properties02.md) | [🏠 Index](00-index.md) | [Colligative-Properties04 ➡](Colligative-Properties04.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 11
 
-![Slide 11](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-011.png)
+> 📷 **[Diagram]** Slide 11
 
 ### Exact Copy of Text
 **Solve the Problem**
@@ -24,7 +24,7 @@ This slide provides two practice problems for students to apply the concepts of 
 
 ## Slide 12
 
-![Slide 12](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-012.png)
+> 📷 **[Diagram]** Slide 12
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -50,7 +50,7 @@ This slide presents a worked solution for finding the molecular weight of a solu
 
 ## Slide 13
 
-![Slide 13](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-013.png)
+> 📷 **[Diagram]** Slide 13
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -80,7 +80,7 @@ This slide addresses a problem where the solvent's mass must be calculated from 
 
 ## Slide 14
 
-![Slide 14](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-014.png)
+> 📷 **[Diagram]** Slide 14
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -107,7 +107,7 @@ This slide demonstrates a molecular mass calculation using SI units (kg) for mas
 
 ## Slide 15
 
-![Slide 15](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-015.png)
+> 📷 **[Diagram]** Slide 15
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -134,13 +134,13 @@ Note that this still relatively dilute. The pressure of the solution is then cal
 $P_{\text{solution}} = 0.953 \times 47.1 = 44.88 \text{ torr}$
 
 ### Diagram Analysis
-This slide is particularly important as it introduces the effect of **electrolytic dissociation** on colligative properties. 
-* Although 50.0g of $CaCl_2$ corresponds to 0.45 moles of the formula unit, the solution contains 0.45 moles of $Ca^{2+}$ and 0.9 moles of $Cl^-$ (totaling 1.35 moles of ions). 
-* The calculation explicitly accounts for this by adding both ion counts to the denominator of the mole fraction equation. 
+This slide is particularly important as it introduces the effect of **electrolytic dissociation** on colligative properties.
+* Although 50.0g of $CaCl_2$ corresponds to 0.45 moles of the formula unit, the solution contains 0.45 moles of $Ca^{2+}$ and 0.9 moles of $Cl^-$ (totaling 1.35 moles of ions).
+* The calculation explicitly accounts for this by adding both ion counts to the denominator of the mole fraction equation.
 * This demonstrates why electrolyte solutes have a more significant impact on vapor pressure lowering than non-electrolytes of the same molar concentration.
 * Note: The chemical formula $C_6H_{12}O_6$ appears in the question text but seems to be a typo or artifact, as the solution focuses entirely on $CaCl_2$.
 
 
 ---
 
-[⬅ Colligative-Properties02](Colligative-Properties02.md) | [🏠 Index](index.md) | [Colligative-Properties04 ➡](Colligative-Properties04.md)
+[⬅ Colligative-Properties02](Colligative-Properties02.md) | [🏠 Index](00-index.md) | [Colligative-Properties04 ➡](Colligative-Properties04.md)

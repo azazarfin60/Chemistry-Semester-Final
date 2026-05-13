@@ -8,7 +8,7 @@ If you are preparing for the final exam, this repository contains everything you
 ---
 
 ## 🎯 Pedagogical Philosophy
-The resources here are designed to eliminate the friction of studying. Rather than deciphering raw slides or disconnected PDFs, this repository bridges raw facts with deep understanding. 
+The resources here are designed to eliminate the friction of studying. Rather than deciphering raw slides or disconnected PDFs, this repository bridges raw facts with deep understanding.
 
 *   **Complete Synthesis:** Concepts are broken down into Core Theory, Key Derivations, and Comparison Tables.
 *   **Targeted Exam Focus:** "Golden Questions" from past years are integrated directly into the notes, showing you *exactly* how a concept is tested.

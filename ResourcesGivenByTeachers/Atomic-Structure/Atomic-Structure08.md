@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure07](Atomic-Structure07.md) | [🏠 Index](index.md) | [Atomic-Structure09 ➡](Atomic-Structure09.md)
+[⬅ Atomic-Structure07](Atomic-Structure07.md) | [🏠 Index](00-index.md) | [Atomic-Structure09 ➡](Atomic-Structure09.md)
 
 ---
 
@@ -89,7 +89,7 @@ This is the mathematical formula or equation which clears that the accuracy in t
 
 ### **Orbit**
 
-![Orbit Analogies](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-040.png)
+> 📷 **[Diagram]** Orbit Analogies
 
 **Diagram Analysis:**
 The slide provides visual analogies to reinforce the concept of an **Orbit** as a fixed, repeating path.
@@ -100,4 +100,4 @@ The slide provides visual analogies to reinforce the concept of an **Orbit** as 
 
 ---
 
-[⬅ Atomic-Structure07](Atomic-Structure07.md) | [🏠 Index](index.md) | [Atomic-Structure09 ➡](Atomic-Structure09.md)
+[⬅ Atomic-Structure07](Atomic-Structure07.md) | [🏠 Index](00-index.md) | [Atomic-Structure09 ➡](Atomic-Structure09.md)

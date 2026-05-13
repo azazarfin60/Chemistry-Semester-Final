@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics01](Chemical-Kinetics01.md) | [🏠 Index](index.md) | [Chemical-Kinetics03 ➡](Chemical-Kinetics03.md)
+[⬅ Chemical-Kinetics01](Chemical-Kinetics01.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics03 ➡](Chemical-Kinetics03.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 6
 
-![Rate of Reaction for Complex Reactions](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-006.png)
+> 📷 **[Diagram]** Rate of Reaction for Complex Reactions
 
 ### **Rate of Reaction**
 
@@ -27,7 +27,7 @@ $$\text{Rate} = -\frac{1}{a} \frac{\Delta [A]}{\Delta t} = -\frac{1}{b} \frac{\D
 
 ## Slide 7
 
-![Difference between Rate and Rate Constant](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-007.png)
+> 📷 **[Diagram]** Difference between Rate and Rate Constant
 
 ### **Rate of Reaction**
 
@@ -48,7 +48,7 @@ $$H_2 + I_2 \rightarrow 2 HI ; \quad \text{Rate} = k [H_2] \times [I_2]$$
 
 ## Slide 8
 
-![Rate Law and Units of k](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-008.png)
+> 📷 **[Diagram]** Rate Law and Units of k
 
 ### **Rate of Reaction**
 
@@ -66,7 +66,7 @@ $$H_2 + I_2 \rightarrow 2 HI ; \quad \text{Rate} = k [H_2] \times [I_2]$$
 
 ## Slide 9
 
-![Rate of Reaction - Animation Title](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-009.png)
+> 📷 **[Diagram]** Rate of Reaction - Animation Title
 
 ### **Rate of Reaction- Animation**
 
@@ -77,7 +77,7 @@ $$H_2 + I_2 \rightarrow 2 HI ; \quad \text{Rate} = k [H_2] \times [I_2]$$
 
 ## Slide 10
 
-![Decomposition of N2O5 Data](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-010.png)
+> 📷 **[Diagram]** Decomposition of N2O5 Data
 
 ### **Rate of Reaction**
 
@@ -102,4 +102,4 @@ $$2N_2O_5(g) \rightarrow 4NO_2(g) + O_2(g)$$
 
 ---
 
-[⬅ Chemical-Kinetics01](Chemical-Kinetics01.md) | [🏠 Index](index.md) | [Chemical-Kinetics03 ➡](Chemical-Kinetics03.md)
+[⬅ Chemical-Kinetics01](Chemical-Kinetics01.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics03 ➡](Chemical-Kinetics03.md)

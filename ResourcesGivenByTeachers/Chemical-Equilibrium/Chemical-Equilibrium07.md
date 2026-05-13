@@ -1,11 +1,11 @@
-[⬅ Chemical-Equilibrium06](Chemical-Equilibrium06.md) | [🏠 Index](index.md) | [Chemical-Equilibrium08 ➡](Chemical-Equilibrium08.md)
+[⬅ Chemical-Equilibrium06](Chemical-Equilibrium06.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium08 ➡](Chemical-Equilibrium08.md)
 
 ---
 
 # Chemical Equilibrium - Slides 31-35
 
 ## Slide 31
-![Chemical Equilibrium-031](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-031.png)
+> 📷 **[Diagram]** Chemical Equilibrium-031
 
 ### Text Content
 **Effect of Variables on Equilibrium**
@@ -28,7 +28,7 @@
 ---
 
 ## Slide 32
-![Chemical Equilibrium-032](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-032.png)
+> 📷 **[Diagram]** Chemical Equilibrium-032
 
 ### Text Content
 **Effect of Catalysts**
@@ -44,7 +44,7 @@ The graph plots **Energy** vs **Reaction Progress** for a reaction path:
 ---
 
 ## Slide 33
-![Chemical Equilibrium-033](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-033.png)
+> 📷 **[Diagram]** Chemical Equilibrium-033
 
 ### Text Content
 **Factors Affecting Chemical Equilibrium - Animation**
@@ -54,7 +54,7 @@ This slide serves as a placeholder for an interactive animation exploring LeChâ
 ---
 
 ## Slide 34
-![Chemical Equilibrium-034](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-034.png)
+> 📷 **[Diagram]** Chemical Equilibrium-034
 
 ### Text Content
 **The Haber Process**
@@ -74,7 +74,7 @@ The flow scheme outlines the industrial cycle:
 ---
 
 ## Slide 35
-![Chemical Equilibrium-035](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-035.png)
+> 📷 **[Diagram]** Chemical Equilibrium-035
 
 ### Text Content
 **The Haber Process Apparatus**
@@ -88,4 +88,4 @@ The apparatus visualizes the engineering application of Le Châtelier's Principl
 
 ---
 
-[⬅ Chemical-Equilibrium06](Chemical-Equilibrium06.md) | [🏠 Index](index.md) | [Chemical-Equilibrium08 ➡](Chemical-Equilibrium08.md)
+[⬅ Chemical-Equilibrium06](Chemical-Equilibrium06.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium08 ➡](Chemical-Equilibrium08.md)

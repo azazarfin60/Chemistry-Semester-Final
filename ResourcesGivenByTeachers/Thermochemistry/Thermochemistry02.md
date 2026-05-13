@@ -1,4 +1,4 @@
-[⬅ Thermochemistry01](Thermochemistry01.md) | [🏠 Index](index.md) | [Thermochemistry03 ➡](Thermochemistry03.md)
+[⬅ Thermochemistry01](Thermochemistry01.md) | [🏠 Index](00-index.md) | [Thermochemistry03 ➡](Thermochemistry03.md)
 
 ---
 
@@ -147,4 +147,4 @@ It may be pointed out that while determining the value of $\Delta H$, only the n
 
 ---
 
-[⬅ Thermochemistry01](Thermochemistry01.md) | [🏠 Index](index.md) | [Thermochemistry03 ➡](Thermochemistry03.md)
+[⬅ Thermochemistry01](Thermochemistry01.md) | [🏠 Index](00-index.md) | [Thermochemistry03 ➡](Thermochemistry03.md)

@@ -1,4 +1,4 @@
-[⬅ 07-Electrochemistry](07-Electrochemistry.md) | [🏠 Index](index.md) | [09-Periodic-Table ➡](09-Periodic-Table.md)
+[⬅ 07-Electrochemistry](07-Electrochemistry.md) | [🏠 Index](00-index.md) | [09-Periodic-Table ➡](09-Periodic-Table.md)
 
 ---
 
@@ -43,7 +43,7 @@ The solubility of a gas in a liquid generally **decreases with an increase in te
 **Discussion/Reasoning:**
 1.  **Exothermic Nature:** The dissolution of a gas in a liquid is an exothermic process. According to Le Chatelier's principle, for an exothermic equilibrium process, increasing the temperature shifts the equilibrium backward. Therefore, the dissolved gas escapes from the solution, lowering its solubility.
     $$\text{Gas (solute)} + \text{Liquid (solvent)} \rightleftharpoons \text{Solution} + \text{Heat}$$
-2.  **Kinetic Energy:** Non-polar gases have very weak intermolecular attractive forces with polar liquids like water. As temperature increases, the kinetic energy of the dissolved gas molecules increases. This added thermal energy allows the gas molecules to easily overcome the weak solute-solvent interactions and escape into the vapor phase above the liquid. 
+2.  **Kinetic Energy:** Non-polar gases have very weak intermolecular attractive forces with polar liquids like water. As temperature increases, the kinetic energy of the dissolved gas molecules increases. This added thermal energy allows the gas molecules to easily overcome the weak solute-solvent interactions and escape into the vapor phase above the liquid.
 3.  *(Example: This is why soda goes "flat" quickly on a hot day, and why aquatic life survives better in colder waters where dissolved oxygen concentration is higher).*
 
 ---
@@ -212,7 +212,7 @@ Henry's Law is strictly valid only for ideal gases and ideal solutions. It holds
 
 **Answer:**
 
-When a tiny crystal of the solute (called a **"seed crystal"**) is added to a supersaturated solution, it provides a nucleation site or template for the excess dissolved solute to deposit upon. 
+When a tiny crystal of the solute (called a **"seed crystal"**) is added to a supersaturated solution, it provides a nucleation site or template for the excess dissolved solute to deposit upon.
 Because a supersaturated solution is in a highly unstable, metastable state (containing more dissolved solute than it normally could at that temperature), the introduction of the seed crystal disrupts this fragile state. This causes an immediate and rapid precipitation (crystallization) of all the excess solute out of the solution. The crystallization continues until the concentration of the remaining solution drops to exactly the saturation point, restoring a stable equilibrium.
 
 ---
@@ -339,4 +339,4 @@ $m = 0.1613 \text{ moles} / 0.45 \text{ kg} = \mathbf{0.358 \text{ mol/kg (or 0.
 
 ---
 
-[⬅ 07-Electrochemistry](07-Electrochemistry.md) | [🏠 Index](index.md) | [09-Periodic-Table ➡](09-Periodic-Table.md)
+[⬅ 07-Electrochemistry](07-Electrochemistry.md) | [🏠 Index](00-index.md) | [09-Periodic-Table ➡](09-Periodic-Table.md)

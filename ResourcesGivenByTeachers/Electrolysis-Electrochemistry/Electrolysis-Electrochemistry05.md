@@ -1,4 +1,4 @@
-[⬅ Electrolysis-Electrochemistry04](Electrolysis-Electrochemistry04.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry06 ➡](Electrolysis-Electrochemistry06.md)
+[⬅ Electrolysis-Electrochemistry04](Electrolysis-Electrochemistry04.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry06 ➡](Electrolysis-Electrochemistry06.md)
 
 ---
 
@@ -123,4 +123,4 @@ The illustration demonstrates the origin of electrode potential:
 
 ---
 
-[⬅ Electrolysis-Electrochemistry04](Electrolysis-Electrochemistry04.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry06 ➡](Electrolysis-Electrochemistry06.md)
+[⬅ Electrolysis-Electrochemistry04](Electrolysis-Electrochemistry04.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry06 ➡](Electrolysis-Electrochemistry06.md)

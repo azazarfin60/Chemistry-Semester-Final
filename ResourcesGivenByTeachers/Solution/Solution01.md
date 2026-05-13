@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [Solution02 ➡](Solution02.md)
+*(start)* | [🏠 Index](00-index.md) | [Solution02 ➡](Solution02.md)
 
 ---
 
@@ -9,7 +9,7 @@ author: "Digitized Slides"
 
 # Slide 01
 
-![Solution Intro](Solution-001.png)
+> 📷 **[Diagram]** Solution Intro
 
 ## **Solution**
 
@@ -23,7 +23,7 @@ The opening slide features a high-quality photograph of a chemistry laboratory s
 
 # Slide 02
 
-![Mixture Classification](Solution-002.png)
+> 📷 **[Diagram]** Mixture Classification
 
 ## **Solution**
 
@@ -46,7 +46,7 @@ This slide uses a flow chart and molecular-level illustrations to distinguish be
 
 # Slide 03
 
-![Solution Types and Components](Solution-003.png)
+> 📷 **[Diagram]** Solution Types and Components
 
 ## **Solution**
 
@@ -70,7 +70,7 @@ The slide provides three distinct visual models to explain solution chemistry:
 
 # Slide 04
 
-![Solution Definition and Characteristics](Solution-004.png)
+> 📷 **[Diagram]** Solution Definition and Characteristics
 
 ## **Solution**
 
@@ -94,7 +94,7 @@ A **solution** is a homogeneous mixture of two or more components in which the p
 
 # Slide 05
 
-![Classification of Solution](Solution-005.png)
+> 📷 **[Diagram]** Classification of Solution
 
 ## **Classification of Solution**
 ### **Based on physical states of the solute and solvent**
@@ -117,4 +117,4 @@ This table systematically categorizes solutions based on the nine possible combi
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Solution02 ➡](Solution02.md)
+*(start)* | [🏠 Index](00-index.md) | [Solution02 ➡](Solution02.md)

@@ -1,4 +1,4 @@
-[⬅ Cemical-Bond07](Cemical-Bond07.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Chemical-Bond07](Chemical-Bond07.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -47,4 +47,4 @@ When a molecule contains lone pairs, the bonding electron pairs are pushed close
 
 ---
 
-[⬅ Cemical-Bond07](Cemical-Bond07.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Chemical-Bond07](Chemical-Bond07.md) | [🏠 Index](00-index.md) | *(end)*

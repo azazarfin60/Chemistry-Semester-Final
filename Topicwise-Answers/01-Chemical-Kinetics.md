@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [02-Chemical-Equilibrium ➡](02-Chemical-Equilibrium.md)
+*(start)* | [🏠 Index](00-index.md) | [02-Chemical-Equilibrium ➡](02-Chemical-Equilibrium.md)
 
 ---
 
@@ -159,7 +159,7 @@ This is the standard integrated rate equation for a first-order reaction.
 
 **Answer:**
 
-The rate of a chemical reaction keeps changing (specifically, decreasing) as it proceeds because the rate is directly proportional to the active mass (concentration) of the reactants. 
+The rate of a chemical reaction keeps changing (specifically, decreasing) as it proceeds because the rate is directly proportional to the active mass (concentration) of the reactants.
 As the reaction progresses over time, the reactant molecules are continuously consumed to form products. Therefore, the concentration of the reactants continuously drops. According to collision theory, fewer reactant molecules mean fewer effective collisions occur per unit of time. As the frequency of these successful collisions decreases, the overall rate of the reaction decreases simultaneously. The rate is at its absolute maximum precisely at $t=0$ and asymptotically approaches zero as the reaction nears completion.
 
 ---
@@ -632,4 +632,4 @@ Because the rate constant ($k$) is a constant at a given temperature, and the fr
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [02-Chemical-Equilibrium ➡](02-Chemical-Equilibrium.md)
+*(start)* | [🏠 Index](00-index.md) | [02-Chemical-Equilibrium ➡](02-Chemical-Equilibrium.md)

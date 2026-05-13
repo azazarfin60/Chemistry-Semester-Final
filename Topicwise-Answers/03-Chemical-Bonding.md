@@ -1,4 +1,4 @@
-[⬅ 02-Chemical-Equilibrium](02-Chemical-Equilibrium.md) | [🏠 Index](index.md) | [04-Colligative-Properties ➡](04-Colligative-Properties.md)
+[⬅ 02-Chemical-Equilibrium](02-Chemical-Equilibrium.md) | [🏠 Index](00-index.md) | [04-Colligative-Properties ➡](04-Colligative-Properties.md)
 
 ---
 
@@ -153,7 +153,7 @@ Developed by F. Hund and R.S. Mulliken, MOT provides a quantum mechanical explan
 *   **MO Electronic Configuration:**
     Because NO is a heteronuclear molecule with more than 14 electrons, its energy filling order is similar to $O_2$.
     $\sigma_{1s}^2 \ \sigma_{1s}^{*2} \ \sigma_{2s}^2 \ \sigma_{2s}^{*2} \ \sigma_{2p_z}^2 \ \pi_{2p_x}^2 \equiv \pi_{2p_y}^2 \ \pi_{2p_x}^{*1}$
-*   **Bond Order (B.O.):** 
+*   **Bond Order (B.O.):**
     $$B.O. = \frac{N_b - N_a}{2} = \frac{10 - 5}{2} = \frac{5}{2} = 2.5$$
     *(Implies a bond between double and triple).*
 *   **Magnetic Property:** It contains one unpaired electron in the antibonding $\pi_{2p_x}^*$ orbital. Therefore, NO is **Paramagnetic**.
@@ -429,4 +429,4 @@ M.O. Configuration: $\sigma 1s^2, \sigma^* 1s^2, \sigma 2s^2, \sigma^* 2s^2, \si
 
 ---
 
-[⬅ 02-Chemical-Equilibrium](02-Chemical-Equilibrium.md) | [🏠 Index](index.md) | [04-Colligative-Properties ➡](04-Colligative-Properties.md)
+[⬅ 02-Chemical-Equilibrium](02-Chemical-Equilibrium.md) | [🏠 Index](00-index.md) | [04-Colligative-Properties ➡](04-Colligative-Properties.md)

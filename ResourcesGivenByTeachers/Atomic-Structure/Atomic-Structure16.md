@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure15](Atomic-Structure15.md) | [🏠 Index](index.md) | [Atomic-Structure17 ➡](Atomic-Structure17.md)
+[⬅ Atomic-Structure15](Atomic-Structure15.md) | [🏠 Index](00-index.md) | [Atomic-Structure17 ➡](Atomic-Structure17.md)
 
 ---
 
@@ -64,7 +64,7 @@ The wavelength will always be positive because $n_1$ is defined as the lower lev
 
 ### **Electronic Configuration of Elements**
 
-![Electron Configuration Notation](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-079.png)
+> 📷 **[Diagram]** Electron Configuration Notation
 
 **Diagram Analysis:**
 The slide provides a breakdown of the standard **Electron Configuration Notation** using **$1s^2$** as an example:
@@ -92,4 +92,4 @@ The Electronic Configuration of Elements refers to the arrangement of electrons 
 
 ---
 
-[⬅ Atomic-Structure15](Atomic-Structure15.md) | [🏠 Index](index.md) | [Atomic-Structure17 ➡](Atomic-Structure17.md)
+[⬅ Atomic-Structure15](Atomic-Structure15.md) | [🏠 Index](00-index.md) | [Atomic-Structure17 ➡](Atomic-Structure17.md)

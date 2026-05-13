@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure16](Atomic-Structure16.md) | [🏠 Index](index.md) | [Atomic-Structure18 ➡](Atomic-Structure18.md)
+[⬅ Atomic-Structure16](Atomic-Structure16.md) | [🏠 Index](00-index.md) | [Atomic-Structure18 ➡](Atomic-Structure18.md)
 
 ---
 
@@ -22,7 +22,7 @@ Electrons are filled in the orbitals by following three rules:
 
 “Electrons in different orbitals are filled in the increasing order of their energy, i.e. the orbital with the lowest energy will be filled first and the orbital with the highest energy will be filled last.”
 
-![Aufbau Diagonal Rule Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-082.png)
+> 📷 **[Diagram]** Aufbau Diagonal Rule Diagram
 
 **Diagram Analysis:**
 The slide presents the **Möller diagram** (diagonal rule) for determining the order of orbital filling:
@@ -42,7 +42,7 @@ The slide presents the **Möller diagram** (diagonal rule) for determining the o
 
 **Aufbau Principle Rules**
 
-![Aufbau Principle Rules Visualization](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-083.png)
+> 📷 **[Diagram]** Aufbau Principle Rules Visualization
 
 **Diagram Analysis:**
 The slide provides visual examples of correct and incorrect electron filling:
@@ -93,4 +93,4 @@ From the description given in the table, it follows that the energies of the var
 
 ---
 
-[⬅ Atomic-Structure16](Atomic-Structure16.md) | [🏠 Index](index.md) | [Atomic-Structure18 ➡](Atomic-Structure18.md)
+[⬅ Atomic-Structure16](Atomic-Structure16.md) | [🏠 Index](00-index.md) | [Atomic-Structure18 ➡](Atomic-Structure18.md)

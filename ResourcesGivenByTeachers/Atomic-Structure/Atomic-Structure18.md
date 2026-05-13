@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure17](Atomic-Structure17.md) | [🏠 Index](index.md) | [Atomic-Structure19 ➡](Atomic-Structure19.md)
+[⬅ Atomic-Structure17](Atomic-Structure17.md) | [🏠 Index](00-index.md) | [Atomic-Structure19 ➡](Atomic-Structure19.md)
 
 ---
 
@@ -13,7 +13,7 @@ Hund’s rule states that electrons don’t pair up in a subshell until they are
 **Called the Rule of Maximum Multiplicity--- Why ?**
 According to Hund’s rule, when filling up electrons in degenerate orbitals (orbitals with the same energy level), electrons fill up singly first, then pair up. It indicates that atomic orbitals have as many unpaired electrons as feasible. Maximum multiplicity is provided by a bigger number of unpaired electrons. As a result, Hund’s rule is known as the rule of maximum multiplicity.
 
-![Hund's Rule Examples](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-086.png)
+> 📷 **[Diagram]** Hund's Rule Examples
 
 **Diagram Analysis:**
 The slide provides examples for Carbon and Nitrogen:
@@ -29,7 +29,7 @@ The slide provides examples for Carbon and Nitrogen:
 
 The lowest energy configuration for an atom is the one having the **maximum number of unpaired electrons** within the **same energy sublevel.**
 
-![Hund's Rule Correct vs Wrong](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-087.png)
+> 📷 **[Diagram]** Hund's Rule Correct vs Wrong
 
 **Diagram Analysis:**
 The slide contrasts correct and incorrect filling strategies:
@@ -48,7 +48,7 @@ The slide contrasts correct and incorrect filling strategies:
 - It is often used in spectroscopy to create an element’s atomic spectra.
 - Hund’s rule, along with other ideas, is employed in quantum chemistry research.
 
-![Stability Visualization](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-088.png)
+> 📷 **[Diagram]** Stability Visualization
 
 **Diagram Analysis:**
 - **Correct (Left):** Showing $2p$ orbitals with two unpaired electrons. Label: "no electron-electron repulsion equals lower energy".
@@ -81,7 +81,7 @@ Each atomic orbital can hold a maximum of two electrons with opposite spins. Thi
 **Pauli’s Exclusion Principle**
 No two electrons in an atom can have the **same four quantum numbers.**
 
-![Pauli Principle Examples](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-090.png)
+> 📷 **[Diagram]** Pauli Principle Examples
 
 **Diagram Analysis:**
 - **Energy Diagram:** Shows $1s, 2s,$ and $2p$ orbitals. $1s$ and $2s$ are filled with paired electrons ($\uparrow\downarrow$). The text explains: "This is because when they are in the same orbital, the values of n, l, and $m_l$ are the same. Therefore, they must have opposite spins (different $m_s$) so that they do not have all four quantum numbers the same."
@@ -93,4 +93,4 @@ No two electrons in an atom can have the **same four quantum numbers.**
 
 ---
 
-[⬅ Atomic-Structure17](Atomic-Structure17.md) | [🏠 Index](index.md) | [Atomic-Structure19 ➡](Atomic-Structure19.md)
+[⬅ Atomic-Structure17](Atomic-Structure17.md) | [🏠 Index](00-index.md) | [Atomic-Structure19 ➡](Atomic-Structure19.md)

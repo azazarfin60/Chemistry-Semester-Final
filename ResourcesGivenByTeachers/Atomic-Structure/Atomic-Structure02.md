@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure01](Atomic-Structure01.md) | [🏠 Index](index.md) | [Atomic-Structure03 ➡](Atomic-Structure03.md)
+[⬅ Atomic-Structure01](Atomic-Structure01.md) | [🏠 Index](00-index.md) | [Atomic-Structure03 ➡](Atomic-Structure03.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Structure of Water**
 
-![Structure of Water and Hydrogen Bonds](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-006.png)
+> 📷 **[Diagram]** Structure of Water and Hydrogen Bonds
 
 **Diagram Analysis:**
 The diagram illustrates the molecular interaction between water molecules ($H_2O$).
@@ -22,7 +22,7 @@ The diagram illustrates the molecular interaction between water molecules ($H_2O
 
 ### **Structure of Carbon**
 
-![Carbon Atom Model](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-007.png)
+> 📷 **[Diagram]** Carbon Atom Model
 
 **Diagram Analysis:**
 This slide shows a detailed model of a Carbon atom.
@@ -41,7 +41,7 @@ This slide shows a detailed model of a Carbon atom.
 
 **THE POLAR COVALENT BONDS OF WATER MOLECULES**
 
-![Polar Covalent Bonds in Water](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-008.png)
+> 📷 **[Diagram]** Polar Covalent Bonds in Water
 
 **Diagram Analysis:**
 The diagram depicts the formation of a water molecule from its constituent atoms.
@@ -81,4 +81,4 @@ The diagram depicts the formation of a water molecule from its constituent atoms
 
 ---
 
-[⬅ Atomic-Structure01](Atomic-Structure01.md) | [🏠 Index](index.md) | [Atomic-Structure03 ➡](Atomic-Structure03.md)
+[⬅ Atomic-Structure01](Atomic-Structure01.md) | [🏠 Index](00-index.md) | [Atomic-Structure03 ➡](Atomic-Structure03.md)

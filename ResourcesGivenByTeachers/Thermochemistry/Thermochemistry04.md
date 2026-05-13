@@ -1,4 +1,4 @@
-[⬅ Thermochemistry03](Thermochemistry03.md) | [🏠 Index](index.md) | [Thermochemistry05 ➡](Thermochemistry05.md)
+[⬅ Thermochemistry03](Thermochemistry03.md) | [🏠 Index](00-index.md) | [Thermochemistry05 ➡](Thermochemistry05.md)
 
 ---
 
@@ -147,4 +147,4 @@ $$= [c \times \Delta H_f^\circ(C) + d \times \Delta H_f^\circ(D)] - [a \times \D
 
 ---
 
-[⬅ Thermochemistry03](Thermochemistry03.md) | [🏠 Index](index.md) | [Thermochemistry05 ➡](Thermochemistry05.md)
+[⬅ Thermochemistry03](Thermochemistry03.md) | [🏠 Index](00-index.md) | [Thermochemistry05 ➡](Thermochemistry05.md)

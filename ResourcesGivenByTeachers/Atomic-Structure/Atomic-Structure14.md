@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure13](Atomic-Structure13.md) | [🏠 Index](index.md) | [Atomic-Structure15 ➡](Atomic-Structure15.md)
+[⬅ Atomic-Structure13](Atomic-Structure13.md) | [🏠 Index](00-index.md) | [Atomic-Structure15 ➡](Atomic-Structure15.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Energy Level**
 
-![Electron Absorption Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-066.png)
+> 📷 **[Diagram]** Electron Absorption Diagram
 
 **Diagram Analysis:**
 The slide illustrates the process of electron absorption:
@@ -25,7 +25,7 @@ The slide illustrates the process of electron absorption:
 
 **Emission** occurs when the electron falls from an excited (high energy) to the ground, or in general, a lower energy level.
 
-![Absorption and Emission Synthesis](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-067.png)
+> 📷 **[Diagram]** Absorption and Emission Synthesis
 
 **Diagram Analysis:**
 This slide synthesizes both transitions into a comparative visualization:
@@ -71,7 +71,7 @@ It implies that the wavelength and the frequency are inversely proportional to e
 
 ### **Spectrum**
 
-![Experimental Setup for Spectra](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-070.png)
+> 📷 **[Diagram]** Experimental Setup for Spectra
 
 **Diagram Analysis:**
 The slide shows the experimental derivation of emission and absorption spectra:
@@ -87,4 +87,4 @@ The slide shows the experimental derivation of emission and absorption spectra:
 
 ---
 
-[⬅ Atomic-Structure13](Atomic-Structure13.md) | [🏠 Index](index.md) | [Atomic-Structure15 ➡](Atomic-Structure15.md)
+[⬅ Atomic-Structure13](Atomic-Structure13.md) | [🏠 Index](00-index.md) | [Atomic-Structure15 ➡](Atomic-Structure15.md)

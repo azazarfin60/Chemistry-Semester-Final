@@ -1,4 +1,4 @@
-[⬅ Cemical-Bond04](Cemical-Bond04.md) | [🏠 Index](index.md) | [Cemical-Bond06 ➡](Cemical-Bond06.md)
+[⬅ Chemical-Bond04](Chemical-Bond04.md) | [🏠 Index](00-index.md) | [Chemical-Bond06 ➡](Chemical-Bond06.md)
 
 ---
 
@@ -79,4 +79,4 @@ The process of mixing one 's' and three 'p' orbitals to produce four equivalent 
 
 ---
 
-[⬅ Cemical-Bond04](Cemical-Bond04.md) | [🏠 Index](index.md) | [Cemical-Bond06 ➡](Cemical-Bond06.md)
+[⬅ Chemical-Bond04](Chemical-Bond04.md) | [🏠 Index](00-index.md) | [Chemical-Bond06 ➡](Chemical-Bond06.md)

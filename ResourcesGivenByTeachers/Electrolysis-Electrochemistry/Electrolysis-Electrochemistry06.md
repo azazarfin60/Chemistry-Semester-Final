@@ -1,4 +1,4 @@
-[⬅ Electrolysis-Electrochemistry05](Electrolysis-Electrochemistry05.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry07 ➡](Electrolysis-Electrochemistry07.md)
+[⬅ Electrolysis-Electrochemistry05](Electrolysis-Electrochemistry05.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry07 ➡](Electrolysis-Electrochemistry07.md)
 
 ---
 
@@ -114,4 +114,4 @@ The diagram (reprinted from Slide 26) shows the components of the SHE, which ser
 
 ---
 
-[⬅ Electrolysis-Electrochemistry05](Electrolysis-Electrochemistry05.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry07 ➡](Electrolysis-Electrochemistry07.md)
+[⬅ Electrolysis-Electrochemistry05](Electrolysis-Electrochemistry05.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry07 ➡](Electrolysis-Electrochemistry07.md)

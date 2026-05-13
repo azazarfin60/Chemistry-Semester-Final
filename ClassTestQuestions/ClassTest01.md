@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [ClassTest02 ➡](ClassTest02.md)
+*(start)* | [🏠 Index](00-index.md) | [ClassTest02 ➡](ClassTest02.md)
 
 ---
 
@@ -20,4 +20,4 @@
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [ClassTest02 ➡](ClassTest02.md)
+*(start)* | [🏠 Index](00-index.md) | [ClassTest02 ➡](ClassTest02.md)

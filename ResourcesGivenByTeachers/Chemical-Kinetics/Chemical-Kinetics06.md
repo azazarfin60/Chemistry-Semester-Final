@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics05](Chemical-Kinetics05.md) | [🏠 Index](index.md) | [Chemical-Kinetics07 ➡](Chemical-Kinetics07.md)
+[⬅ Chemical-Kinetics05](Chemical-Kinetics05.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics07 ➡](Chemical-Kinetics07.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 26
 
-![Half-life of First Order Reaction](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-026.png)
+> 📷 **[Diagram]** Half-life of First Order Reaction
 
 ### **Half-life Period of First Order Reaction**
 
@@ -32,7 +32,7 @@ The slide features an illustration of a student emphasizing a critical point:
 
 ## Slide 27
 
-![Property 1: Reaction Never Completes](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-027.png)
+> 📷 **[Diagram]** Property 1: Reaction Never Completes
 
 ### **Properties of First Order Reaction**
 
@@ -56,7 +56,7 @@ Hence, $k \neq 0$, So, $t = \infty$
 
 ## Slide 28
 
-![Property 2: Fraction Completion Independence](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-028.png)
+> 📷 **[Diagram]** Property 2: Fraction Completion Independence
 
 ### **Properties of First Order Reaction**
 
@@ -74,7 +74,7 @@ $$t_{1/2} = \frac{0.693}{k}$$
 
 ## Slide 29
 
-![Property 3: Rate Constant Independence of Units](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-029.png)
+> 📷 **[Diagram]** Property 3: Rate Constant Independence of Units
 
 ### **Properties of First Order Reaction**
 
@@ -94,7 +94,7 @@ The above two equations are same, so the value of rate constant remains unchange
 
 ## Slide 30
 
-![Numerical Problem Example](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-030.png)
+> 📷 **[Diagram]** Numerical Problem Example
 
 ### **Numerical Problem**
 
@@ -113,4 +113,4 @@ $$t(90\%) = \frac{2.303}{0.030130} = 76.4 \text{ min}$$
 
 ---
 
-[⬅ Chemical-Kinetics05](Chemical-Kinetics05.md) | [🏠 Index](index.md) | [Chemical-Kinetics07 ➡](Chemical-Kinetics07.md)
+[⬅ Chemical-Kinetics05](Chemical-Kinetics05.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics07 ➡](Chemical-Kinetics07.md)

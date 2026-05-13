@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics11](Chemical-Kinetics11.md) | [🏠 Index](index.md) | [Chemical-Kinetics13 ➡](Chemical-Kinetics13.md)
+[⬅ Chemical-Kinetics11](Chemical-Kinetics11.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics13 ➡](Chemical-Kinetics13.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 56
 
-![Arrhenius Equation: Integrated Form and Graph](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-056.png)
+> 📷 **[Diagram]** Arrhenius Equation: Integrated Form and Graph
 
 ### **Arrhenius Equation**
 
@@ -19,7 +19,7 @@ From the eq – (v), energy of activation can be calculated.
 
 **The following graph can be drawn using the eq- (iv):**
 
-![ln k vs 1/T Graph](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-056.png)
+> 📷 **[Diagram]** ln k vs 1/T Graph
 *   **$y$-axis:** $\ln k$
 *   **$x$-axis:** $1/T$
 *   **Intercept:** $\ln A$
@@ -29,7 +29,7 @@ From the eq – (v), energy of activation can be calculated.
 
 ## Slide 57
 
-![Concept of Activation Energy and Maxwell-Boltzmann Distribution](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-057.png)
+> 📷 **[Diagram]** Concept of Activation Energy and Maxwell-Boltzmann Distribution
 
 ### **Energy of Activation**
 
@@ -46,7 +46,7 @@ The graph shows the distribution of kinetic energies among molecules at two diff
 
 ## Slide 58
 
-![Temperature Dependence and Energy Distribution Curves](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-058.png)
+> 📷 **[Diagram]** Temperature Dependence and Energy Distribution Curves
 
 ### **Temperature Dependence of Rate of Reaction**
 
@@ -62,7 +62,7 @@ This graph illustrates the effect of a 10°C temperature rise (from $t$ to $t+10
 
 ## Slide 59
 
-![Numerical Problems on Arrhenius Equation](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-059.png)
+> 📷 **[Diagram]** Numerical Problems on Arrhenius Equation
 
 ### **Numerical Problem**
 
@@ -86,7 +86,7 @@ $$\log k_2 = -4.796 + 2.599 = -2.197 \implies k_2 = 6.36 \times 10^{-3} s^{-1}$$
 
 ## Slide 60
 
-![Numerical Problem: Zero Activation Energy](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-060.png)
+> 📷 **[Diagram]** Numerical Problem: Zero Activation Energy
 
 ### **Numerical Problem**
 
@@ -105,4 +105,4 @@ Hence, $k_{300} = k_{280} = 1.6 \times 10^6 s^{-1}$
 
 ---
 
-[⬅ Chemical-Kinetics11](Chemical-Kinetics11.md) | [🏠 Index](index.md) | [Chemical-Kinetics13 ➡](Chemical-Kinetics13.md)
+[⬅ Chemical-Kinetics11](Chemical-Kinetics11.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics13 ➡](Chemical-Kinetics13.md)

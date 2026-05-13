@@ -1,4 +1,4 @@
-[⬅ 05-Atomic-Structure](05-Atomic-Structure.md) | [🏠 Index](index.md) | [07-Electrochemistry ➡](07-Electrochemistry.md)
+[⬅ 05-Atomic-Structure](05-Atomic-Structure.md) | [🏠 Index](00-index.md) | [07-Electrochemistry ➡](07-Electrochemistry.md)
 
 ---
 
@@ -91,10 +91,6 @@ The heat of formation of methane ($CH_4$) is **-19.3 kcal/mol**.
 
 ---
 
-## SECTION-B
-
----
-
 ## 📄 Source: 2023 Exam
 
 ### Q.4(a) Define enthalpy of combustion and calorific value. (02)
@@ -171,10 +167,6 @@ By calculating $\Delta U$ from the calorimeter data and finding $\Delta n_g$ fro
 
 ---
 
-## SECTION-B
-
----
-
 ## 📄 Source: 2021 Exam
 
 ### Q.7(a) Define and explain the following terms with suitable examples. (i) Heat of reaction (ii) Heat of neutralization (04)
@@ -182,7 +174,7 @@ By calculating $\Delta U$ from the calorimeter data and finding $\Delta n_g$ fro
 **Answer:**
 
 **(i) Heat of Reaction ($\Delta H$):**
-It is defined as the amount of heat evolved or absorbed when molar quantities of reactants, exactly as represented by a balanced chemical equation, react completely to form products. 
+It is defined as the amount of heat evolved or absorbed when molar quantities of reactants, exactly as represented by a balanced chemical equation, react completely to form products.
 *   **Explanation:** It indicates the difference in total enthalpy between products and reactants. If heat is released, $\Delta H$ is negative (exothermic). If heat is absorbed, $\Delta H$ is positive (endothermic).
 *   **Example:** $C(s) + O_2(g) \rightarrow CO_2(g); \quad \Delta H = -393.5 \text{ kJ/mol}$ (Heat is evolved).
 
@@ -361,7 +353,7 @@ $$\Delta H = -333.35 \text{ kcal}$$
 
 **Effect of Temperature on Heat of Reaction (Kirchhoff's Equation):**
 The heat of a reaction does not remain strictly constant; it changes when the temperature at which the reaction is carried out changes. This variation is explained by **Kirchhoff's equation**.
-The effect occurs because the heat capacity (the amount of heat required to raise the temperature by $1^\circ C$) of the products is generally not identical to the heat capacity of the reactants. 
+The effect occurs because the heat capacity (the amount of heat required to raise the temperature by $1^\circ C$) of the products is generally not identical to the heat capacity of the reactants.
 
 According to Kirchhoff's equation, the change in the heat of reaction ($\Delta H$) for every one-degree change in temperature is exactly equal to the difference in the heat capacities of the products and reactants at constant pressure ($\Delta C_p$):
 $$\frac{\Delta H_2 - \Delta H_1}{T_2 - T_1} = \Delta C_p = (C_p)_{\text{products}} - (C_p)_{\text{reactants}}$$
@@ -440,7 +432,6 @@ Thermochemistry is governed by two fundamental laws, both of which are direct co
 ---
 
 
-
 ---
 
-[⬅ 05-Atomic-Structure](05-Atomic-Structure.md) | [🏠 Index](index.md) | [07-Electrochemistry ➡](07-Electrochemistry.md)
+[⬅ 05-Atomic-Structure](05-Atomic-Structure.md) | [🏠 Index](00-index.md) | [07-Electrochemistry ➡](07-Electrochemistry.md)

@@ -1,18 +1,18 @@
-[⬅ Chemical-Equilibrium01](Chemical-Equilibrium01.md) | [🏠 Index](index.md) | [Chemical-Equilibrium03 ➡](Chemical-Equilibrium03.md)
+[⬅ Chemical-Equilibrium01](Chemical-Equilibrium01.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium03 ➡](Chemical-Equilibrium03.md)
 
 ---
 
 # Chemical Equilibrium - Slides 06-10
 
 ## Slide 06
-![Chemical Equilibrium-006](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-006.png)
+> 📷 **[Diagram]** Chemical Equilibrium-006
 
 ### Text Content
 **Chemical Equilibrium**
 
 **Types of Chemical Equilibrium**
 There are two types of chemical equilibrium:
-**Homogeneous Equilibrium**: In this type, the reactants and the products of chemical equilibrium are all in the same phase. It can be further divided into **two types**: 
+**Homogeneous Equilibrium**: In this type, the reactants and the products of chemical equilibrium are all in the same phase. It can be further divided into **two types**:
 - Reactions in which the number of molecules of the products is equal to the number of molecules of the reactants. For example-
   - $H_2 (g) + I_2 (g) \rightleftharpoons 2HI (g)$
   - $N_2 (g) + O_2 (g) \rightleftharpoons 2NO (g)$
@@ -29,7 +29,7 @@ Thus, the different types of chemical equilibrium are based on the phase of the 
 ---
 
 ## Slide 07
-![Chemical Equilibrium-007](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-007.png)
+> 📷 **[Diagram]** Chemical Equilibrium-007
 
 ### Text Content
 **Law of Mass Action**
@@ -56,7 +56,7 @@ $$Kc = \frac{[C] \times [D]}{[A] \times [B]}$$
 ---
 
 ## Slide 08
-![Chemical Equilibrium-008](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-008.png)
+> 📷 **[Diagram]** Chemical Equilibrium-008
 
 ### Text Content
 **Equilibrium Constant**
@@ -73,7 +73,7 @@ $$aA + bB \rightleftharpoons cC + dD$$
 ---
 
 ## Slide 09
-![Chemical Equilibrium-009](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-009.png)
+> 📷 **[Diagram]** Chemical Equilibrium-009
 
 ### Text Content
 **Equilibrium Constant**
@@ -89,7 +89,7 @@ $$aA + bB \rightleftharpoons cC + dD$$
 ---
 
 ## Slide 10
-![Chemical Equilibrium-010](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-010.png)
+> 📷 **[Diagram]** Chemical Equilibrium-010
 
 ### Text Content
 **Equilibrium Constant**
@@ -108,11 +108,11 @@ $$K_{eq} = \frac{[C]^c [D]^d}{[A]^a [B]^b}$$
 ### Diagram Analysis: Rate and Molecular Views
 1. **Reaction Rates vs. Time Graph**: Re-emphasizes that equilibrium is achieved when the forward (decreasing) and reverse (increasing) rates intersect and become equal.
 2. **Molecular Visualization**:
-   - **Before (Starting conditions)**: Shows a separation between reactants ($A$ - blue spheres) and products ($B$ - purple spheres). 
+   - **Before (Starting conditions)**: Shows a separation between reactants ($A$ - blue spheres) and products ($B$ - purple spheres).
    - **After (At equilibrium)**: Shows a mixture of both types with green arrows indicating the continuous conversion of $A$ to $B$ and $B$ to $A$.
    - **Key takeaway**: The reaction is in **dynamic equilibrium** because conversion continues in both directions at equal rates.
 
 
 ---
 
-[⬅ Chemical-Equilibrium01](Chemical-Equilibrium01.md) | [🏠 Index](index.md) | [Chemical-Equilibrium03 ➡](Chemical-Equilibrium03.md)
+[⬅ Chemical-Equilibrium01](Chemical-Equilibrium01.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium03 ➡](Chemical-Equilibrium03.md)

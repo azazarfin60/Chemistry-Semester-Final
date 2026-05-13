@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure22](Atomic-Structure22.md) | [🏠 Index](index.md) | [Atomic-Structure24 ➡](Atomic-Structure24.md)
+[⬅ Atomic-Structure22](Atomic-Structure22.md) | [🏠 Index](00-index.md) | [Atomic-Structure24 ➡](Atomic-Structure24.md)
 
 ---
 
@@ -22,7 +22,7 @@ $\therefore h\nu = h\nu_0 + \frac{1}{2} m v^2_{max}$
 $\therefore \frac{1}{2} m v^2_{max} = h\nu - h\nu_0$
 **$\therefore \frac{1}{2} m v^2_{max} = h(\nu - \nu_0)$**
 
-![Photoelectric Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-111.png)
+> 📷 **[Diagram]** Photoelectric Diagram
 
 **Diagram Analysis:**
 The slide illustrates the energy balance of the photoelectric effect:
@@ -48,7 +48,7 @@ Where,
 - **$h/m_0c$:** Compton wavelength of the electron
 - **$\lambda_s$ and $\lambda_0$:** radiation spectrum peaks.
 
-![Compton Scattering Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-112.png)
+> 📷 **[Diagram]** Compton Scattering Diagram
 
 **Diagram Analysis:**
 - **Initial State:** An incoming X-ray photon moves towards a stationary electron.
@@ -83,7 +83,7 @@ Quantum mechanics assumes matter to be both like a wave as well as a particle at
 **de Broglie Equation**
 The de Broglie equation is one of the equations that is commonly used to define the wave properties of matter. It basically describes the wave nature of the electron.
 
-![De Broglie standing wave](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-114.png)
+> 📷 **[Diagram]** De Broglie standing wave
 
 **Diagram Analysis:**
 - **Equation:** $\lambda = \frac{h}{p} = \frac{h}{mv}$
@@ -112,4 +112,4 @@ The wavelength of the matter waves is referred to as the **de Broglie wavelength
 
 ---
 
-[⬅ Atomic-Structure22](Atomic-Structure22.md) | [🏠 Index](index.md) | [Atomic-Structure24 ➡](Atomic-Structure24.md)
+[⬅ Atomic-Structure22](Atomic-Structure22.md) | [🏠 Index](00-index.md) | [Atomic-Structure24 ➡](Atomic-Structure24.md)

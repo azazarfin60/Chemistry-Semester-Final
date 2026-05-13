@@ -1,4 +1,4 @@
-[⬅ Electrolysis-Electrochemistry06](Electrolysis-Electrochemistry06.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry08 ➡](Electrolysis-Electrochemistry08.md)
+[⬅ Electrolysis-Electrochemistry06](Electrolysis-Electrochemistry06.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry08 ➡](Electrolysis-Electrochemistry08.md)
 
 ---
 
@@ -143,4 +143,4 @@ $$\text{pH} = \frac{E_{\text{SCE}} - E_G^\circ - E_{\text{cell}}}{0.0591}$$
 
 ---
 
-[⬅ Electrolysis-Electrochemistry06](Electrolysis-Electrochemistry06.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry08 ➡](Electrolysis-Electrochemistry08.md)
+[⬅ Electrolysis-Electrochemistry06](Electrolysis-Electrochemistry06.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry08 ➡](Electrolysis-Electrochemistry08.md)

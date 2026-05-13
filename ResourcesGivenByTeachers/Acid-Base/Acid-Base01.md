@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [Acid-Base02 ➡](Acid-Base02.md)
+*(start)* | [🏠 Index](00-index.md) | [Acid-Base02 ➡](Acid-Base02.md)
 
 ---
 
@@ -85,6 +85,7 @@ $$HCl + H_2O \rightleftharpoons Cl^- + H_3O^+$$
 Since $HCl$ is a strong acid, its conjugate base, $Cl^-$, is a weak base. Thus, $HCl$ (strong acid) and $Cl^-$ (weak base) form one conjugate pair. Similarly, $H_3O^+$ (stronger acid) and $H_2O$ (weak base) form another conjugate pair.
 
 **Example 2:**
+
 ### Diagram: Acetic Acid and Water
 The diagram illustrates the reaction:
 $$CH_3COOH (\text{Weak acid}) + H_2O (\text{Weak base}) \rightleftharpoons H_3O^+ (\text{Stronger acid}) + CH_3COO^- (\text{Stronger base})$$
@@ -138,4 +139,4 @@ $$K_b = \frac{[BH^+][OH^-]}{[B]}$$
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Acid-Base02 ➡](Acid-Base02.md)
+*(start)* | [🏠 Index](00-index.md) | [Acid-Base02 ➡](Acid-Base02.md)

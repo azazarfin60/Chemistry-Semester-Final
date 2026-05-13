@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [Cemical-Bond02 ➡](Cemical-Bond02.md)
+*(start)* | [🏠 Index](00-index.md) | [Chemical-Bond02 ➡](Chemical-Bond02.md)
 
 ---
 
@@ -137,4 +137,4 @@ A chemical bond is defined as the attractive force that holds two or more atoms 
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Cemical-Bond02 ➡](Cemical-Bond02.md)
+*(start)* | [🏠 Index](00-index.md) | [Chemical-Bond02 ➡](Chemical-Bond02.md)

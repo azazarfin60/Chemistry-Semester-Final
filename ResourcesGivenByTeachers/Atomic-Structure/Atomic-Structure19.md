@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure18](Atomic-Structure18.md) | [🏠 Index](index.md) | [Atomic-Structure20 ➡](Atomic-Structure20.md)
+[⬅ Atomic-Structure18](Atomic-Structure18.md) | [🏠 Index](00-index.md) | [Atomic-Structure20 ➡](Atomic-Structure20.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Pauli Exclusion Principle**
 
-![Pauli Principle Visual Logic](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-091.png)
+> 📷 **[Diagram]** Pauli Principle Visual Logic
 
 **Diagram Analysis:**
 The slide provides a visual guide to the application of the Pauli Exclusion Principle in a $2s$ orbital:
@@ -39,7 +39,7 @@ The slide provides a visual guide to the application of the Pauli Exclusion Prin
 
 **Three rules for constructing the Orbital diagram**
 
-![Three Rules Visualization](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-093.png)
+> 📷 **[Diagram]** Three Rules Visualization
 
 **Diagram Analysis:**
 The slide summarizes the three core rules for orbital diagrams:
@@ -78,7 +78,7 @@ The slide summarizes the three core rules for orbital diagrams:
 
 ### **Reminder**
 
-![Bohr Model Examples](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-095.png)
+> 📷 **[Diagram]** Bohr Model Examples
 
 **Diagram Analysis:**
 The slide illustrates the shell-based electron distribution for several elements using Bohr models: **Lithium (Li), Oxygen (O), Flourine (F), Neon (Ne), and Sodium (Na).**
@@ -91,4 +91,4 @@ The slide illustrates the shell-based electron distribution for several elements
 
 ---
 
-[⬅ Atomic-Structure18](Atomic-Structure18.md) | [🏠 Index](index.md) | [Atomic-Structure20 ➡](Atomic-Structure20.md)
+[⬅ Atomic-Structure18](Atomic-Structure18.md) | [🏠 Index](00-index.md) | [Atomic-Structure20 ➡](Atomic-Structure20.md)

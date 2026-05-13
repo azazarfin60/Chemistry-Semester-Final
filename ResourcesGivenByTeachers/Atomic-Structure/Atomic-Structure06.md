@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure05](Atomic-Structure05.md) | [🏠 Index](index.md) | [Atomic-Structure07 ➡](Atomic-Structure07.md)
+[⬅ Atomic-Structure05](Atomic-Structure05.md) | [🏠 Index](00-index.md) | [Atomic-Structure07 ➡](Atomic-Structure07.md)
 
 ---
 
@@ -10,7 +10,7 @@
 
 The quantum mechanical model of the atom, which regards electrons as matter waves, was proposed by Erwin Schrödinger. Quantum mechanics models describe the possibility of placing electrons within an atom by describing the main energy level, orbital (arbitrary level), and spin.
 
-![Quantum Mechanical Orbitals](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-026.png)
+> 📷 **[Diagram]** Quantum Mechanical Orbitals
 
 **Diagram Analysis:**
 The diagram illustrates the probabilistic "electron cloud" model.
@@ -30,7 +30,7 @@ The diagram illustrates the probabilistic "electron cloud" model.
 
 **Bohr radius :** The Bohr radius is a physical constant that represents the most probable distance between the electron and nucleus of a hydrogen atom at its ground state (lowest energy level). $a_0$ (Bohr Radius) = $5.29 \times 10^{-11}$ m
 
-![Bohr Radius Force Balance](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-027.png)
+> 📷 **[Diagram]** Bohr Radius Force Balance
 
 **Diagram Analysis:**
 The diagram depicts the physical basis for the Bohr radius ($a_0$).
@@ -59,7 +59,7 @@ The diagram depicts the physical basis for the Bohr radius ($a_0$).
 
 **Stark effect in hydrogen**
 
-![Stark Effect Energy Splitting Graph](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-029.png)
+> 📷 **[Diagram]** Stark Effect Energy Splitting Graph
 
 **Diagram Analysis:**
 This graph provides a quantitative look at the Stark effect in Hydrogen.
@@ -84,4 +84,4 @@ This graph provides a quantitative look at the Stark effect in Hydrogen.
 
 ---
 
-[⬅ Atomic-Structure05](Atomic-Structure05.md) | [🏠 Index](index.md) | [Atomic-Structure07 ➡](Atomic-Structure07.md)
+[⬅ Atomic-Structure05](Atomic-Structure05.md) | [🏠 Index](00-index.md) | [Atomic-Structure07 ➡](Atomic-Structure07.md)

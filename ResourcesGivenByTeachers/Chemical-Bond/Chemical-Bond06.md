@@ -1,4 +1,4 @@
-[⬅ Cemical-Bond05](Cemical-Bond05.md) | [🏠 Index](index.md) | [Cemical-Bond07 ➡](Cemical-Bond07.md)
+[⬅ Chemical-Bond05](Chemical-Bond05.md) | [🏠 Index](00-index.md) | [Chemical-Bond07 ➡](Chemical-Bond07.md)
 
 ---
 
@@ -75,4 +75,4 @@ Analysis of the Tetraamminecopper(II) complex: $[Cu(NH_3)_4]^{2+}$.
 
 ---
 
-[⬅ Cemical-Bond05](Cemical-Bond05.md) | [🏠 Index](index.md) | [Cemical-Bond07 ➡](Cemical-Bond07.md)
+[⬅ Chemical-Bond05](Chemical-Bond05.md) | [🏠 Index](00-index.md) | [Chemical-Bond07 ➡](Chemical-Bond07.md)

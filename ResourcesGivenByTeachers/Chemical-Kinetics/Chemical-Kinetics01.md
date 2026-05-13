@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [Chemical-Kinetics02 ➡](Chemical-Kinetics02.md)
+*(start)* | [🏠 Index](00-index.md) | [Chemical-Kinetics02 ➡](Chemical-Kinetics02.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 1
 
-![Chemical Kinetics Title Slide](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-001.png)
+> 📷 **[Diagram]** Chemical Kinetics Title Slide
 
 ### **Chemical Kinetics**
 
@@ -16,7 +16,7 @@
 
 ## Slide 2
 
-![Kinetics - Background](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-002.png)
+> 📷 **[Diagram]** Kinetics - Background
 
 ### **Kinetics - Background**
 
@@ -41,7 +41,7 @@ The slide features a flowchart-like mapping that distinguishes between thermodyn
 
 ## Slide 3
 
-![Rate of Reaction Equations](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-003.png)
+> 📷 **[Diagram]** Rate of Reaction Equations
 
 ### **Rate of Reaction**
 
@@ -66,7 +66,7 @@ If $c = 1$ mole/litre; then $k = \frac{dx}{dt}$ From this equation, we can defin
 
 ## Slide 4
 
-![Rate of Reaction Visual Representation](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-004.png)
+> 📷 **[Diagram]** Rate of Reaction Visual Representation
 
 ### **Rate of Reaction**
 
@@ -81,7 +81,7 @@ This diagram provides a visual progression of a chemical reaction $A \rightarrow
 
 ## Slide 5
 
-![Rate of Reaction Graph](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-005.png)
+> 📷 **[Diagram]** Rate of Reaction Graph
 
 ### **Rate of Reaction**
 
@@ -98,4 +98,4 @@ The slide presents a quantitative graph and a series of beakers illustrating the
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Chemical-Kinetics02 ➡](Chemical-Kinetics02.md)
+*(start)* | [🏠 Index](00-index.md) | [Chemical-Kinetics02 ➡](Chemical-Kinetics02.md)

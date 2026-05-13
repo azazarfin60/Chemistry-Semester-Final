@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics10](Chemical-Kinetics10.md) | [🏠 Index](index.md) | [Chemical-Kinetics12 ➡](Chemical-Kinetics12.md)
+[⬅ Chemical-Kinetics10](Chemical-Kinetics10.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics12 ➡](Chemical-Kinetics12.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 51
 
-![Half-Life Method for Order Determination](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-051.png)
+> 📷 **[Diagram]** Half-Life Method for Order Determination
 
 ### **Determination of Order of Reaction**
 
@@ -26,7 +26,7 @@
 
 ## Slide 52
 
-![Half-Life Method: Formula and Plots](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-052.png)
+> 📷 **[Diagram]** Half-Life Method: Formula and Plots
 
 ### **Determination of Order of Reaction**
 
@@ -46,7 +46,7 @@ $$n = 1 + \frac{\log(t_{1/2})_1 - \log(t_{1/2})_2}{\log a_2 - \log a_1}$$
 
 ## Slide 53
 
-![Arrhenius Equation Introduction](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-053.png)
+> 📷 **[Diagram]** Arrhenius Equation Introduction
 
 ### **Arrhenius Equation**
 
@@ -62,7 +62,7 @@ It predicts that a small increase in reaction temperature will produce a marked 
 
 ## Slide 54
 
-![Arrhenius Equation Derivation - Part 1](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-054.png)
+> 📷 **[Diagram]** Arrhenius Equation Derivation - Part 1
 
 ### **Arrhenius Equation**
 
@@ -82,7 +82,7 @@ $$\frac{d \ln k_1}{dT} = \frac{\Delta E_1}{RT^2} + \text{constant, and } \frac{d
 
 ## Slide 55
 
-![Arrhenius Equation Derivation - Final Form](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-055.png)
+> 📷 **[Diagram]** Arrhenius Equation Derivation - Final Form
 
 ### **Arrhenius Equation**
 
@@ -105,4 +105,4 @@ Here, **$A$** – frequency factor, **$T$** – kelvin temperature and **$R$** �
 
 ---
 
-[⬅ Chemical-Kinetics10](Chemical-Kinetics10.md) | [🏠 Index](index.md) | [Chemical-Kinetics12 ➡](Chemical-Kinetics12.md)
+[⬅ Chemical-Kinetics10](Chemical-Kinetics10.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics12 ➡](Chemical-Kinetics12.md)

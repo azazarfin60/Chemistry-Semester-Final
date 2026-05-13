@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties06](Colligative-Properties06.md) | [🏠 Index](index.md) | [Colligative-Properties08 ➡](Colligative-Properties08.md)
+[⬅ Colligative-Properties06](Colligative-Properties06.md) | [🏠 Index](00-index.md) | [Colligative-Properties08 ➡](Colligative-Properties08.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 31
 
-![Slide 31](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-031.png)
+> 📷 **[Diagram]** Slide 31
 
 ### Exact Copy of Text
 **Molecular Weight from Depression of Freezing Point**
@@ -31,7 +31,7 @@ This slide provides the algebraic rearrangement of the cryoscopic equation to so
 
 ## Slide 32
 
-![Slide 32](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-032.png)
+> 📷 **[Diagram]** Slide 32
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -48,14 +48,14 @@ $\Delta T_f = T_f^0 - T_f$ $\therefore T_f = 273.15 - 0.93 = 272.22$ or -0.93°C
 ### Diagram Analysis
 This slide contains two important types of cryoscopic problems:
 1. **Molar Mass Determination:** Finding the identity/structure of a solute (like Sulphur in $CS_2$). Note: 256 g/mol corresponds to $S_8$ molecules.
-2. **Predicting Freezing Points:** Calculating the actual freezing temperature of a solution (Urea in water). 
+2. **Predicting Freezing Points:** Calculating the actual freezing temperature of a solution (Urea in water).
 The steps show the use of the "1000" conversion factor and the subtraction from the pure solvent's freezing point ($T_f^0$).
 
 ---
 
 ## Slide 33
 
-![Slide 33](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-033.png)
+> 📷 **[Diagram]** Slide 33
 
 ### Exact Copy of Text
 **Semi-permeable Membrane (SPM)**
@@ -69,7 +69,7 @@ Jean-Antoine Nollet (19 November 1700)
 ### Diagram Analysis
 This slide shifts the focus to the physical mechanism of osmosis:
 * **Historical Context:** It honors Jean-Antoine Nollet, the physicist who discovered the phenomenon of osmosis.
-* **Biological and Physical Models:** 
+* **Biological and Physical Models:**
     * The left image shows a cell membrane with large red blood cells and smaller protein molecules, illustrating biological selective permeability.
     * The middle diagrams show "size-exclusion" filtering, where small molecules (blue) pass through pores while larger ones (pink/red) are blocked.
     * The right image shows a laboratory setup where a net of solvent molecules (blue spheres) passes through a membrane, while large solute particles are prevented from crossing.
@@ -78,7 +78,7 @@ This slide shifts the focus to the physical mechanism of osmosis:
 
 ## Slide 34
 
-![Slide 34](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-034.png)
+> 📷 **[Diagram]** Slide 34
 
 ### Exact Copy of Text
 **Osmotic Pressure**
@@ -97,7 +97,7 @@ This slide provides the foundational definitions for osmosis:
 
 ## Slide 35
 
-![Slide 35](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-035.png)
+> 📷 **[Diagram]** Slide 35
 
 ### Exact Copy of Text
 **Osmotic Pressure**
@@ -117,4 +117,4 @@ The circular microscopic diagrams below each U-tube show the arrow of net flux d
 
 ---
 
-[⬅ Colligative-Properties06](Colligative-Properties06.md) | [🏠 Index](index.md) | [Colligative-Properties08 ➡](Colligative-Properties08.md)
+[⬅ Colligative-Properties06](Colligative-Properties06.md) | [🏠 Index](00-index.md) | [Colligative-Properties08 ➡](Colligative-Properties08.md)

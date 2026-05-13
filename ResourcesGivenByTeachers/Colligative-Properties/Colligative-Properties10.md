@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties09](Colligative-Properties09.md) | [🏠 Index](index.md) | [Colligative-Properties11 ➡](Colligative-Properties11.md)
+[⬅ Colligative-Properties09](Colligative-Properties09.md) | [🏠 Index](00-index.md) | [Colligative-Properties11 ➡](Colligative-Properties11.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 46
 
-![Slide 46](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-046.png)
+> 📷 **[Diagram]** Slide 46
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -30,7 +30,7 @@ This slide presents two practical applications of colligative properties:
 
 ## Slide 47
 
-![Slide 47](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-047.png)
+> 📷 **[Diagram]** Slide 47
 
 ### Exact Copy of Text
 **Solve the Problem**
@@ -49,7 +49,7 @@ These problems test the student's ability to manage dimensional analysis alongsi
 
 ## Slide 48
 
-![Slide 48](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-048.png)
+> 📷 **[Diagram]** Slide 48
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -73,7 +73,7 @@ This slide provides the worked solution for Problem 2 from the previous slide.
 
 ## Slide 49
 
-![Slide 49](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-049.png)
+> 📷 **[Diagram]** Slide 49
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -98,7 +98,7 @@ This problem focuses on a **Polymer**, which typically has a high molar mass.
 
 ## Slide 50
 
-![Slide 50](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-050.png)
+> 📷 **[Diagram]** Slide 50
 
 ### Exact Copy of Text
 **Colligative Properties of Electrolytes**
@@ -116,4 +116,4 @@ This slide introduces the **Van't Hoff Factor ($i$)** conceptually, explaining w
 
 ---
 
-[⬅ Colligative-Properties09](Colligative-Properties09.md) | [🏠 Index](index.md) | [Colligative-Properties11 ➡](Colligative-Properties11.md)
+[⬅ Colligative-Properties09](Colligative-Properties09.md) | [🏠 Index](00-index.md) | [Colligative-Properties11 ➡](Colligative-Properties11.md)

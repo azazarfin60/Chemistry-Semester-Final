@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure19](Atomic-Structure19.md) | [🏠 Index](index.md) | [Atomic-Structure21 ➡](Atomic-Structure21.md)
+[⬅ Atomic-Structure19](Atomic-Structure19.md) | [🏠 Index](00-index.md) | [Atomic-Structure21 ➡](Atomic-Structure21.md)
 
 ---
 
@@ -10,7 +10,7 @@
 
 The octet rule states that the elements with eight electrons in the valence shell tend to be more stable and so, elements form bonds with other elements in such a way that they achieve this state.
 
-![CCl4 Lewis Structure](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-096.png)
+> 📷 **[Diagram]** CCl4 Lewis Structure
 
 **Diagram Analysis:**
 The slide illustrates the octet rule using **Carbon tetrachloride ($CCl_4$)**:
@@ -25,7 +25,7 @@ The slide illustrates the octet rule using **Carbon tetrachloride ($CCl_4$)**:
 
 1. **Incomplete Octet:** Beryllium has two, and Boron, or Aluminium, has three valence electrons. In compounds like $BeCl_2$ or $BCl_3$, the central Boron atom does not complete its octet yet form covalent bonds, which the octet rule could not explain.
 
-![Incomplete Octet Examples](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-097.png)
+> 📷 **[Diagram]** Incomplete Octet Examples
 
 **Diagram Analysis:**
 - **$BeCl_2$ Formation:** $Be$ (2 electrons) + $2Cl$ (7 electrons each) $\to$ $Cl-Be-Cl$.
@@ -43,7 +43,7 @@ The slide illustrates the octet rule using **Carbon tetrachloride ($CCl_4$)**:
 
 Phosphorus can form five bonds as **$PF_5$**, and Sulphur can form six bonds as **$SF_6$**, thereby expanding the octet to ten and twelve.
 
-![Expanded Octet Examples](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-098.png)
+> 📷 **[Diagram]** Expanded Octet Examples
 
 **Diagram Analysis:**
 - **$PF_5$:** Phosphorus (central atom) is bonded to five Fluorine atoms, resulting in **10 valence electrons** around Phosphorus.
@@ -59,7 +59,7 @@ Phosphorus can form five bonds as **$PF_5$**, and Sulphur can form six bonds as 
 
 The odd electron- containing atoms are reactive species, unstable, and some may largely exist as dimers.
 
-![Odd Electron Species](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-099.png)
+> 📷 **[Diagram]** Odd Electron Species
 
 **Diagram Analysis:**
 - **Nitric Oxide ($NO$):** The Nitrogen atom has 7 electrons in its valence environment (a lone pair, a double bond to Oxygen, and one **free radical** electron).
@@ -87,4 +87,4 @@ The odd electron- containing atoms are reactive species, unstable, and some may 
 
 ---
 
-[⬅ Atomic-Structure19](Atomic-Structure19.md) | [🏠 Index](index.md) | [Atomic-Structure21 ➡](Atomic-Structure21.md)
+[⬅ Atomic-Structure19](Atomic-Structure19.md) | [🏠 Index](00-index.md) | [Atomic-Structure21 ➡](Atomic-Structure21.md)

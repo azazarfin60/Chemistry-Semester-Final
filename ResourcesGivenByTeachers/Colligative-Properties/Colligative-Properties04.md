@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties03](Colligative-Properties03.md) | [🏠 Index](index.md) | [Colligative-Properties05 ➡](Colligative-Properties05.md)
+[⬅ Colligative-Properties03](Colligative-Properties03.md) | [🏠 Index](00-index.md) | [Colligative-Properties05 ➡](Colligative-Properties05.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 16
 
-![Slide 16](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-016.png)
+> 📷 **[Diagram]** Slide 16
 
 ### Exact Copy of Text
 **Elevation of Boiling Point**
@@ -22,16 +22,16 @@
 **Elevation of Boiling Point:** The difference in temperature between the boiling point of a solution and the boiling point of the pure solvent is the boiling-point elevation.
 
 ### Diagram Analysis
-The slide features a conceptual bar diagram to explain why boiling point increases. 
-* The left bar represents the pure solvent, where a certain amount of heating is needed to reach the "Boiling" threshold. 
-* The right bar represents the solution; the starting vapor pressure is "Reduced" due to the solute. Consequently, a much larger "Additional vapor pressure" (requiring higher temperature) must be generated to reach the same atmospheric pressure threshold. 
+The slide features a conceptual bar diagram to explain why boiling point increases.
+* The left bar represents the pure solvent, where a certain amount of heating is needed to reach the "Boiling" threshold.
+* The right bar represents the solution; the starting vapor pressure is "Reduced" due to the solute. Consequently, a much larger "Additional vapor pressure" (requiring higher temperature) must be generated to reach the same atmospheric pressure threshold.
 * This visual effectively links the phenomenon of vapor pressure lowering to boiling point elevation.
 
 ---
 
 ## Slide 17
 
-![Slide 17](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-017.png)
+> 📷 **[Diagram]** Slide 17
 
 ### Exact Copy of Text
 **Elevation of Boiling Point**
@@ -56,7 +56,7 @@ This slide provides microscopic context for boiling:
 
 ## Slide 18
 
-![Slide 18](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-018.png)
+> 📷 **[Diagram]** Slide 18
 
 ### Exact Copy of Text
 **Elevation of Boiling Point**
@@ -78,7 +78,7 @@ The slide presents a classic Pressure-Temperature (P-T) graph:
 
 ## Slide 19
 
-![Slide 19](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-019.png)
+> 📷 **[Diagram]** Slide 19
 
 ### Exact Copy of Text
 **Graphical Re-presentation of Elevation of Boiling Point**
@@ -110,7 +110,7 @@ This slide provides a more detailed geometric analysis of the P-T graph:
 
 ## Slide 20
 
-![Slide 20](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-020.png)
+> 📷 **[Diagram]** Slide 20
 
 ### Exact Copy of Text
 **Graphical Re-presentation of Elevation of Boiling Point**
@@ -136,12 +136,12 @@ $\Delta T_b = K_b \times C_m$ ------------------- (i)
 [$K_b = \text{Molal boiling point elevation constant of the solvent}$]
 
 ### Diagram Analysis
-This slide derives the final equation for boiling point elevation. 
-* It combines the proportionality found in Slide 19 with Raoult's Law ($x_2$). 
-* It shows the transition from mole fraction ($x_2$) to molality ($C_m$) by incorporating the mass and molar mass terms. 
+This slide derives the final equation for boiling point elevation.
+* It combines the proportionality found in Slide 19 with Raoult's Law ($x_2$).
+* It shows the transition from mole fraction ($x_2$) to molality ($C_m$) by incorporating the mass and molar mass terms.
 * The final equation $\Delta T_b = K_b \times C_m$ is the standard form used in chemistry to calculate boiling point changes, with $K_b$ being a characteristic property of the solvent.
 
 
 ---
 
-[⬅ Colligative-Properties03](Colligative-Properties03.md) | [🏠 Index](index.md) | [Colligative-Properties05 ➡](Colligative-Properties05.md)
+[⬅ Colligative-Properties03](Colligative-Properties03.md) | [🏠 Index](00-index.md) | [Colligative-Properties05 ➡](Colligative-Properties05.md)

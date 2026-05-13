@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure10](Atomic-Structure10.md) | [🏠 Index](index.md) | [Atomic-Structure12 ➡](Atomic-Structure12.md)
+[⬅ Atomic-Structure10](Atomic-Structure10.md) | [🏠 Index](00-index.md) | [Atomic-Structure12 ➡](Atomic-Structure12.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Orbit Vs Orbital**
 
-![Orbit vs Orbital VS Graphic](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-051.png)
+> 📷 **[Diagram]** Orbit vs Orbital VS Graphic
 
 **Diagram Analysis:**
 This slide provides a dynamic visual contrast between the two atomic models:
@@ -24,7 +24,7 @@ This slide provides a dynamic visual contrast between the two atomic models:
 
 **Shells** are a collection of subshells with the same principle quantum number, and **subshells** are a collection of orbitals with the same principle quantum number and angular momentum quantum number.
 
-![Shell Subshell Hierarchy](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-052.png)
+> 📷 **[Diagram]** Shell Subshell Hierarchy
 
 **Diagram Analysis:**
 The diagram illustrates the hierarchical organization of electrons in an atom using the $n=2$ shell as an example:
@@ -46,7 +46,7 @@ The number of electrons in K shell (1st orbit) can be calculated by $2n^2 = 2 \t
 
 Similarly, The number of electrons in L shell (2nd orbit) = $2 \times 2^2 = 8$. Thus, maximum number of electrons in 2nd orbit = 8
 
-![Bohr Model Electron Distribution](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-053.png)
+> 📷 **[Diagram]** Bohr Model Electron Distribution
 
 **Diagram Analysis:**
 The diagram visualizes the electron capacity of the first three shells:
@@ -97,4 +97,4 @@ The four types of Quantum Numbers are listed below:
 
 ---
 
-[⬅ Atomic-Structure10](Atomic-Structure10.md) | [🏠 Index](index.md) | [Atomic-Structure12 ➡](Atomic-Structure12.md)
+[⬅ Atomic-Structure10](Atomic-Structure10.md) | [🏠 Index](00-index.md) | [Atomic-Structure12 ➡](Atomic-Structure12.md)

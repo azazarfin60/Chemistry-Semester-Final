@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties05](Colligative-Properties05.md) | [🏠 Index](index.md) | [Colligative-Properties07 ➡](Colligative-Properties07.md)
+[⬅ Colligative-Properties05](Colligative-Properties05.md) | [🏠 Index](00-index.md) | [Colligative-Properties07 ➡](Colligative-Properties07.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 26
 
-![Slide 26](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-026.png)
+> 📷 **[Diagram]** Slide 26
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -30,16 +30,16 @@ $M_2 = 103.2 \text{ g/mole}$
 $\therefore \text{Molecular weight of the solute} = 103.2 \text{ g/mole}$
 
 ### Diagram Analysis
-This slide provides a comprehensive worked example that integrates density to find the mass of the solvent. 
-* It demonstrates the conversion of volume (100 ml) to mass (87.9 g) using density ($0.879 \text{ g/ml}$). 
-* It then proceeds with the standard molality substitution into the boiling point elevation formula to solve for the unknown molar mass ($M_2$). 
+This slide provides a comprehensive worked example that integrates density to find the mass of the solvent.
+* It demonstrates the conversion of volume (100 ml) to mass (87.9 g) using density ($0.879 \text{ g/ml}$).
+* It then proceeds with the standard molality substitution into the boiling point elevation formula to solve for the unknown molar mass ($M_2$).
 * The clear step-by-step algebraic manipulation makes it a strong pedagogical resource for understanding the practical use of ebullioscopy.
 
 ---
 
 ## Slide 27
 
-![Slide 27](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-027.png)
+> 📷 **[Diagram]** Slide 27
 
 ### Exact Copy of Text
 **Graphical Re-presentation of Depression of Freezing Point**
@@ -56,7 +56,7 @@ Similarly, the point B is freezing point of solution. Because, vapor pressure cu
 This slide introduces the concept of **Freezing Point Depression** through a Vapour Pressure vs. Temperature graph.
 * **Graph Features:** It shows three distinct curves: "frozen solvent" (solid phase), "liquid solvent", and "solution".
 * **Freezing Point Definition:** The freezing point is graphically identified as the intersection between the liquid phase vapor pressure curve and the solid phase vapor pressure curve.
-* **Key Intersections:** 
+* **Key Intersections:**
     * Point **O** marks the freezing point of the pure solvent ($T_0$).
     * Point **B** marks the freezing point of the solution ($T_f$).
 * The horizontal shift to the left ($\Delta T_f$) visually confirms that the solution freezes at a lower temperature than the pure solvent.
@@ -65,7 +65,7 @@ This slide introduces the concept of **Freezing Point Depression** through a Vap
 
 ## Slide 28
 
-![Slide 28](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-028.png)
+> 📷 **[Diagram]** Slide 28
 
 ### Exact Copy of Text
 **Graphical Re-presentation of Depression of Freezing Point**
@@ -87,7 +87,7 @@ or, $\Delta T_f \propto x_2$
 
 ### Diagram Analysis
 The slide provides the geometric and mathematical proof for the proportionality of freezing point depression.
-* It uses the geometric segments from the graph (Slide 27) to establish relationships. 
+* It uses the geometric segments from the graph (Slide 27) to establish relationships.
 * $BC$ represents the temperature change ($\Delta T_f$), and $OC$ represents the vapor pressure lowering ($P_0 - P$).
 * By assuming the curves are parallel near the freezing point, it proves that the depression in freezing point ($\Delta T_f$) is directly proportional to the relative lowering of vapor pressure, and thus to the mole fraction of the solute ($x_2$).
 
@@ -95,7 +95,7 @@ The slide provides the geometric and mathematical proof for the proportionality 
 
 ## Slide 29
 
-![Slide 29](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-029.png)
+> 📷 **[Diagram]** Slide 29
 
 ### Exact Copy of Text
 **Graphical Re-presentation of Depression of Freezing Point**
@@ -117,7 +117,7 @@ $K_f$ = Proportionality constant known as molal depression constant. It can be d
 
 ### Diagram Analysis
 This slide transitions from the geometric proof to the formal statement of Raoult's Law for freezing point depression.
-* It provides the mathematical definition of the **molal depression constant ($K_f$)**, also known as the cryoscopic constant. 
+* It provides the mathematical definition of the **molal depression constant ($K_f$)**, also known as the cryoscopic constant.
 * Point 2 emphasizes the colligative nature of the property: it depends on the number of particles (equimolecular quantities), not their identity.
 * The equation (i) provides the bridge between experimental masses and the resulting temperature change.
 
@@ -125,7 +125,7 @@ This slide transitions from the geometric proof to the formal statement of Raoul
 
 ## Slide 30
 
-![Slide 30](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-030.png)
+> 📷 **[Diagram]** Slide 30
 
 ### Exact Copy of Text
 **Equation for Depression of Freezing Point**
@@ -144,4 +144,4 @@ This slide summarizes the final cryoscopic equation. It explicitly shows how mol
 
 ---
 
-[⬅ Colligative-Properties05](Colligative-Properties05.md) | [🏠 Index](index.md) | [Colligative-Properties07 ➡](Colligative-Properties07.md)
+[⬅ Colligative-Properties05](Colligative-Properties05.md) | [🏠 Index](00-index.md) | [Colligative-Properties07 ➡](Colligative-Properties07.md)

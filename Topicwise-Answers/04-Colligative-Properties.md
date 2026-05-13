@@ -1,4 +1,4 @@
-[⬅ 03-Chemical-Bonding](03-Chemical-Bonding.md) | [🏠 Index](index.md) | [05-Atomic-Structure ➡](05-Atomic-Structure.md)
+[⬅ 03-Chemical-Bonding](03-Chemical-Bonding.md) | [🏠 Index](00-index.md) | [05-Atomic-Structure ➡](05-Atomic-Structure.md)
 
 ---
 
@@ -44,8 +44,8 @@ Where $\pi$ = osmotic pressure, $C$ = molarity (moles/Liter), $R$ = universal ga
 When a non-volatile solute, such as solid glucose, is dissolved in a volatile solvent like water, the resulting aqueous solution exhibits a vapor pressure lower than that of the pure water at the same temperature.
 
 1.  **Surface Area Blockage:** Vaporization is a surface phenomenon. In pure water, the entire surface is occupied by volatile water molecules that can readily escape into the vapor phase.
-2.  **Reduced Escape Rate:** In an aqueous glucose solution, the surface is occupied by both volatile water molecules and non-volatile glucose molecules. Since glucose does not vaporize, the fraction of the surface area available for water molecules to escape is reduced. 
-3.  **Equilibrium Shift:** Consequently, the rate of evaporation of water decreases. To re-establish liquid-vapor equilibrium, the rate of condensation must also decrease, which means fewer water vapor molecules are present in the gas phase above the liquid. 
+2.  **Reduced Escape Rate:** In an aqueous glucose solution, the surface is occupied by both volatile water molecules and non-volatile glucose molecules. Since glucose does not vaporize, the fraction of the surface area available for water molecules to escape is reduced.
+3.  **Equilibrium Shift:** Consequently, the rate of evaporation of water decreases. To re-establish liquid-vapor equilibrium, the rate of condensation must also decrease, which means fewer water vapor molecules are present in the gas phase above the liquid.
 4.  **Result:** Fewer vapor molecules exert less pressure. Therefore, the vapor pressure of the solution is lower than that of the pure solvent.
 
 ---
@@ -246,7 +246,7 @@ $$\pi = 6.64 \text{ atm}$$
 **Answer:**
 
 **Lowering of Vapor Pressure:**
-When a non-volatile solute (e.g., sugar or salt) is dissolved in a pure volatile solvent (e.g., water), it is experimentally observed that the vapor pressure of the resulting solution is lower than the vapor pressure of the pure solvent at the same temperature. 
+When a non-volatile solute (e.g., sugar or salt) is dissolved in a pure volatile solvent (e.g., water), it is experimentally observed that the vapor pressure of the resulting solution is lower than the vapor pressure of the pure solvent at the same temperature.
 If $P_o$ is the vapor pressure of the pure solvent and $P$ is the vapor pressure of the solution, then the difference $(P_o - P)$ is known as the **lowering of vapor pressure**. This occurs because solute molecules occupy surface sites, reducing the number of solvent molecules that can escape into the vapor phase.
 
 **Raoult's Law of Lowering of Vapor Pressure:**
@@ -373,4 +373,4 @@ According to the van 't Hoff equation for dilute solutions, **$\pi = CRT$** (whe
 
 ---
 
-[⬅ 03-Chemical-Bonding](03-Chemical-Bonding.md) | [🏠 Index](index.md) | [05-Atomic-Structure ➡](05-Atomic-Structure.md)
+[⬅ 03-Chemical-Bonding](03-Chemical-Bonding.md) | [🏠 Index](00-index.md) | [05-Atomic-Structure ➡](05-Atomic-Structure.md)

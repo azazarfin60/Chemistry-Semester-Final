@@ -1,4 +1,4 @@
-[⬅ Cemical-Bond03](Cemical-Bond03.md) | [🏠 Index](index.md) | [Cemical-Bond05 ➡](Cemical-Bond05.md)
+[⬅ Chemical-Bond03](Chemical-Bond03.md) | [🏠 Index](00-index.md) | [Chemical-Bond05 ➡](Chemical-Bond05.md)
 
 ---
 
@@ -97,4 +97,4 @@ The process of mixing pure atomic orbitals of nearly equal energy on an atom to 
 
 ---
 
-[⬅ Cemical-Bond03](Cemical-Bond03.md) | [🏠 Index](index.md) | [Cemical-Bond05 ➡](Cemical-Bond05.md)
+[⬅ Chemical-Bond03](Chemical-Bond03.md) | [🏠 Index](00-index.md) | [Chemical-Bond05 ➡](Chemical-Bond05.md)

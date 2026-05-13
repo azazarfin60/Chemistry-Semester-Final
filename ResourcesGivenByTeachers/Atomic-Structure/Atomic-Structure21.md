@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure20](Atomic-Structure20.md) | [🏠 Index](index.md) | [Atomic-Structure22 ➡](Atomic-Structure22.md)
+[⬅ Atomic-Structure20](Atomic-Structure20.md) | [🏠 Index](00-index.md) | [Atomic-Structure22 ➡](Atomic-Structure22.md)
 
 ---
 
@@ -20,7 +20,7 @@
 **Carbon Electron Configuration**
 **$1s^2 2s^2 2p^2$**
 
-![Carbon Configuration Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-101.png)
+> 📷 **[Diagram]** Carbon Configuration Diagram
 
 **Diagram Analysis:**
 The slide shows the diagonal filling rule (Möller diagram) specifically applied to Carbon:
@@ -96,4 +96,4 @@ Neon, argon, krypton, xenon, and radon in the periodic table belong to group-18 
 
 ---
 
-[⬅ Atomic-Structure20](Atomic-Structure20.md) | [🏠 Index](index.md) | [Atomic-Structure22 ➡](Atomic-Structure22.md)
+[⬅ Atomic-Structure20](Atomic-Structure20.md) | [🏠 Index](00-index.md) | [Atomic-Structure22 ➡](Atomic-Structure22.md)

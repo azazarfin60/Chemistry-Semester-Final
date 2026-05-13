@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure24](Atomic-Structure24.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Atomic-Structure24](Atomic-Structure24.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -50,4 +50,4 @@ The wavelength of an electron moving $5.31 \times 10^6 m/sec$ is $1.37 \times 10
 
 ---
 
-[⬅ Atomic-Structure24](Atomic-Structure24.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Atomic-Structure24](Atomic-Structure24.md) | [🏠 Index](00-index.md) | *(end)*

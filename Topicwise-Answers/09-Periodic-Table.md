@@ -1,4 +1,4 @@
-[⬅ 08-Solutions](08-Solutions.md) | [🏠 Index](index.md) | [10-Acid-Base-Buffer ➡](10-Acid-Base-Buffer.md)
+[⬅ 08-Solutions](08-Solutions.md) | [🏠 Index](00-index.md) | [10-Acid-Base-Buffer ➡](10-Acid-Base-Buffer.md)
 
 ---
 
@@ -135,10 +135,10 @@ Where $Z$ is the atomic number (actual nuclear charge) and $\sigma$ is the shiel
 **Evaluation based on Effective Nuclear Charge and Penetration:**
 According to the Aufbau principle, orbitals are filled in order of increasing energy. The energy of an orbital in a multi-electron atom is determined by the effective nuclear charge ($Z_{eff}$) experienced by an electron in that orbital, which in turn is affected by shielding and orbital penetration.
 
-Although the $4s$ orbital is in a higher principal shell ($n=4$) than the $3d$ orbital ($n=3$), the $4s$ orbital has an azimuthal quantum number $l=0$, while the $3d$ orbital has $l=2$. 
+Although the $4s$ orbital is in a higher principal shell ($n=4$) than the $3d$ orbital ($n=3$), the $4s$ orbital has an azimuthal quantum number $l=0$, while the $3d$ orbital has $l=2$.
 Because the $s$-orbital has a spherical shape with electron density maxima near the nucleus, an electron in the $4s$ orbital significantly **penetrates** the inner electron core. In contrast, the $3d$ orbital is highly diffuse and its electron density lies further out, causing it to be heavily shielded by the $1s, 2s, 2p, 3s$, and $3p$ electrons.
 
-Due to this superior penetration, an electron in the $4s$ orbital experiences less shielding from the inner core and therefore feels a **higher effective nuclear charge ($Z_{eff}$)** compared to an electron in the $3d$ orbital. The stronger attraction to the nucleus gives the $4s$ orbital lower potential energy than the $3d$ orbital. 
+Due to this superior penetration, an electron in the $4s$ orbital experiences less shielding from the inner core and therefore feels a **higher effective nuclear charge ($Z_{eff}$)** compared to an electron in the $3d$ orbital. The stronger attraction to the nucleus gives the $4s$ orbital lower potential energy than the $3d$ orbital.
 *(This is also verified by the $(n+l)$ rule: For $4s, 4+0=4$; for $3d, 3+2=5$. The lower value indicates lower energy).*
 Consequently, the $4s$ orbital is lower in energy and is filled with electrons before the $3d$ orbitals.
 
@@ -298,7 +298,6 @@ It is always observed that $IP_1 < IP_2 < IP_3 \dots$ because as each electron i
 ---
 
 
-
 ---
 
-[⬅ 08-Solutions](08-Solutions.md) | [🏠 Index](index.md) | [10-Acid-Base-Buffer ➡](10-Acid-Base-Buffer.md)
+[⬅ 08-Solutions](08-Solutions.md) | [🏠 Index](00-index.md) | [10-Acid-Base-Buffer ➡](10-Acid-Base-Buffer.md)

@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure09](Atomic-Structure09.md) | [🏠 Index](index.md) | [Atomic-Structure11 ➡](Atomic-Structure11.md)
+[⬅ Atomic-Structure09](Atomic-Structure09.md) | [🏠 Index](00-index.md) | [Atomic-Structure11 ➡](Atomic-Structure11.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Orbital**
 
-![Orbital Shapes](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-046.png)
+> 📷 **[Diagram]** Orbital Shapes
 
 **Diagram Analysis:**
 The slide provides high-fidelity visual representations of the four main types of atomic orbitals:
@@ -29,7 +29,7 @@ The orbital is a depiction of the space electrons are most likely to exist. **No
 | :--- | :---: | :---: | :---: |
 | **# of Nodes** | 0 | 1 | 2 |
 
-![Nodes in Orbitals](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-047.png)
+> 📷 **[Diagram]** Nodes in Orbitals
 
 **Diagram Analysis:**
 The slide illustrates the concept of nodes (regions of zero electron density).
@@ -81,7 +81,7 @@ The slide illustrates the concept of nodes (regions of zero electron density).
 
 ### **Reminder- Orbit & Orbital**
 
-![Orbit vs Orbital Comparison](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-050.png)
+> 📷 **[Diagram]** Orbit vs Orbital Comparison
 
 **Diagram Analysis:**
 This slide serves as a visual summary of the two main conceptual models discussed:
@@ -91,4 +91,4 @@ This slide serves as a visual summary of the two main conceptual models discusse
 
 ---
 
-[⬅ Atomic-Structure09](Atomic-Structure09.md) | [🏠 Index](index.md) | [Atomic-Structure11 ➡](Atomic-Structure11.md)
+[⬅ Atomic-Structure09](Atomic-Structure09.md) | [🏠 Index](00-index.md) | [Atomic-Structure11 ➡](Atomic-Structure11.md)

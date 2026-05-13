@@ -1,4 +1,4 @@
-[⬅ 01-Chemical-Kinetics](01-Chemical-Kinetics.md) | [🏠 Index](index.md) | [03-Chemical-Bonding ➡](03-Chemical-Bonding.md)
+[⬅ 01-Chemical-Kinetics](01-Chemical-Kinetics.md) | [🏠 Index](00-index.md) | [03-Chemical-Bonding ➡](03-Chemical-Bonding.md)
 
 ---
 
@@ -89,7 +89,7 @@ $$K_p = \frac{\frac{4x^2 \cdot P^2}{(a + b - 2x)^2}}{\frac{(a - x)(b - 3x)^3 \cd
 Simplifying the expression by canceling terms:
 $$K_p = \frac{4x^2 (a + b - 2x)^2}{(a - x)(b - 3x)^3 P^2}$$
 
-This is the exact general expression for $K_p$. 
+This is the exact general expression for $K_p$.
 
 *(Note: If the initial mixture is strictly stoichiometric, i.e., $a=1, b=3$, the equation simplifies further: $n_{total} = 4 - 2x$, and $K_p = \frac{16x^2 (2-x)^2}{27(1-x)^4 P^2}$).*
 
@@ -135,7 +135,7 @@ The Law of Mass Action states that *"At a given constant temperature, the rate o
 **Answer:**
 
 **Reversible Reactions:**
-These are chemical reactions that take place in both the forward and backward directions simultaneously under the same conditions. Reactants combine to form products, and those same products can react with each other to reform the original reactants. They are usually carried out in closed vessels and never go to 100% completion; instead, they eventually reach a state of dynamic equilibrium. 
+These are chemical reactions that take place in both the forward and backward directions simultaneously under the same conditions. Reactants combine to form products, and those same products can react with each other to reform the original reactants. They are usually carried out in closed vessels and never go to 100% completion; instead, they eventually reach a state of dynamic equilibrium.
 *   *Example:* The synthesis of ammonia: $N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)$
 
 **Irreversible Reactions:**
@@ -172,7 +172,7 @@ Applying **Le Chatelier's Principle** to maximize $NH_3$ yield:
 Chemical equilibrium is the state of a reversible reaction in a closed system where the rate of the forward reaction becomes exactly equal to the rate of the backward (reverse) reaction. At this state, the concentrations of reactants and products remain constant over time, and macroscopic properties like pressure, color, and temperature stop changing.
 
 **Why is it called a dynamic equilibrium?**
-In some physical systems, equilibrium implies a static state where all motion has stopped. However, chemical equilibrium is termed "dynamic" because the chemical reactions have **not** ceased. 
+In some physical systems, equilibrium implies a static state where all motion has stopped. However, chemical equilibrium is termed "dynamic" because the chemical reactions have **not** ceased.
 At equilibrium, the reactant molecules are still continuously colliding to form products (forward reaction), and the product molecules are continuously colliding to reform reactants (backward reaction). Because these two opposing processes are occurring at exactly the same speed ($Rate_{forward} = Rate_{backward}$), their macroscopic effects perfectly cancel each other out. There is constant microscopic activity, but zero net change, hence it is a "dynamic" balance.
 
 ---
@@ -230,7 +230,7 @@ Reaction: $2SO_2(g) + O_2(g) \rightleftharpoons 2SO_3(g); \quad \Delta H = -196 
 **Answer:**
 
 **Reversible Reactions:**
-These are reactions that take place in both the forward and backward directions simultaneously under the same conditions. Reactants combine to form products, and those same products can react to reform the original reactants. They are usually carried out in closed vessels and never go to 100% completion, establishing a dynamic equilibrium. 
+These are reactions that take place in both the forward and backward directions simultaneously under the same conditions. Reactants combine to form products, and those same products can react to reform the original reactants. They are usually carried out in closed vessels and never go to 100% completion, establishing a dynamic equilibrium.
 *   *Example:* Synthesis of ammonia: $N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)$
 
 **Irreversible Reactions:**
@@ -444,7 +444,7 @@ To convert the natural logarithm ($\ln$, base $e$) to the common logarithm ($\lo
 **$$\Delta G^\circ = -2.303 RT \log K_p$$**
 
 **Comment on the Expression:**
-This is one of the most vitally important equations in physical chemistry because it bridges the gap between pure thermodynamics ($\Delta G^\circ$) and chemical kinetics/equilibrium ($K_p$). 
+This is one of the most vitally important equations in physical chemistry because it bridges the gap between pure thermodynamics ($\Delta G^\circ$) and chemical kinetics/equilibrium ($K_p$).
 It allows us to mathematically predict the feasibility and extent of a chemical reaction before even performing it:
 *   If **$\Delta G^\circ$ is highly negative**, the math dictates that $\log K_p$ must be a large positive number, meaning **$K_p \gg 1$**. The reaction is highly spontaneous and proceeds almost to completion (favoring products).
 *   If **$\Delta G^\circ$ is highly positive**, $\log K_p$ is negative, so **$K_p \ll 1$**. The reaction is highly non-spontaneous and hardly proceeds at all (favoring reactants).
@@ -534,4 +534,4 @@ The state of chemical equilibrium possesses several distinct, fundamental charac
 
 ---
 
-[⬅ 01-Chemical-Kinetics](01-Chemical-Kinetics.md) | [🏠 Index](index.md) | [03-Chemical-Bonding ➡](03-Chemical-Bonding.md)
+[⬅ 01-Chemical-Kinetics](01-Chemical-Kinetics.md) | [🏠 Index](00-index.md) | [03-Chemical-Bonding ➡](03-Chemical-Bonding.md)

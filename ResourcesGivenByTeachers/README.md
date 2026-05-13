@@ -4,7 +4,7 @@
 Welcome to the `ResourcesGivenByTeachers` directory. This is the foundational data layer of the entire repository.
 
 ## 🎯 Purpose & Context
-This folder contains the digitized, transcribed versions of the original lecture slides, textbooks, and class handouts provided by the instructors during the course. 
+This folder contains the digitized, transcribed versions of the original lecture slides, textbooks, and class handouts provided by the instructors during the course.
 
 The content here is broken down into specific sub-directories based on the major curriculum topics (e.g., `Chemical-Kinetics`, `Thermochemistry`).
 

@@ -1,4 +1,4 @@
-[⬅ Acid-Base01](Acid-Base01.md) | [🏠 Index](index.md) | [Acid-Base03 ➡](Acid-Base03.md)
+[⬅ Acid-Base01](Acid-Base01.md) | [🏠 Index](00-index.md) | [Acid-Base03 ➡](Acid-Base03.md)
 
 ---
 
@@ -124,4 +124,4 @@ This concept can explain acid-base reactions in both aqueous and non-aqueous sol
 
 ---
 
-[⬅ Acid-Base01](Acid-Base01.md) | [🏠 Index](index.md) | [Acid-Base03 ➡](Acid-Base03.md)
+[⬅ Acid-Base01](Acid-Base01.md) | [🏠 Index](00-index.md) | [Acid-Base03 ➡](Acid-Base03.md)

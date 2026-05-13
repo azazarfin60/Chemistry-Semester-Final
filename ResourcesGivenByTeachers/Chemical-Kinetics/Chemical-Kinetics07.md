@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics06](Chemical-Kinetics06.md) | [🏠 Index](index.md) | [Chemical-Kinetics08 ➡](Chemical-Kinetics08.md)
+[⬅ Chemical-Kinetics06](Chemical-Kinetics06.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics08 ➡](Chemical-Kinetics08.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 31
 
-![Practice Problems for First Order Reactions](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-031.png)
+> 📷 **[Diagram]** Practice Problems for First Order Reactions
 
 ### **Solve Problem**
 
@@ -20,7 +20,7 @@
 
 ## Slide 32
 
-![Numerical Problems and Solutions](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-032.png)
+> 📷 **[Diagram]** Numerical Problems and Solutions
 
 ### **Numerical Problem**
 
@@ -46,7 +46,7 @@ $$\frac{t}{t_{1/2}} = \frac{6.909}{k} \times \frac{k}{0.693} = 10$$
 
 ## Slide 33
 
-![Kinetics of Second Order Reactions - Introduction](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-033.png)
+> 📷 **[Diagram]** Kinetics of Second Order Reactions - Introduction
 
 ### **Kinetics of Second Order Reaction**
 
@@ -75,7 +75,7 @@ A **second-order reaction** rate is proportional to the square of the concentrat
 
 ## Slide 34
 
-![Second Order Derivation - Type 1](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-034.png)
+> 📷 **[Diagram]** Second Order Derivation - Type 1
 
 ### **Kinetics of Second Order Reaction**
 
@@ -97,7 +97,7 @@ When, $t = 0$, then $x = 0$, From eq-(ii), $\text{Constant} = \frac{1}{a}$
 
 ## Slide 35
 
-![Second Order Derivation - Type 2](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-035.png)
+> 📷 **[Diagram]** Second Order Derivation - Type 2
 
 ### **Kinetics of Second Order Reaction**
 
@@ -118,4 +118,4 @@ Or, $$\frac{dx}{(a-x)(b-x)} = kdt$$
 
 ---
 
-[⬅ Chemical-Kinetics06](Chemical-Kinetics06.md) | [🏠 Index](index.md) | [Chemical-Kinetics08 ➡](Chemical-Kinetics08.md)
+[⬅ Chemical-Kinetics06](Chemical-Kinetics06.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics08 ➡](Chemical-Kinetics08.md)

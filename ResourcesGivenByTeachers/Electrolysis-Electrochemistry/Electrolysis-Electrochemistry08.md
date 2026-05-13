@@ -1,4 +1,4 @@
-[⬅ Electrolysis-Electrochemistry07](Electrolysis-Electrochemistry07.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Electrolysis-Electrochemistry07](Electrolysis-Electrochemistry07.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -17,4 +17,4 @@
 
 ---
 
-[⬅ Electrolysis-Electrochemistry07](Electrolysis-Electrochemistry07.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Electrolysis-Electrochemistry07](Electrolysis-Electrochemistry07.md) | [🏠 Index](00-index.md) | *(end)*

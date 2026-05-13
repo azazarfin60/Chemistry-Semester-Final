@@ -1,11 +1,11 @@
-[⬅ Chemical-Equilibrium05](Chemical-Equilibrium05.md) | [🏠 Index](index.md) | [Chemical-Equilibrium07 ➡](Chemical-Equilibrium07.md)
+[⬅ Chemical-Equilibrium05](Chemical-Equilibrium05.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium07 ➡](Chemical-Equilibrium07.md)
 
 ---
 
 # Chemical Equilibrium - Slides 26-30
 
 ## Slide 26
-![Chemical Equilibrium-026](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-026.png)
+> 📷 **[Diagram]** Chemical Equilibrium-026
 
 ### Text Content
 **Numerical Problem**
@@ -28,7 +28,7 @@ $$K_c = 2.68 \times 10^{-3}$$
 ---
 
 ## Slide 27
-![Chemical Equilibrium-027](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-027.png)
+> 📷 **[Diagram]** Chemical Equilibrium-027
 
 ### Text Content
 **Numerical Problem**
@@ -43,7 +43,7 @@ A mixture of 0.500 mol $H_2$ and 0.500 mol $I_2$ was placed in a 1.00-L stainles
 ---
 
 ## Slide 28
-![Chemical Equilibrium-028](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-028.png)
+> 📷 **[Diagram]** Chemical Equilibrium-028
 
 ### Text Content
 **Numerical Problem (Continued)**
@@ -72,7 +72,7 @@ $$x = 0.393 \text{ M}$$
 ---
 
 ## Slide 29
-![Chemical Equilibrium-029](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-029.png)
+> 📷 **[Diagram]** Chemical Equilibrium-029
 
 ### Text Content
 **Le-châtelier’s Principle**
@@ -90,7 +90,7 @@ The visual demonstrates the effect of pressure (volume) change on the $N_2O_4 \r
 ---
 
 ## Slide 30
-![Chemical Equilibrium-030](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-030.png)
+> 📷 **[Diagram]** Chemical Equilibrium-030
 
 ### Text Content
 **Effect of Temperature**
@@ -110,4 +110,4 @@ The experiment visualizes the endothermic nature of this complex ion reaction:
 
 ---
 
-[⬅ Chemical-Equilibrium05](Chemical-Equilibrium05.md) | [🏠 Index](index.md) | [Chemical-Equilibrium07 ➡](Chemical-Equilibrium07.md)
+[⬅ Chemical-Equilibrium05](Chemical-Equilibrium05.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium07 ➡](Chemical-Equilibrium07.md)

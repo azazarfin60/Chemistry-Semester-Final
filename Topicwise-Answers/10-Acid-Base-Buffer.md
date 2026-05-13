@@ -1,4 +1,4 @@
-[⬅ 09-Periodic-Table](09-Periodic-Table.md) | [🏠 Index](index.md) | *(end)*
+[⬅ 09-Periodic-Table](09-Periodic-Table.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -37,7 +37,7 @@ Buffer solutions are broadly classified into two types:
 The mechanism by which a buffer solution resists the change in pH upon the addition of an acid or a base is called buffer action. It works by having components that can neutralize any added $H^+$ or $OH^-$ ions.
 
 **Explanation (Acidic Buffer Example):**
-Consider an acidic buffer containing acetic acid ($CH_3COOH$) and sodium acetate ($CH_3COONa$). 
+Consider an acidic buffer containing acetic acid ($CH_3COOH$) and sodium acetate ($CH_3COONa$).
 In solution, the salt is completely ionized, while the weak acid is only slightly ionized (and its ionization is further suppressed by the common $CH_3COO^-$ ion):
 $CH_3COONa \rightarrow CH_3COO^- + Na^+$ (Complete ionization)
 $CH_3COOH \rightleftharpoons CH_3COO^- + H^+$ (Weak ionization)
@@ -177,18 +177,6 @@ A **Buffer Solution** is a specialized aqueous solution that stubbornly resists 
 *   If a strong acid (like $HCl$) is added, the highly reactive $H^+$ ions are quickly "mopped up" and neutralized by the reserve conjugate base (acetate ions) to form more of the weak, un-ionized acid.
 *   If a strong base (like $NaOH$) is added, the highly reactive $OH^-$ ions are neutralized by the reserve $H^+$ from the weak acid, forcing the weak acid to slightly dissociate to replace the lost protons. In both cases, the dangerous free $H^+$ or $OH^-$ is removed, keeping the pH stable.
 
----
-
-## 📄 Source: 2018 Exam (Short Notes)
-
-### (c) Buffer solution and Buffer's action
-A **Buffer Solution** is a specialized aqueous solution that stubbornly resists any drastic or sudden changes in its pH level upon the addition of small to moderate quantities of a strong acid or a strong base.
-**Buffer's Action (Mechanism):** This resistance is achieved by having a "reserve" of both an acidic component and a basic component in the solution (usually a weak acid and its conjugate base salt, e.g., Acetic acid + Sodium acetate).
-*   If a strong acid (like $HCl$) is added, the highly reactive $H^+$ ions are quickly "mopped up" and neutralized by the reserve conjugate base (acetate ions) to form more of the weak, un-ionized acid.
-*   If a strong base (like $NaOH$) is added, the highly reactive $OH^-$ ions are neutralized by the reserve $H^+$ from the weak acid, forcing the weak acid to slightly dissociate to replace the lost protons. In both cases, the dangerous free $H^+$ or $OH^-$ is removed, keeping the pH stable.
-
----
-
 ## 📄 Source: 2017 Exam (Short Notes)
 
 ### (c) Lewis concept of acids and bases.
@@ -202,7 +190,6 @@ Proposed by G.N. Lewis (1923), this is the most comprehensive theory because it 
 ---
 
 
-
 ---
 
-[⬅ 09-Periodic-Table](09-Periodic-Table.md) | [🏠 Index](index.md) | *(end)*
+[⬅ 09-Periodic-Table](09-Periodic-Table.md) | [🏠 Index](00-index.md) | *(end)*

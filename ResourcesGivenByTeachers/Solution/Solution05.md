@@ -1,4 +1,4 @@
-[⬅ Solution04](Solution04.md) | [🏠 Index](index.md) | [Solution06 ➡](Solution06.md)
+[⬅ Solution04](Solution04.md) | [🏠 Index](00-index.md) | [Solution06 ➡](Solution06.md)
 
 ---
 
@@ -9,7 +9,7 @@ author: "Digitized Slides"
 
 # Slide 21
 
-![Factors Affecting Solubility Overview](Solution-021.png)
+> 📷 **[Diagram]** Factors Affecting Solubility Overview
 
 ## **Factors Affecting Solubility**
 
@@ -27,7 +27,7 @@ The slide features a laboratory photograph of a **precipitation reaction**.
 
 # Slide 22
 
-![Solubility vs Temperature Graph 1](Solution-022.png)
+> 📷 **[Diagram]** Solubility vs Temperature Graph 1
 
 ## **Factors Affecting Solubility**
 
@@ -45,7 +45,7 @@ This graph plots solubility (grams of solute per 100g of water) against temperat
 
 # Slide 23
 
-![Solubility vs Temperature Graph 2](Solution-023.png)
+> 📷 **[Diagram]** Solubility vs Temperature Graph 2
 
 ## **Factors Affecting Solubility**
 
@@ -61,7 +61,7 @@ This graph provides a broader range of salts ($NaNO_3, CaCl_2, Pb(NO_3)_2, KNO_3
 
 # Slide 24
 
-![Gas Solubility vs Temperature](Solution-024.png)
+> 📷 **[Diagram]** Gas Solubility vs Temperature
 
 ## **Factors Affecting Solubility**
 
@@ -79,7 +79,7 @@ The graph plots the solubility (in mM) of various gases ($CH_4, O_2, CO, He$) ag
 
 # Slide 25
 
-![Henry's Law](Solution-025.png)
+> 📷 **[Diagram]** Henry's Law
 
 ## **Henry’s Law**
 
@@ -102,4 +102,4 @@ The three-part diagram illustrates the effect of pressure on gas solubility:
 
 ---
 
-[⬅ Solution04](Solution04.md) | [🏠 Index](index.md) | [Solution06 ➡](Solution06.md)
+[⬅ Solution04](Solution04.md) | [🏠 Index](00-index.md) | [Solution06 ➡](Solution06.md)

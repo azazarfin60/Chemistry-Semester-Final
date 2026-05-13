@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [concise analysis ➡](concise_analysis.md)
+*(start)* | [🏠 Index](00-index.md) | [concise analysis ➡](concise_analysis.md)
 
 ---
 
@@ -757,4 +757,4 @@ The ultimate study priority list, ranked by a composite score of: frequency acro
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [concise analysis ➡](concise_analysis.md)
+*(start)* | [🏠 Index](00-index.md) | [concise analysis ➡](concise_analysis.md)

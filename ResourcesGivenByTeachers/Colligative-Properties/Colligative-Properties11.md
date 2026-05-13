@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties10](Colligative-Properties10.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Colligative-Properties10](Colligative-Properties10.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 51
 
-![Slide 51](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-051.png)
+> 📷 **[Diagram]** Slide 51
 
 ### Exact Copy of Text
 **Abnormal Colligative Properties**
@@ -32,4 +32,4 @@ This concluding slide synthesizes the theory of "Anomalous Colligative Propertie
 
 ---
 
-[⬅ Colligative-Properties10](Colligative-Properties10.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Colligative-Properties10](Colligative-Properties10.md) | [🏠 Index](00-index.md) | *(end)*

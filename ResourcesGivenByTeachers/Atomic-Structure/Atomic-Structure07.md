@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure06](Atomic-Structure06.md) | [🏠 Index](index.md) | [Atomic-Structure08 ➡](Atomic-Structure08.md)
+[⬅ Atomic-Structure06](Atomic-Structure06.md) | [🏠 Index](00-index.md) | [Atomic-Structure08 ➡](Atomic-Structure08.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Zeeman Effect**
 
-![The Zeeman Effect Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-031.png)
+> 📷 **[Diagram]** The Zeeman Effect Diagram
 
 **Diagram Analysis:**
 The diagram compares an atom's energy levels and spectra with and without a magnetic field.
@@ -51,7 +51,7 @@ On the revolving electron in the hydrogen atom, two types of forces act,
 
 Centrifugal force and electric force acted in the opposite direction. The electron may keep on revolving in hydrogen atom energy levels if these two forces act in the opposite direction and must balance each other. Therefore, **$mv^2 = e^2/r$**.
 
-![Electron Forces Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-033.png)
+> 📷 **[Diagram]** Electron Forces Diagram
 
 **Diagram Analysis:**
 The diagram shows a simple Bohr model of a hydrogen atom.
@@ -103,4 +103,4 @@ The relation between the first Bohr orbit and the nth orbit of the hydrogen atom
 
 ---
 
-[⬅ Atomic-Structure06](Atomic-Structure06.md) | [🏠 Index](index.md) | [Atomic-Structure08 ➡](Atomic-Structure08.md)
+[⬅ Atomic-Structure06](Atomic-Structure06.md) | [🏠 Index](00-index.md) | [Atomic-Structure08 ➡](Atomic-Structure08.md)

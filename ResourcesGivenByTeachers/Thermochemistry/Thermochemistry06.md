@@ -1,4 +1,4 @@
-[⬅ Thermochemistry05](Thermochemistry05.md) | [🏠 Index](index.md) | [Thermochemistry07 ➡](Thermochemistry07.md)
+[⬅ Thermochemistry05](Thermochemistry05.md) | [🏠 Index](00-index.md) | [Thermochemistry07 ➡](Thermochemistry07.md)
 
 ---
 
@@ -148,4 +148,4 @@ It is obvious from the above examples that by the addition of a series of chemic
 
 ---
 
-[⬅ Thermochemistry05](Thermochemistry05.md) | [🏠 Index](index.md) | [Thermochemistry07 ➡](Thermochemistry07.md)
+[⬅ Thermochemistry05](Thermochemistry05.md) | [🏠 Index](00-index.md) | [Thermochemistry07 ➡](Thermochemistry07.md)

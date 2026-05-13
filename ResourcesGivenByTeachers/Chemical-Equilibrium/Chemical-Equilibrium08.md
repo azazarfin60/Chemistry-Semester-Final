@@ -1,11 +1,11 @@
-[⬅ Chemical-Equilibrium07](Chemical-Equilibrium07.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Chemical-Equilibrium07](Chemical-Equilibrium07.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
 # Chemical Equilibrium - Slides 36-39
 
 ## Slide 36
-![Chemical Equilibrium-036](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-036.png)
+> 📷 **[Diagram]** Chemical Equilibrium-036
 
 ### Text Content
 **The Haber Process: Concentration and Stress**
@@ -30,7 +30,7 @@ The graph illustrates the dynamic response of the system to a concentration stre
 ---
 
 ## Slide 37
-![Chemical Equilibrium-037](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-037.png)
+> 📷 **[Diagram]** Chemical Equilibrium-037
 
 ### Text Content
 **The Haber Process: Yield Analysis**
@@ -48,7 +48,7 @@ Two graphs analyze the percentage yield of ammonia:
 ---
 
 ## Slide 38
-![Chemical Equilibrium-038](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-038.png)
+> 📷 **[Diagram]** Chemical Equilibrium-038
 
 ### Text Content
 **The Haber Process - Animation**
@@ -58,7 +58,7 @@ Title card for an educational animation: "What is the Haber Process?". This reso
 ---
 
 ## Slide 39
-![Chemical Equilibrium-039](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-039.png)
+> 📷 **[Diagram]** Chemical Equilibrium-039
 
 ### Text Content
 **Numerical Problem: Haber Process**
@@ -82,4 +82,4 @@ $$K_p = \frac{(2.24 \times 10^{-3})^2}{(0.432)(0.928)^3} \approx 1.45 \times 10^
 
 ---
 
-[⬅ Chemical-Equilibrium07](Chemical-Equilibrium07.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Chemical-Equilibrium07](Chemical-Equilibrium07.md) | [🏠 Index](00-index.md) | *(end)*

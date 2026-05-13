@@ -1,4 +1,4 @@
-[⬅ 04-Colligative-Properties](04-Colligative-Properties.md) | [🏠 Index](index.md) | [06-Thermochemistry ➡](06-Thermochemistry.md)
+[⬅ 04-Colligative-Properties](04-Colligative-Properties.md) | [🏠 Index](00-index.md) | [06-Thermochemistry ➡](06-Thermochemistry.md)
 
 ---
 
@@ -28,7 +28,7 @@ Niels Bohr proposed his atomic model in 1913 to overcome the limitations of Ruth
     *   $h$ = Planck's constant
     *   $n$ = an integer (1, 2, 3...) called the principal quantum number.
 3.  **Energy Levels (Shells):** The stationary orbits are designated as K, L, M, N... shells, corresponding to $n = 1, 2, 3, 4...$ respectively. The energy of an orbit increases as its distance from the nucleus increases.
-4.  **Emission and Absorption of Energy:** 
+4.  **Emission and Absorption of Energy:**
     *   Energy is absorbed when an electron jumps from a lower energy orbit to a higher energy orbit (excitation).
     *   Energy is emitted (radiated) in the form of a photon when an electron jumps from a higher energy orbit ($E_2$) back to a lower energy orbit ($E_1$).
     *   The frequency ($\nu$) of the emitted radiation is given by Planck's equation:
@@ -70,7 +70,7 @@ An emission spectrum is the spectrum of frequencies (or wavelengths) of electrom
 **Answer:**
 
 **Magnetic Quantum Number ($m_l$):**
-The magnetic quantum number determines the spatial orientation of an orbital relative to the standard coordinate axes when the atom is placed in an external magnetic field. 
+The magnetic quantum number determines the spatial orientation of an orbital relative to the standard coordinate axes when the atom is placed in an external magnetic field.
 It describes how the electron cloud is oriented in 3D space. For a given azimuthal quantum number ($l$), $m_l$ can take integral values ranging from $-l$ through $0$ to $+l$. The total number of possible $m_l$ values for a given subshell is $(2l + 1)$, which corresponds to the total number of orbitals in that subshell.
 
 ---
@@ -226,7 +226,7 @@ Spectra are broadly classified into two main types based on how they are produce
 
 **Answer:**
 
-An atomic spectrum (specifically the line emission spectrum) consists of distinct, sharply defined bright lines of specific wavelengths. These wavelengths correspond exactly to the discrete energy differences between the quantized energy levels within that specific atom. 
+An atomic spectrum (specifically the line emission spectrum) consists of distinct, sharply defined bright lines of specific wavelengths. These wavelengths correspond exactly to the discrete energy differences between the quantized energy levels within that specific atom.
 Because the atomic structure, the number of protons, and the specific spacing of energy levels are uniquely different for every chemical element, no two elements can ever produce the exact same pattern of spectral lines. Just as a human fingerprint uniquely identifies a person, the exact pattern and frequencies of an atomic spectrum uniquely identify the element producing it, making it the "fingerprint" of the atom.
 
 ---
@@ -276,29 +276,6 @@ A band spectrum originates from **molecules** (molecular spectrum). Unlike atoms
 
 ## 📄 Source: 2018 Exam
 
-### (b) Magnetic quantum number
-**Answer:**
-The magnetic quantum number ($m_l$) is the third quantum number derived from the Schrödinger wave equation.
-*   **Significance:** It specifies the spatial orientation of an orbital within a particular subshell under the influence of an external magnetic field. It dictates exactly how many specific orbitals exist within that subshell.
-*   **Values:** For any given azimuthal quantum number ($l$), $m_l$ can take integral values ranging from $-l$ through $0$ to $+l$. This results in exactly $(2l + 1)$ values.
-*   *Example:* If $l=1$ (a p-subshell), $m_l$ can be $-1, 0, +1$, indicating there are three p-orbitals oriented differently in space ($p_x, p_y, p_z$).
-
----
-
-### (c) Hund's principle and (n+l) rules
-**Answer:**
-**Hund's Rule of Maximum Multiplicity:** This rule governs the filling of electrons in degenerate orbitals (orbitals with identical energy, such as the three p-orbitals or five d-orbitals). It states that electron pairing will not occur in degenerate orbitals until each orbital of that given subshell is singly occupied with an electron, and all these single electrons must have parallel spins. This arrangement minimizes inter-electronic repulsion and maximizes stability.
-
-**(n+l) Rule (Madelung's Rule):** This rule is used to determine the relative energy order of different atomic orbitals, deciding the sequence in which they are filled according to the Aufbau principle.
-1.  Orbitals with a lower sum of $(n+l)$ have lower potential energy and are filled with electrons first. (e.g., $4s$: $n+l = 4+0=4$; $3d$: $n+l = 3+2=5$. Thus, $4s$ is filled before $3d$).
-2.  If two distinct orbitals happen to have the exact same $(n+l)$ value, the orbital with the lower principal quantum number '$n$' has the lower energy and is filled first. (e.g., $3p$: $3+1=4$; $4s$: $4+0=4$. The $3p$ orbital is filled first because $3 < 4$).
-
----
-
----
-
-## 📄 Source: 2018 Exam
-
 ### Q1 Short note: (12)
 ### (a) Schrodinger's wave equation
 **Answer:**
@@ -333,7 +310,6 @@ The magnetic quantum number ($m_l$) is the third quantum number derived from the
 ---
 
 
-
 ---
 
-[⬅ 04-Colligative-Properties](04-Colligative-Properties.md) | [🏠 Index](index.md) | [06-Thermochemistry ➡](06-Thermochemistry.md)
+[⬅ 04-Colligative-Properties](04-Colligative-Properties.md) | [🏠 Index](00-index.md) | [06-Thermochemistry ➡](06-Thermochemistry.md)

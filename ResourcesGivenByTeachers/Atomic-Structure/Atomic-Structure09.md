@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure08](Atomic-Structure08.md) | [🏠 Index](index.md) | [Atomic-Structure10 ➡](Atomic-Structure10.md)
+[⬅ Atomic-Structure08](Atomic-Structure08.md) | [🏠 Index](00-index.md) | [Atomic-Structure10 ➡](Atomic-Structure10.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Orbit**
 
-![Definition of Orbit](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-041.png)
+> 📷 **[Diagram]** Definition of Orbit
 
 **Diagram Analysis:**
 The diagram defines the concept of an orbit within the Bohr model.
@@ -25,7 +25,7 @@ The diagram defines the concept of an orbit within the Bohr model.
 
 **The Fixed Circular Paths around the Nucleus where Electrons continuously revolve are called Orbits.**
 
-![Shell Nomenclature](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-042.png)
+> 📷 **[Diagram]** Shell Nomenclature
 
 **Diagram Analysis:**
 This diagram maps the principal quantum number ($n$) to the specific shell names used in chemistry:
@@ -53,7 +53,7 @@ The orbits are shown as concentric circles increasing in distance from the centr
 
 ### **Orbital**
 
-![3D Orbital Analogy](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-044.png)
+> 📷 **[Diagram]** 3D Orbital Analogy
 
 **Diagram Analysis:**
 The slide uses analogies to contrast the 2D "Orbit" with the 3D "Orbital".
@@ -67,7 +67,7 @@ The slide uses analogies to contrast the 2D "Orbit" with the 3D "Orbital".
 
 ### **Orbital**
 
-![Orbit to Orbital Mapping](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-045.png)
+> 📷 **[Diagram]** Orbit to Orbital Mapping
 
 **Diagram Analysis:**
 This slide bridges the gap between Bohr's orbits and the quantum mechanical subshells (orbitals).
@@ -77,7 +77,7 @@ This slide bridges the gap between Bohr's orbits and the quantum mechanical subs
     - **n = 2 (L Orbit):** Contains **2s** and **2p** orbitals.
     - **n = 3 (M Orbit):** Contains **3s**, **3p**, and **3d** orbitals.
     - **n = 4 (N Orbit):** Contains **4s**, **4p**, **4d**, and **4f** orbitals.
-- **Shapes:** 
+- **Shapes:**
     - **S Orbital:** Spherical shape.
     - **P Orbital:** Dumbbell shape.
 - **Key Note:** "Different Orbitals have different Shapes".
@@ -85,4 +85,4 @@ This slide bridges the gap between Bohr's orbits and the quantum mechanical subs
 
 ---
 
-[⬅ Atomic-Structure08](Atomic-Structure08.md) | [🏠 Index](index.md) | [Atomic-Structure10 ➡](Atomic-Structure10.md)
+[⬅ Atomic-Structure08](Atomic-Structure08.md) | [🏠 Index](00-index.md) | [Atomic-Structure10 ➡](Atomic-Structure10.md)

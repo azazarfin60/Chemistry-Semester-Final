@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics12](Chemical-Kinetics12.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Chemical-Kinetics12](Chemical-Kinetics12.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 61
 
-![Numerical Problem: Arrhenius Equation Application](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-061.png)
+> 📷 **[Diagram]** Numerical Problem: Arrhenius Equation Application
 
 ### **Numerical Problem**
 
@@ -33,7 +33,7 @@ $$2.303 \log 2.73 = \frac{E_a}{8.314} \left[ \frac{10}{298 \times 308} \right]$$
 
 ## Slide 62
 
-![Numerical Problem: Activation Energy and Rate Constants](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-062.png)
+> 📷 **[Diagram]** Numerical Problem: Activation Energy and Rate Constants
 
 ### **Numerical Problem**
 
@@ -57,7 +57,7 @@ $t = 33.768 \times \log 4 = 33.768 \times 0.602 = \mathbf{20.33 \, \text{min}}$
 
 ## Slide 63
 
-![Numerical Problem: Activation Energy Calculation](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-063.png)
+> 📷 **[Diagram]** Numerical Problem: Activation Energy Calculation
 
 ### **Numerical Problem**
 
@@ -79,4 +79,4 @@ The activation energy of the reaction is approximately $39716 \, \text{J mol}^{-
 
 ---
 
-[⬅ Chemical-Kinetics12](Chemical-Kinetics12.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Chemical-Kinetics12](Chemical-Kinetics12.md) | [🏠 Index](00-index.md) | *(end)*

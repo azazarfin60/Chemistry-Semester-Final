@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties04](Colligative-Properties04.md) | [🏠 Index](index.md) | [Colligative-Properties06 ➡](Colligative-Properties06.md)
+[⬅ Colligative-Properties04](Colligative-Properties04.md) | [🏠 Index](00-index.md) | [Colligative-Properties06 ➡](Colligative-Properties06.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 21
 
-![Slide 21](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-021.png)
+> 📷 **[Diagram]** Slide 21
 
 ### Exact Copy of Text
 **Raoult’s Law of Elevation of the Boiling Point**
@@ -47,7 +47,7 @@ This slide summarizes the key properties of the molal boiling point elevation co
 
 ## Slide 22
 
-![Slide 22](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-022.png)
+> 📷 **[Diagram]** Slide 22
 
 ### Exact Copy of Text
 **Molecular Mass from Elevation of Boiling Point**
@@ -71,7 +71,7 @@ This slide provides the algebraic substitution needed to use boiling point eleva
 
 ## Slide 23
 
-![Slide 23](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-023.png)
+> 📷 **[Diagram]** Slide 23
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -89,16 +89,16 @@ $= 7.5 \times 0.75 \times 1000 / 0.15 \times 200$
 $= 187.5 \text{ g mol}^{-1}$
 
 ### Diagram Analysis
-This slide presents a worked example for calculating the molar mass of an unknown substance. 
-* It rearranges the boiling point elevation formula to solve for $M_2$. 
-* The steps show clear variable substitution: $K_b = 7.5$, $W_2 = 0.75\text{g}$, $\Delta T_b = 0.15\text{K}$, and $W_1 = 200\text{g}$. 
+This slide presents a worked example for calculating the molar mass of an unknown substance.
+* It rearranges the boiling point elevation formula to solve for $M_2$.
+* The steps show clear variable substitution: $K_b = 7.5$, $W_2 = 0.75\text{g}$, $\Delta T_b = 0.15\text{K}$, and $W_1 = 200\text{g}$.
 * The calculation uses the "1000" factor to convert the solvent mass from grams to kilograms within the formula.
 
 ---
 
 ## Slide 11 (Duplicate title, Slide 24)
 
-![Slide 24](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-024.png)
+> 📷 **[Diagram]** Slide 24
 
 ### Exact Copy of Text
 **Solve the Problem**
@@ -112,7 +112,7 @@ This slide provides a practice problem for students. It involves ether as a solv
 
 ## Slide 25
 
-![Slide 25](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-025.png)
+> 📷 **[Diagram]** Slide 25
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -132,11 +132,11 @@ $M_2 = \frac{2.67}{0.42} \times \frac{2.5}{0.1}$
 $M_2 = 158.98 \text{ g mol}^{-1}$
 
 ### Diagram Analysis
-This slide provides another worked example, this time using benzene as the solvent. 
-* It demonstrates an alternative way to handle units: converting the solvent mass ($W_1$) to kilograms (0.1 Kg) before plugging it into the formula, rather than using the "1000" factor within the formula. 
+This slide provides another worked example, this time using benzene as the solvent.
+* It demonstrates an alternative way to handle units: converting the solvent mass ($W_1$) to kilograms (0.1 Kg) before plugging it into the formula, rather than using the "1000" factor within the formula.
 * The final result, $158.98 \text{ g/mol}$, is calculated with high precision, reflecting the typical accuracy expected in ebullioscopic determinations.
 
 
 ---
 
-[⬅ Colligative-Properties04](Colligative-Properties04.md) | [🏠 Index](index.md) | [Colligative-Properties06 ➡](Colligative-Properties06.md)
+[⬅ Colligative-Properties04](Colligative-Properties04.md) | [🏠 Index](00-index.md) | [Colligative-Properties06 ➡](Colligative-Properties06.md)

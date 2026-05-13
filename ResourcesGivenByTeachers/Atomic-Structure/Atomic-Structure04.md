@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure03](Atomic-Structure03.md) | [🏠 Index](index.md) | [Atomic-Structure05 ➡](Atomic-Structure05.md)
+[⬅ Atomic-Structure03](Atomic-Structure03.md) | [🏠 Index](00-index.md) | [Atomic-Structure05 ➡](Atomic-Structure05.md)
 
 ---
 
@@ -21,7 +21,7 @@ Here are the major postulates of Rutherford's atomic model based on observations
 
 **RUTHERFORD'S MODEL OF AN ATOM**
 
-![Rutherford's Planetary Model](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-017.png)
+> 📷 **[Diagram]** Rutherford's Planetary Model
 
 **Diagram Analysis:**
 The diagram illustrates Rutherford's atomic model, often called the planetary model.
@@ -55,7 +55,7 @@ In 1915, Niels Bohr proposed Bohr's Atomic Model. This model was a modification 
 - **An atom consists** of a small, heavy and positively charged nucleus in the centre, and the electrons move around the nucleus in definite circular orbits. These orbits are also called 'shells' or 'energy levels.'
 - **Electrons do not radiate energy** while revolving in these shells of fixed energy. The energy is radiated or absorbed only when the electrons transit from one energy level to another.
 
-![Photograph of Niels Bohr](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-019.png)
+> 📷 **[Diagram]** Photograph of Niels Bohr
 
 ---
 
@@ -69,4 +69,4 @@ In 1915, Niels Bohr proposed Bohr's Atomic Model. This model was a modification 
 
 ---
 
-[⬅ Atomic-Structure03](Atomic-Structure03.md) | [🏠 Index](index.md) | [Atomic-Structure05 ➡](Atomic-Structure05.md)
+[⬅ Atomic-Structure03](Atomic-Structure03.md) | [🏠 Index](00-index.md) | [Atomic-Structure05 ➡](Atomic-Structure05.md)

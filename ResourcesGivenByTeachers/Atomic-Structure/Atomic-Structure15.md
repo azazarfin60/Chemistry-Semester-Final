@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure14](Atomic-Structure14.md) | [🏠 Index](index.md) | [Atomic-Structure16 ➡](Atomic-Structure16.md)
+[⬅ Atomic-Structure14](Atomic-Structure14.md) | [🏠 Index](00-index.md) | [Atomic-Structure16 ➡](Atomic-Structure16.md)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### **Emission Spectrum of Hydrogen**
 
-![Hydrogen Emission Experiment](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-072.png)
+> 📷 **[Diagram]** Hydrogen Emission Experiment
 
 **Diagram Analysis:**
 The slide details the experimental process for observing the hydrogen emission spectrum:
@@ -55,7 +55,7 @@ Hydrogen atom has a single electron. Its spectrum consists of a series of spectr
 
 ### **Hydrogen Spectrum**
 
-![Shell Transition Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-074.png)
+> 📷 **[Diagram]** Shell Transition Diagram
 
 **Diagram Analysis:**
 This visual representation maps the spectral series to specific electron transitions between shells (n=1 to n=6):
@@ -69,7 +69,7 @@ This visual representation maps the spectral series to specific electron transit
 
 ### **Electron Transitions for Hydrogen spectrum**
 
-![Energy Level Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-075.png)
+> 📷 **[Diagram]** Energy Level Diagram
 
 **Diagram Analysis:**
 A comprehensive energy level diagram ($n=1$ to $n=\infty$) showing the major spectral series and their corresponding spectral regions:
@@ -84,4 +84,4 @@ A comprehensive energy level diagram ($n=1$ to $n=\infty$) showing the major spe
 
 ---
 
-[⬅ Atomic-Structure14](Atomic-Structure14.md) | [🏠 Index](index.md) | [Atomic-Structure16 ➡](Atomic-Structure16.md)
+[⬅ Atomic-Structure14](Atomic-Structure14.md) | [🏠 Index](00-index.md) | [Atomic-Structure16 ➡](Atomic-Structure16.md)

@@ -1,11 +1,11 @@
-[⬅ Chemical-Equilibrium02](Chemical-Equilibrium02.md) | [🏠 Index](index.md) | [Chemical-Equilibrium04 ➡](Chemical-Equilibrium04.md)
+[⬅ Chemical-Equilibrium02](Chemical-Equilibrium02.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium04 ➡](Chemical-Equilibrium04.md)
 
 ---
 
 # Chemical Equilibrium - Slides 11-15
 
 ## Slide 11
-![Chemical Equilibrium-011](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-011.png)
+> 📷 **[Diagram]** Chemical Equilibrium-011
 
 ### Text Content
 **Relation Between Kp, Kc and Kx**
@@ -25,7 +25,7 @@ $$Kx = \frac{(X_L)_e^l \times (X_M)_e^m \times \dots}{(X_A)_e^a \times (X_B)_e^b
 ---
 
 ## Slide 12
-![Chemical Equilibrium-012](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-012.png)
+> 📷 **[Diagram]** Chemical Equilibrium-012
 
 ### Text Content
 **Relation Between Kp, Kc and Kc**
@@ -51,7 +51,7 @@ $$p = xP$$
 ---
 
 ## Slide 13
-![Chemical Equilibrium-013](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-013.png)
+> 📷 **[Diagram]** Chemical Equilibrium-013
 
 ### Text Content
 **Relation Between Kp, Kc and Kc**
@@ -68,13 +68,13 @@ From eq- v and vi, we get,
 $$Kc \times (RT)^{\Delta n} = Kx \times P^{\Delta n}$$
 $$Or, Kc = Kx \times (P/RT)^{\Delta n} = Kx (1/V)^{\Delta n} \dots (vii)$$
 
-Re-arranging eq- vii, we get, 
+Re-arranging eq- vii, we get,
 $$Kx = KcV^{\Delta n} \dots (viii)$$
 
 ---
 
 ## Slide 14
-![Chemical Equilibrium-014](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-014.png)
+> 📷 **[Diagram]** Chemical Equilibrium-014
 
 ### Text Content
 **Relation Between Kp, Kc and Kc**
@@ -89,7 +89,7 @@ Hence, **$Kp = Kx = Kc$**
 ---
 
 ## Slide 15
-![Chemical Equilibrium-015](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-015.png)
+> 📷 **[Diagram]** Chemical Equilibrium-015
 
 ### Text Content
 **Equilibrium Constant Expression**
@@ -113,4 +113,4 @@ In this case, it's not appropriate to write an expression for $K_p$ because none
 
 ---
 
-[⬅ Chemical-Equilibrium02](Chemical-Equilibrium02.md) | [🏠 Index](index.md) | [Chemical-Equilibrium04 ➡](Chemical-Equilibrium04.md)
+[⬅ Chemical-Equilibrium02](Chemical-Equilibrium02.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium04 ➡](Chemical-Equilibrium04.md)

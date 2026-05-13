@@ -12,4 +12,4 @@ This directory is most useful during the final stages of your exam preparation. 
 *   If you are trying to study *conceptually*, you should use the [`../boss_notes/`](../boss_notes/README.md) instead, where these answers have been integrated pedagogically alongside the theory.
 *   If you are trying to drill questions for a specific topic (e.g., only Electrochemistry questions), use the [`../Topicwise-Answers/`](../Topicwise-Answers/README.md) directory.
 
-Use the [Index](index.md) to navigate through the solutions by year.
+Use the [Index](00-index.md) to navigate through the solutions by year.

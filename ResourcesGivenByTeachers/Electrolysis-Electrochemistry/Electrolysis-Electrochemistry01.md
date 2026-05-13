@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [Electrolysis-Electrochemistry02 ➡](Electrolysis-Electrochemistry02.md)
+*(start)* | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry02 ➡](Electrolysis-Electrochemistry02.md)
 
 ---
 
@@ -134,4 +134,4 @@ The second law of electrolysis helps to calculate:
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Electrolysis-Electrochemistry02 ➡](Electrolysis-Electrochemistry02.md)
+*(start)* | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry02 ➡](Electrolysis-Electrochemistry02.md)

@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure23](Atomic-Structure23.md) | [🏠 Index](index.md) | [Atomic-Structure25 ➡](Atomic-Structure25.md)
+[⬅ Atomic-Structure23](Atomic-Structure23.md) | [🏠 Index](00-index.md) | [Atomic-Structure25 ➡](Atomic-Structure25.md)
 
 ---
 
@@ -41,7 +41,7 @@ v = velocity
 
 From equation (4), the de Broglie wavelength (denoted by $\lambda$) is inversely proportional to its velocity. The nature of the graph drawn between them is hyperbolic as shown below:
 
-![Wavelength vs Velocity Graph](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-117.png)
+> 📷 **[Diagram]** Wavelength vs Velocity Graph
 
 **Diagram Analysis:**
 The graph shows a downward sloping hyperbolic curve:
@@ -132,4 +132,4 @@ Therefore, the de-Broglie theory explains Bohr’s quantization of angular momen
 
 ---
 
-[⬅ Atomic-Structure23](Atomic-Structure23.md) | [🏠 Index](index.md) | [Atomic-Structure25 ➡](Atomic-Structure25.md)
+[⬅ Atomic-Structure23](Atomic-Structure23.md) | [🏠 Index](00-index.md) | [Atomic-Structure25 ➡](Atomic-Structure25.md)

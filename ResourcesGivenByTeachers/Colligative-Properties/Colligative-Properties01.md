@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [Colligative-Properties02 ➡](Colligative-Properties02.md)
+*(start)* | [🏠 Index](00-index.md) | [Colligative-Properties02 ➡](Colligative-Properties02.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 1
 
-![Slide 1](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-001.png)
+> 📷 **[Diagram]** Slide 1
 
 ### Exact Copy of Text
 **Colligative Properties**
@@ -22,7 +22,7 @@ The slide features a stylized title "Colligative Properties" in a peach-colored 
 
 ## Slide 2
 
-![Slide 2](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-002.png)
+> 📷 **[Diagram]** Slide 2
 
 ### Exact Copy of Text
 **Colligative Properties**
@@ -52,7 +52,7 @@ This slide is text-heavy and structured with bullet points. It provides the form
 
 ## Slide 3
 
-![Slide 3](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-003.png)
+> 📷 **[Diagram]** Slide 3
 
 ### Exact Copy of Text
 **Lowering of Vapor Pressure**
@@ -78,7 +78,7 @@ The slide uses multiple pedagogical illustrations to explain the microscopic bas
 
 ## Slide 4
 
-![Slide 4](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-004.png)
+> 📷 **[Diagram]** Slide 4
 
 ### Exact Copy of Text
 **Lowering of Vapor Pressure**
@@ -104,7 +104,7 @@ This slide presents a quantitative representation of vapor pressure lowering:
 
 ## Slide 5
 
-![Slide 5](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-005.png)
+> 📷 **[Diagram]** Slide 5
 
 ### Exact Copy of Text
 **Lowering of Vapor Pressure**
@@ -131,4 +131,4 @@ The slide introduces the mathematical derivation of "Relative Lowering of Vapor 
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Colligative-Properties02 ➡](Colligative-Properties02.md)
+*(start)* | [🏠 Index](00-index.md) | [Colligative-Properties02 ➡](Colligative-Properties02.md)

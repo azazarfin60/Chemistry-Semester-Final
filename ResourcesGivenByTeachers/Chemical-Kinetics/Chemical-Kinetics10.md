@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics09](Chemical-Kinetics09.md) | [🏠 Index](index.md) | [Chemical-Kinetics11 ➡](Chemical-Kinetics11.md)
+[⬅ Chemical-Kinetics09](Chemical-Kinetics09.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics11 ➡](Chemical-Kinetics11.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 46
 
-![Integration Method for Order Determination](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-046.png)
+> 📷 **[Diagram]** Integration Method for Order Determination
 
 ### **Determination of Order of Reaction**
 
@@ -23,7 +23,7 @@ The order of reaction is then known by that equation which gives constant value 
 
 ## Slide 47
 
-![Graphical Method for Order Determination](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-047.png)
+> 📷 **[Diagram]** Graphical Method for Order Determination
 
 ### **Determination of Order of Reaction**
 
@@ -38,7 +38,7 @@ We know that the reaction velocity in a first order reactions varies as one conc
 
 ## Slide 48
 
-![Van't Hoff's Differential Method - Part 1](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-048.png)
+> 📷 **[Diagram]** Van't Hoff's Differential Method - Part 1
 
 ### **Determination of Order of Reaction**
 
@@ -57,7 +57,7 @@ $$\frac{dc_1/dt}{dc_2/dt} = \left[ \frac{c_1}{c_2} \right]^n$$
 
 ## Slide 49
 
-![Van't Hoff's Differential Method - Part 2](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-049.png)
+> 📷 **[Diagram]** Van't Hoff's Differential Method - Part 2
 
 ### **Determination of Order of Reaction**
 
@@ -75,7 +75,7 @@ From the slope of a graph of $\log (-dc/dt)$ Vs $\log c$, we can get order of re
 
 ## Slide 50
 
-![Ostwald Isolation Method](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-050.png)
+> 📷 **[Diagram]** Ostwald Isolation Method
 
 ### **Determination of Order of Reaction**
 
@@ -94,4 +94,4 @@ Overall order of reaction $n = p + q + r$
 
 ---
 
-[⬅ Chemical-Kinetics09](Chemical-Kinetics09.md) | [🏠 Index](index.md) | [Chemical-Kinetics11 ➡](Chemical-Kinetics11.md)
+[⬅ Chemical-Kinetics09](Chemical-Kinetics09.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics11 ➡](Chemical-Kinetics11.md)

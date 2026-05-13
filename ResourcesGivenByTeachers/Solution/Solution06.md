@@ -1,4 +1,4 @@
-[⬅ Solution05](Solution05.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Solution05](Solution05.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -9,7 +9,7 @@ author: "Digitized Slides"
 
 # Slide 26
 
-![Henry's Law Applications and Limitations](Solution-026.png)
+> 📷 **[Diagram]** Henry's Law Applications and Limitations
 
 ## **Henry’s Law**
 
@@ -32,7 +32,7 @@ author: "Digitized Slides"
 
 # Slide 27
 
-![Application of Henry's Law - Soda Can](Solution-027.png)
+> 📷 **[Diagram]** Application of Henry's Law - Soda Can
 
 ## **Application of Henry’s Law**
 
@@ -48,7 +48,7 @@ This diagram provides a clear mechanical explanation for the "fizz" in carbonate
 
 # Slide 28
 
-![Application of Henry's Law - Scuba Diving](Solution-028.png)
+> 📷 **[Diagram]** Application of Henry's Law - Scuba Diving
 
 ## **Application of Henry’s Law**
 
@@ -64,4 +64,4 @@ This diagram provides a clear mechanical explanation for the "fizz" in carbonate
 
 ---
 
-[⬅ Solution05](Solution05.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Solution05](Solution05.md) | [🏠 Index](00-index.md) | *(end)*

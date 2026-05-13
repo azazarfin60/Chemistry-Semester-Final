@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure12](Atomic-Structure12.md) | [🏠 Index](index.md) | [Atomic-Structure14 ➡](Atomic-Structure14.md)
+[⬅ Atomic-Structure12](Atomic-Structure12.md) | [🏠 Index](00-index.md) | [Atomic-Structure14 ➡](Atomic-Structure14.md)
 
 ---
 
@@ -70,7 +70,7 @@ According to **Pauli’s exclusion principle**, no two electrons in the same ato
 
 ### **Energy Level**
 
-![Electron Emission Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-065.png)
+> 📷 **[Diagram]** Electron Emission Diagram
 
 **Diagram Analysis:**
 The slide illustrates the process of electron emission:
@@ -82,4 +82,4 @@ The slide illustrates the process of electron emission:
 
 ---
 
-[⬅ Atomic-Structure12](Atomic-Structure12.md) | [🏠 Index](index.md) | [Atomic-Structure14 ➡](Atomic-Structure14.md)
+[⬅ Atomic-Structure12](Atomic-Structure12.md) | [🏠 Index](00-index.md) | [Atomic-Structure14 ➡](Atomic-Structure14.md)

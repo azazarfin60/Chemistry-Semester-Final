@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics08](Chemical-Kinetics08.md) | [🏠 Index](index.md) | [Chemical-Kinetics10 ➡](Chemical-Kinetics10.md)
+[⬅ Chemical-Kinetics08](Chemical-Kinetics08.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics10 ➡](Chemical-Kinetics10.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 41
 
-![Numerical Problem: Hydrolysis of Ethyl Acetate](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-041.png)
+> 📷 **[Diagram]** Numerical Problem: Hydrolysis of Ethyl Acetate
 
 ### **Numerical Problem**
 
@@ -32,7 +32,7 @@ $$K = \frac{1}{16 \times 5} \times \frac{5.76}{10.24} = 0.0070$$
 
 ## Slide 42
 
-![Numerical Problem Solution (Contd.)](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-042.png)
+> 📷 **[Diagram]** Numerical Problem Solution (Contd.)
 
 ### **Numerical Problem (Continued)**
 
@@ -46,7 +46,7 @@ The value of $k$ being fairly constant, this reaction is of $2^{nd}$ order.
 
 ## Slide 43
 
-![Kinetics of Third Order Reaction - Derivation](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-043.png)
+> 📷 **[Diagram]** Kinetics of Third Order Reaction - Derivation
 
 ### **Kinetics of Third Order Reaction**
 
@@ -72,7 +72,7 @@ This is the mathematical expression for rate constant of $3^{rd}$ order kinetics
 
 ## Slide 44
 
-![Property 1: Half-life vs. Initial Concentration](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-044.png)
+> 📷 **[Diagram]** Property 1: Half-life vs. Initial Concentration
 
 ### **Properties of $3^{rd}$ Order Reaction**
 
@@ -93,7 +93,7 @@ $$t_{1/2} \propto \frac{1}{a^2}$$
 
 ## Slide 45
 
-![Property 2: Rate Constant Dependency on Units](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-045.png)
+> 📷 **[Diagram]** Property 2: Rate Constant Dependency on Units
 
 ### **Properties of $3^{rd}$ Order Reaction**
 
@@ -106,11 +106,11 @@ Suppose, the present unit is $n$ times of the previous one.
 
 $$k = \frac{1}{t} \times \frac{nx(2an - nx)}{2(an)^2(an - nx)^2}$$
 
-Or, $k = \frac{1}{t} \times \frac{x(2a - x)}{2a^2(a - x)^2} \times \frac{1}{n^2}$$
+Or, $k = \frac{1}{t} \times \frac{x(2a - x)}{2a^2(a - x)^2} \times \frac{1}{n^2}$
 
 So, the value of $k$ is $1/n^2$ times of previous one.
 
 
 ---
 
-[⬅ Chemical-Kinetics08](Chemical-Kinetics08.md) | [🏠 Index](index.md) | [Chemical-Kinetics10 ➡](Chemical-Kinetics10.md)
+[⬅ Chemical-Kinetics08](Chemical-Kinetics08.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics10 ➡](Chemical-Kinetics10.md)

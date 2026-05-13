@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [Atomic-Structure02 ➡](Atomic-Structure02.md)
+*(start)* | [🏠 Index](00-index.md) | [Atomic-Structure02 ➡](Atomic-Structure02.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Atomic Structure**
 
-![Atomic Structure Comparison](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-001.png)
+> 📷 **[Diagram]** Atomic Structure Comparison
 
 **Diagram Analysis:**
 The slide presents a comparison between the solar system and an atom to illustrate the concept of orbital motion.
@@ -36,7 +36,7 @@ The slide presents a comparison between the solar system and an atom to illustra
 
 ### **Structure of Atom**
 
-![Hydrogen Atom and Elementary Charge](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-003.png)
+> 📷 **[Diagram]** Hydrogen Atom and Elementary Charge
 
 **Diagram Analysis:**
 - **Fig: Electron and proton in Hydrogen:** This diagram shows a simplified model of a Hydrogen atom. A single proton sits in the center, with one electron revolving around it in a circular path.
@@ -48,7 +48,7 @@ The slide presents a comparison between the solar system and an atom to illustra
 
 ### **Sub-atomic Particle**
 
-![Sub-atomic Particle Model](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-004.png)
+> 📷 **[Diagram]** Sub-atomic Particle Model
 
 **Diagram Analysis:**
 This slide provides a detailed look at the components of a Helium atom (2 protons, 2 neutrons).
@@ -63,7 +63,7 @@ This slide provides a detailed look at the components of a Helium atom (2 proton
 
 ### **Particle Hierarchy**
 
-![Particle Hierarchy Diminishing Scale](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-005.png)
+> 📷 **[Diagram]** Particle Hierarchy Diminishing Scale
 
 **Diagram Analysis:**
 The diagram illustrates the "Diminishing Scale" of matter from the macroscopic level down to fundamental particles.
@@ -77,4 +77,4 @@ The diagram illustrates the "Diminishing Scale" of matter from the macroscopic l
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Atomic-Structure02 ➡](Atomic-Structure02.md)
+*(start)* | [🏠 Index](00-index.md) | [Atomic-Structure02 ➡](Atomic-Structure02.md)

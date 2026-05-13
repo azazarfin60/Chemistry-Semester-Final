@@ -1,4 +1,4 @@
-[⬅ Cemical-Bond01](Cemical-Bond01.md) | [🏠 Index](index.md) | [Cemical-Bond03 ➡](Cemical-Bond03.md)
+[⬅ Chemical-Bond01](Chemical-Bond01.md) | [🏠 Index](00-index.md) | [Chemical-Bond03 ➡](Chemical-Bond03.md)
 
 ---
 
@@ -59,7 +59,7 @@ Describes the degree of polarity: $\mu = e \times d$
 
 **Example (NaCl):**
 *   **Given:** $d = 2.365 \text{ \AA}$, $\mu_{\text{exp}} = 8.5 \text{ D}$
-*   **Theoretical value of } \mu = (1 \times 4.8 \times 10^{-10} \text{ esu}) \times 2.365 \text{ \AA} = 11.352 \text{ D}$
+*   **Theoretical value of $\mu$:** $\mu = (1 \times 4.8 \times 10^{-10} \text{ esu}) \times 2.365 \text{ \AA} = 11.352 \text{ D}$
 *   $\% \text{ ionic character} = \frac{\mu_{\text{exp}}}{\mu_{\text{theo}}} \times 100\% = \frac{8.5}{11.352} \times 100\% \approx 75\%$
 
 ---
@@ -108,4 +108,4 @@ A hydrogen atom may be linked to two similar or different electronegative atoms.
 
 ---
 
-[⬅ Cemical-Bond01](Cemical-Bond01.md) | [🏠 Index](index.md) | [Cemical-Bond03 ➡](Cemical-Bond03.md)
+[⬅ Chemical-Bond01](Chemical-Bond01.md) | [🏠 Index](00-index.md) | [Chemical-Bond03 ➡](Chemical-Bond03.md)

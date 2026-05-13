@@ -1,4 +1,4 @@
-[⬅ Thermochemistry02](Thermochemistry02.md) | [🏠 Index](index.md) | [Thermochemistry04 ➡](Thermochemistry04.md)
+[⬅ Thermochemistry02](Thermochemistry02.md) | [🏠 Index](00-index.md) | [Thermochemistry04 ➡](Thermochemistry04.md)
 
 ---
 
@@ -121,4 +121,4 @@ The relations (2), (3), (5) and (6) were first derived by Kirchoff and are calle
 
 ---
 
-[⬅ Thermochemistry02](Thermochemistry02.md) | [🏠 Index](index.md) | [Thermochemistry04 ➡](Thermochemistry04.md)
+[⬅ Thermochemistry02](Thermochemistry02.md) | [🏠 Index](00-index.md) | [Thermochemistry04 ➡](Thermochemistry04.md)

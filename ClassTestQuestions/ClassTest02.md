@@ -1,4 +1,4 @@
-[⬅ ClassTest01](ClassTest01.md) | [🏠 Index](index.md) | [ClassTest03 ➡](ClassTest03.md)
+[⬅ ClassTest01](ClassTest01.md) | [🏠 Index](00-index.md) | [ClassTest03 ➡](ClassTest03.md)
 
 ---
 
@@ -13,4 +13,4 @@
 
 ---
 
-[⬅ ClassTest01](ClassTest01.md) | [🏠 Index](index.md) | [ClassTest03 ➡](ClassTest03.md)
+[⬅ ClassTest01](ClassTest01.md) | [🏠 Index](00-index.md) | [ClassTest03 ➡](ClassTest03.md)

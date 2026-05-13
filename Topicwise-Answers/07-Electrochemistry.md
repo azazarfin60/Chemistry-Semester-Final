@@ -1,4 +1,4 @@
-[⬅ 06-Thermochemistry](06-Thermochemistry.md) | [🏠 Index](index.md) | [08-Solutions ➡](08-Solutions.md)
+[⬅ 06-Thermochemistry](06-Thermochemistry.md) | [🏠 Index](00-index.md) | [08-Solutions ➡](08-Solutions.md)
 
 ---
 
@@ -32,7 +32,7 @@ These are substances that conduct electricity in their molten state or in an aqu
 **Answer:**
 
 **Mechanism of Electrolytic Conduction:**
-According to Arrhenius' theory of electrolytic dissociation, when an electrolyte is dissolved in a solvent like water, it splits into positively charged ions (cations) and negatively charged ions (anions). This process is called **ionization**. 
+According to Arrhenius' theory of electrolytic dissociation, when an electrolyte is dissolved in a solvent like water, it splits into positively charged ions (cations) and negatively charged ions (anions). This process is called **ionization**.
 When an electric potential difference is applied across two electrodes dipped in this solution, the ions experience an electrostatic force. The positively charged cations migrate towards the negatively charged electrode (the **cathode**), and the negatively charged anions migrate towards the positively charged electrode (the **anode**). This directed movement of ions constitutes the electric current within the solution.
 
 At the electrodes, ions undergo redox reactions (chemical decomposition):
@@ -274,6 +274,9 @@ Electrolytic conduction is the flow of electric current through an electrolyte s
 ---
 
 ### (d) Velocity of ion and its experimental determination
+
+**Answer:**
+
 **Velocity of an Ion (Ionic Mobility):** In an electrolytic solution, the velocity of an ion refers to the specific speed at which a particular ion migrates towards the oppositely charged electrode under the influence of an applied electric potential gradient. Because different ions have different masses, charge densities, and sizes of hydration spheres (how heavily they are clustered with water molecules), they move at very different velocities. The velocity of an ion under a standard potential gradient of $1 \text{ V/cm}$ is called its "Absolute Ionic Mobility."
 **Experimental Determination (Moving Boundary Method):** The velocities of ions are related to their transport numbers, which are determined experimentally. A classic technique is the **Moving Boundary Method**. In a vertical tube, two different electrolyte solutions sharing a common ion (an indicator solution and a principal solution) are carefully layered so a sharp, distinct visible boundary forms between them due to differences in refractive index or color. When a current is passed, the ions migrate, and the visible boundary physically moves up the tube. By accurately measuring the distance this boundary moves over a specific time under a known current, the absolute velocity and transport number of the ion can be precisely calculated.
 
@@ -397,4 +400,4 @@ This derived equation elegantly allows the determination of the fundamental cons
 
 ---
 
-[⬅ 06-Thermochemistry](06-Thermochemistry.md) | [🏠 Index](index.md) | [08-Solutions ➡](08-Solutions.md)
+[⬅ 06-Thermochemistry](06-Thermochemistry.md) | [🏠 Index](00-index.md) | [08-Solutions ➡](08-Solutions.md)

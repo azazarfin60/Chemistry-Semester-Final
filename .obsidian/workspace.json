@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Topicwise-Answers/01-Chemical-Kinetics.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01-Chemical-Kinetics"
             }
           }
         ]
@@ -185,34 +185,35 @@
   },
   "active": "c5e5bf26f0ea8ee0",
   "lastOpenFiles": [
+    "00-index.md",
+    "README.md",
+    "PreviousYearQuestions/2020.md",
+    "sedsNr68m",
+    "ResourcesGivenByTeachers/Thermochemistry/00-index.md",
+    "ResourcesGivenByTeachers/Solution/00-index.md",
+    "ResourcesGivenByTeachers/Electrolysis-Electrochemistry/00-index.md",
+    "ResourcesGivenByTeachers/Colligative-Properties/00-index.md",
+    "ResourcesGivenByTeachers/Chemical-Kinetics/00-index.md",
+    "ResourcesGivenByTeachers/Chemical-Equilibrium/00-index.md",
+    "ResourcesGivenByTeachers/Chemical-Bond/00-index.md",
+    "ResourcesGivenByTeachers/Atomic-Structure/00-index.md",
+    "ResourcesGivenByTeachers/Acid-Base/00-index.md",
+    "PreviousYearQuestions/00-index.md",
+    "ClassTestQuestions/00-index.md",
+    "boss_notes/00-index.md",
+    "answers/00-index.md",
+    "Topicwise-Answers/00-index.md",
+    "PreviousYearQuestions/2019.md",
+    "PreviousYearQuestions/2018.md",
+    "PreviousYearQuestions/2017.md",
+    "ClassTestQuestions/ClassTest03.md",
+    "ClassTestQuestions/ClassTest01.md",
+    "boss_notes/11.00_Miscellaneous.md",
+    "boss_notes/04.4_Osmotic_Pressure.md",
     "boss_notes/README.md",
     "ClassTestQuestions/README.md",
-    "answers/README.md",
-    "answers/index.md",
-    "index.md",
     "generate_detailed_readmes.py",
-    "README.md",
-    "boss_notes/05.4_Atomic_Spectra.md",
-    "ResourcesGivenByTeachers/Thermochemistry/README.md",
-    "ResourcesGivenByTeachers/Solution/README.md",
-    "ResourcesGivenByTeachers/Electrolysis-Electrochemistry/README.md",
-    "ResourcesGivenByTeachers/Colligative-Properties/README.md",
-    "ResourcesGivenByTeachers/Chemical-Kinetics/README.md",
-    "ResourcesGivenByTeachers/Chemical-Equilibrium/README.md",
-    "ResourcesGivenByTeachers/Chemical-Bond/README.md",
-    "ResourcesGivenByTeachers/Atomic-Structure/README.md",
-    "ResourcesGivenByTeachers/Acid-Base/README.md",
-    "ResourcesGivenByTeachers/README.md",
-    "Topicwise-Answers/README.md",
-    "PreviousYearQuestions/README.md",
     "generate_readmes.py",
-    "ResourcesGivenByTeachers/Thermochemistry/index.md",
-    "ResourcesGivenByTeachers/Solution/index.md",
-    "ResourcesGivenByTeachers/Electrolysis-Electrochemistry/index.md",
-    "ResourcesGivenByTeachers/Colligative-Properties/index.md",
-    "ResourcesGivenByTeachers/Chemical-Kinetics/index.md",
-    "ResourcesGivenByTeachers/Chemical-Equilibrium/index.md",
-    "ResourcesGivenByTeachers/Chemical-Bond/index.md",
     "add_navigation.py",
     "boss_notes",
     "setup_boss_notes.py",
@@ -229,7 +230,6 @@
     "ResourcesGivenByTeachers/Acid-Base/Acid-Base-008.png",
     "ResourcesGivenByTeachers/Acid-Base/Acid-Base-007.png",
     "ResourcesGivenByTeachers/Acid-Base",
-    "ResourcesGivenByTeachers/Chemical-Equilibrium",
-    "answers"
+    "ResourcesGivenByTeachers/Chemical-Equilibrium"
   ]
 }

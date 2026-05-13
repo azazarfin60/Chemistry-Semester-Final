@@ -1,4 +1,4 @@
-[⬅ Electrolysis-Electrochemistry03](Electrolysis-Electrochemistry03.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry05 ➡](Electrolysis-Electrochemistry05.md)
+[⬅ Electrolysis-Electrochemistry03](Electrolysis-Electrochemistry03.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry05 ➡](Electrolysis-Electrochemistry05.md)
 
 ---
 
@@ -117,4 +117,4 @@ The diagram illustrates the relationship between specific and equivalent conduct
 
 ---
 
-[⬅ Electrolysis-Electrochemistry03](Electrolysis-Electrochemistry03.md) | [🏠 Index](index.md) | [Electrolysis-Electrochemistry05 ➡](Electrolysis-Electrochemistry05.md)
+[⬅ Electrolysis-Electrochemistry03](Electrolysis-Electrochemistry03.md) | [🏠 Index](00-index.md) | [Electrolysis-Electrochemistry05 ➡](Electrolysis-Electrochemistry05.md)

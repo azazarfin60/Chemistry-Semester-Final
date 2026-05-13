@@ -1,4 +1,4 @@
-[⬅ Acid-Base02](Acid-Base02.md) | [🏠 Index](index.md) | [Acid-Base04 ➡](Acid-Base04.md)
+[⬅ Acid-Base02](Acid-Base02.md) | [🏠 Index](00-index.md) | [Acid-Base04 ➡](Acid-Base04.md)
 
 ---
 
@@ -121,4 +121,4 @@ Oxygen and Sulfur atoms (6 valence electrons) act as Lewis acids.
 
 ---
 
-[⬅ Acid-Base02](Acid-Base02.md) | [🏠 Index](index.md) | [Acid-Base04 ➡](Acid-Base04.md)
+[⬅ Acid-Base02](Acid-Base02.md) | [🏠 Index](00-index.md) | [Acid-Base04 ➡](Acid-Base04.md)

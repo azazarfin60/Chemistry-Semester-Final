@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure04](Atomic-Structure04.md) | [🏠 Index](index.md) | [Atomic-Structure06 ➡](Atomic-Structure06.md)
+[⬅ Atomic-Structure04](Atomic-Structure04.md) | [🏠 Index](00-index.md) | [Atomic-Structure06 ➡](Atomic-Structure06.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Bohr's Atomic Model**
 
-![Nitrogen Atom and Shell Labels](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-021.png)
+> 📷 **[Diagram]** Nitrogen Atom and Shell Labels
 
 **Diagram Analysis:**
 - **Bohr Atomic Model - Nitrogen Atom:** This diagram shows a Nitrogen atom (Atomic number 7). It consists of a central cluster of Protons and Neutrons, with 7 electrons revolving in two circular orbits (2 in the first shell, 5 in the second).
@@ -33,7 +33,7 @@
 
 **Bohr model example**
 
-![Argon Atom Bohr Model](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-023.png)
+> 📷 **[Diagram]** Argon Atom Bohr Model
 
 **Diagram Analysis:**
 The diagram shows the Bohr model for an **Argon** atom.
@@ -81,4 +81,4 @@ The diagram shows the Bohr model for an **Argon** atom.
 
 ---
 
-[⬅ Atomic-Structure04](Atomic-Structure04.md) | [🏠 Index](index.md) | [Atomic-Structure06 ➡](Atomic-Structure06.md)
+[⬅ Atomic-Structure04](Atomic-Structure04.md) | [🏠 Index](00-index.md) | [Atomic-Structure06 ➡](Atomic-Structure06.md)

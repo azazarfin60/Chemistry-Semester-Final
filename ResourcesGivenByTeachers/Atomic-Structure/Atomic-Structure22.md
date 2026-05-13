@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure21](Atomic-Structure21.md) | [🏠 Index](index.md) | [Atomic-Structure23 ➡](Atomic-Structure23.md)
+[⬅ Atomic-Structure21](Atomic-Structure21.md) | [🏠 Index](00-index.md) | [Atomic-Structure23 ➡](Atomic-Structure23.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### **Photoelectric Emission**
 
-![Photoelectric Process Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-106.png)
+> 📷 **[Diagram]** Photoelectric Process Diagram
 
 **Diagram Analysis:**
 The slide provides a conceptual visualization of the photoelectric effect:
@@ -82,4 +82,4 @@ On the basis of Planck’s quantum theory, Einstein derived an equation for the 
 
 ---
 
-[⬅ Atomic-Structure21](Atomic-Structure21.md) | [🏠 Index](index.md) | [Atomic-Structure23 ➡](Atomic-Structure23.md)
+[⬅ Atomic-Structure21](Atomic-Structure21.md) | [🏠 Index](00-index.md) | [Atomic-Structure23 ➡](Atomic-Structure23.md)

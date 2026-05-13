@@ -1,4 +1,4 @@
-[⬅ Solution03](Solution03.md) | [🏠 Index](index.md) | [Solution05 ➡](Solution05.md)
+[⬅ Solution03](Solution03.md) | [🏠 Index](00-index.md) | [Solution05 ➡](Solution05.md)
 
 ---
 
@@ -9,7 +9,7 @@ author: "Digitized Slides"
 
 # Slide 16
 
-![Solubilization Process](Solution-016.png)
+> 📷 **[Diagram]** Solubilization Process
 
 ## **Solubilization Process**
 
@@ -27,7 +27,7 @@ The slide breaks down the dissolving process into three fundamental molecular st
 
 # Slide 17
 
-![Solubilization Process - Macro to Micro](Solution-017.png)
+> 📷 **[Diagram]** Solubilization Process - Macro to Micro
 
 ## **Solubilization Process**
 
@@ -42,7 +42,7 @@ This slide provides several visual examples of solubility and the dissolution pr
 
 # Slide 18
 
-![Like Dissolves Like](Solution-018.png)
+> 📷 **[Diagram]** Like Dissolves Like
 
 ## **Like Dissolves Like**
 
@@ -58,7 +58,7 @@ This slide provides several visual examples of solubility and the dissolution pr
 
 # Slide 19
 
-![Like Dissolves Like - NaCl](Solution-019.png)
+> 📷 **[Diagram]** Like Dissolves Like - NaCl
 
 ## **Like Dissolves Like**
 
@@ -72,7 +72,7 @@ This slide focuses on the dissolution of Sodium Chloride (Common Salt) in water:
 
 # Slide 20
 
-![Factors Affecting Solubility](Solution-020.png)
+> 📷 **[Diagram]** Factors Affecting Solubility
 
 ## **Factors Affecting Solubility**
 
@@ -92,4 +92,4 @@ The slide uses a radial mind map to summarize the key variables that influence h
 
 ---
 
-[⬅ Solution03](Solution03.md) | [🏠 Index](index.md) | [Solution05 ➡](Solution05.md)
+[⬅ Solution03](Solution03.md) | [🏠 Index](00-index.md) | [Solution05 ➡](Solution05.md)

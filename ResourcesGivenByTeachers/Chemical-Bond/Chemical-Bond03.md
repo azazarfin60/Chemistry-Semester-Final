@@ -1,4 +1,4 @@
-[⬅ Cemical-Bond02](Cemical-Bond02.md) | [🏠 Index](index.md) | [Cemical-Bond04 ➡](Cemical-Bond04.md)
+[⬅ Chemical-Bond02](Chemical-Bond02.md) | [🏠 Index](00-index.md) | [Chemical-Bond04 ➡](Chemical-Bond04.md)
 
 ---
 
@@ -86,4 +86,4 @@ As the electron cloud around the positive center oscillates, it becomes more den
 
 ---
 
-[⬅ Cemical-Bond02](Cemical-Bond02.md) | [🏠 Index](index.md) | [Cemical-Bond04 ➡](Cemical-Bond04.md)
+[⬅ Chemical-Bond02](Chemical-Bond02.md) | [🏠 Index](00-index.md) | [Chemical-Bond04 ➡](Chemical-Bond04.md)

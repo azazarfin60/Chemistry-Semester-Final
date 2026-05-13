@@ -1,4 +1,4 @@
-*(start)* | [🏠 Index](index.md) | [Thermochemistry02 ➡](Thermochemistry02.md)
+*(start)* | [🏠 Index](00-index.md) | [Thermochemistry02 ➡](Thermochemistry02.md)
 
 ---
 
@@ -137,4 +137,4 @@ When $\Delta H$ is positive, the enthalpy or heat content of the reactants and a
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Thermochemistry02 ➡](Thermochemistry02.md)
+*(start)* | [🏠 Index](00-index.md) | [Thermochemistry02 ➡](Thermochemistry02.md)

@@ -1,11 +1,11 @@
-[⬅ Chemical-Equilibrium04](Chemical-Equilibrium04.md) | [🏠 Index](index.md) | [Chemical-Equilibrium06 ➡](Chemical-Equilibrium06.md)
+[⬅ Chemical-Equilibrium04](Chemical-Equilibrium04.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium06 ➡](Chemical-Equilibrium06.md)
 
 ---
 
 # Chemical Equilibrium - Slides 21-25
 
 ## Slide 21
-![Chemical Equilibrium-021](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-021.png)
+> 📷 **[Diagram]** Chemical Equilibrium-021
 
 ### Text Content
 **Equilibrium Constant Expression**
@@ -32,7 +32,7 @@ $$K_p = \frac{4\alpha^2}{(1-\alpha)(1+\alpha)} P = \frac{4\alpha^2}{1-\alpha^2} 
 ---
 
 ## Slide 22
-![Chemical Equilibrium-022](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-022.png)
+> 📷 **[Diagram]** Chemical Equilibrium-022
 
 ### Text Content
 **Numerical Problem**
@@ -57,7 +57,7 @@ $$K_c = \frac{K_p}{(RT)^2} = \frac{6.1 \times 10^4}{[(0.08206)(1398)]^2} = 4.6$$
 ---
 
 ## Slide 23
-![Chemical Equilibrium-023](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-023.png)
+> 📷 **[Diagram]** Chemical Equilibrium-023
 
 ### Text Content
 **Numerical Problem**
@@ -77,7 +77,7 @@ $$K_c = \frac{(15.5)^2}{(0.0542)^2(0.127)} = 6.44 \times 10^5$$
 ---
 
 ## Slide 24
-![Chemical Equilibrium-024](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-024.png)
+> 📷 **[Diagram]** Chemical Equilibrium-024
 
 ### Text Content
 **Numerical Problem**
@@ -96,7 +96,7 @@ $$K_p = (4.63 \times 10^{-3})(0.0821 \times 298) = 0.113$$
 ---
 
 ## Slide 25
-![Chemical Equilibrium-025](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-025.png)
+> 📷 **[Diagram]** Chemical Equilibrium-025
 
 ### Text Content
 **Numerical Problem - Example 14.5**
@@ -126,4 +126,4 @@ $$K_p = \frac{1}{P_{Cl_2}^6}$$
 
 ---
 
-[⬅ Chemical-Equilibrium04](Chemical-Equilibrium04.md) | [🏠 Index](index.md) | [Chemical-Equilibrium06 ➡](Chemical-Equilibrium06.md)
+[⬅ Chemical-Equilibrium04](Chemical-Equilibrium04.md) | [🏠 Index](00-index.md) | [Chemical-Equilibrium06 ➡](Chemical-Equilibrium06.md)

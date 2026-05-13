@@ -1,4 +1,4 @@
-[⬅ Cemical-Bond06](Cemical-Bond06.md) | [🏠 Index](index.md) | [Cemical-Bond08 ➡](Cemical-Bond08.md)
+[⬅ Chemical-Bond06](Chemical-Bond06.md) | [🏠 Index](00-index.md) | [Chemical-Bond08 ➡](Chemical-Bond08.md)
 
 ---
 
@@ -85,4 +85,4 @@ Molecular orbitals are formed by the interference of electron waves:
 
 ---
 
-[⬅ Cemical-Bond06](Cemical-Bond06.md) | [🏠 Index](index.md) | [Cemical-Bond08 ➡](Cemical-Bond08.md)
+[⬅ Chemical-Bond06](Chemical-Bond06.md) | [🏠 Index](00-index.md) | [Chemical-Bond08 ➡](Chemical-Bond08.md)

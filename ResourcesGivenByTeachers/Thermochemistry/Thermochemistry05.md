@@ -1,4 +1,4 @@
-[⬅ Thermochemistry04](Thermochemistry04.md) | [🏠 Index](index.md) | [Thermochemistry06 ➡](Thermochemistry06.md)
+[⬅ Thermochemistry04](Thermochemistry04.md) | [🏠 Index](00-index.md) | [Thermochemistry06 ➡](Thermochemistry06.md)
 
 ---
 
@@ -124,4 +124,4 @@ The three states of matter – solid, liquid and gas differ from one another in 
 
 ---
 
-[⬅ Thermochemistry04](Thermochemistry04.md) | [🏠 Index](index.md) | [Thermochemistry06 ➡](Thermochemistry06.md)
+[⬅ Thermochemistry04](Thermochemistry04.md) | [🏠 Index](00-index.md) | [Thermochemistry06 ➡](Thermochemistry06.md)

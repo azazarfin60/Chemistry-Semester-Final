@@ -1,4 +1,4 @@
-[⬅ Solution02](Solution02.md) | [🏠 Index](index.md) | [Solution04 ➡](Solution04.md)
+[⬅ Solution02](Solution02.md) | [🏠 Index](00-index.md) | [Solution04 ➡](Solution04.md)
 
 ---
 
@@ -9,7 +9,7 @@ author: "Digitized Slides"
 
 # Slide 11
 
-![Why Molarity changes with Temperature](Solution-011.png)
+> 📷 **[Diagram]** Why Molarity changes with Temperature
 
 ## **Why**
 
@@ -24,7 +24,7 @@ This slide poses a conceptual "Why" question.
 
 # Slide 12
 
-![Numerical Problem - Molarity 1 & 2](Solution-012.png)
+> 📷 **[Diagram]** Numerical Problem - Molarity 1 & 2
 
 ## **Numerical Problem**
 
@@ -44,7 +44,7 @@ This slide poses a conceptual "Why" question.
 
 # Slide 13
 
-![Numerical Problem - Molarity 4 & 5](Solution-013.png)
+> 📷 **[Diagram]** Numerical Problem - Molarity 4 & 5
 
 ## **Numerical Problem**
 
@@ -62,7 +62,7 @@ This slide poses a conceptual "Why" question.
 
 # Slide 14
 
-![Numerical Problem - H2SO4 Molarity & Molality](Solution-014.png)
+> 📷 **[Diagram]** Numerical Problem - H2SO4 Molarity & Molality
 
 ## **Numerical Problem**
 
@@ -94,7 +94,7 @@ This slide poses a conceptual "Why" question.
 
 # Slide 15
 
-![Numerical Problem - KCl Molality](Solution-015.png)
+> 📷 **[Diagram]** Numerical Problem - KCl Molality
 
 ## **Numerical Problem**
 
@@ -119,4 +119,4 @@ This slide poses a conceptual "Why" question.
 
 ---
 
-[⬅ Solution02](Solution02.md) | [🏠 Index](index.md) | [Solution04 ➡](Solution04.md)
+[⬅ Solution02](Solution02.md) | [🏠 Index](00-index.md) | [Solution04 ➡](Solution04.md)

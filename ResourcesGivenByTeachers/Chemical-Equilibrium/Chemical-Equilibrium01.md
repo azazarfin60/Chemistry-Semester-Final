@@ -1,11 +1,11 @@
-*(start)* | [🏠 Index](index.md) | [Chemical-Equilibrium02 ➡](Chemical-Equilibrium02.md)
+*(start)* | [🏠 Index](00-index.md) | [Chemical-Equilibrium02 ➡](Chemical-Equilibrium02.md)
 
 ---
 
 # Chemical Equilibrium - Slides 01-05
 
 ## Slide 01
-![Chemical Equilibrium-001](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-001.png)
+> 📷 **[Diagram]** Chemical Equilibrium-001
 
 ### Text Content
 **Chemical Equilibrium**
@@ -21,7 +21,7 @@ Figure 3. When a soft drink is opened, several equilibrium shifts occur. (credit
 ---
 
 ## Slide 02
-![Chemical Equilibrium-002](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-002.png)
+> 📷 **[Diagram]** Chemical Equilibrium-002
 
 ### Text Content
 **Chemical Equilibrium**
@@ -35,7 +35,7 @@ If the rate at which people move from the first floor to the second equals the r
 ---
 
 ## Slide 03
-![Chemical Equilibrium-003](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-003.png)
+> 📷 **[Diagram]** Chemical Equilibrium-003
 
 ### Text Content
 **Chemical Equilibrium**
@@ -47,7 +47,7 @@ If the rate at which people move from the first floor to the second equals the r
 ---
 
 ## Slide 04
-![Chemical Equilibrium-004](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-004.png)
+> 📷 **[Diagram]** Chemical Equilibrium-004
 
 ### Text Content
 **Chemical Equilibrium**
@@ -60,7 +60,7 @@ If the rate at which people move from the first floor to the second equals the r
 ### Diagram Analysis: Liquid-Vapor Equilibrium
 The slide presents three sequential panels showing the establishment of phase equilibrium in a closed container:
 1. **Left Panel (Initial State)**: Labeled "No water vapor". Shows pure liquid $H_2O$ with a flat surface. Only the liquid phase is present.
-2. **Middle Panel (Approaching Equilibrium)**: Labeled "Unsaturated". 
+2. **Middle Panel (Approaching Equilibrium)**: Labeled "Unsaturated".
    - A large blue arrow points up (**Evaporation Rate**).
    - A small blue arrow points down (**Condensation Rate**).
    - Net process: More liquid is turning into gas than vice-versa.
@@ -71,7 +71,7 @@ The slide presents three sequential panels showing the establishment of phase eq
 ---
 
 ## Slide 05
-![Chemical Equilibrium-005](file:///home/azaz/AntigravityData/Chemistry-Semester-Final/ResourcesGivenByTeachers/Chemical-Equilibrium/Chemical%20Equilibrium-005.png)
+> 📷 **[Diagram]** Chemical Equilibrium-005
 
 ### Text Content
 **Chemical Equilibrium**
@@ -98,4 +98,4 @@ $$H_2O (g) + CO (g) \rightleftharpoons H_2 (g) + CO_2 (g)$$
 
 ---
 
-*(start)* | [🏠 Index](index.md) | [Chemical-Equilibrium02 ➡](Chemical-Equilibrium02.md)
+*(start)* | [🏠 Index](00-index.md) | [Chemical-Equilibrium02 ➡](Chemical-Equilibrium02.md)

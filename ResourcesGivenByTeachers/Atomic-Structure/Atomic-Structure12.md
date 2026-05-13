@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure11](Atomic-Structure11.md) | [🏠 Index](index.md) | [Atomic-Structure13 ➡](Atomic-Structure13.md)
+[⬅ Atomic-Structure11](Atomic-Structure11.md) | [🏠 Index](00-index.md) | [Atomic-Structure13 ➡](Atomic-Structure13.md)
 
 ---
 
@@ -13,7 +13,7 @@ ii) It was denoted by a letter ‘n’
 iii) Its values are 1, 2, 3…. and also designed by K, L, M…..
 iv) It signifies size and energy of an orbit.
 
-![Principal Quantum Number Diagram](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-056.png)
+> 📷 **[Diagram]** Principal Quantum Number Diagram
 
 **Diagram Analysis:**
 The diagram shows the relationship between the principal quantum number ($n$) and the energy of the shells.
@@ -103,4 +103,4 @@ iv) It signifies the direction of spin of an electron
 
 ---
 
-[⬅ Atomic-Structure11](Atomic-Structure11.md) | [🏠 Index](index.md) | [Atomic-Structure13 ➡](Atomic-Structure13.md)
+[⬅ Atomic-Structure11](Atomic-Structure11.md) | [🏠 Index](00-index.md) | [Atomic-Structure13 ➡](Atomic-Structure13.md)

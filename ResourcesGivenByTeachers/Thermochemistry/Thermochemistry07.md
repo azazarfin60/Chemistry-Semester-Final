@@ -1,4 +1,4 @@
-[⬅ Thermochemistry06](Thermochemistry06.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Thermochemistry06](Thermochemistry06.md) | [🏠 Index](00-index.md) | *(end)*
 
 ---
 
@@ -144,4 +144,4 @@ In a similar manner the bond energies of other types of bonds have been calculat
 
 ---
 
-[⬅ Thermochemistry06](Thermochemistry06.md) | [🏠 Index](index.md) | *(end)*
+[⬅ Thermochemistry06](Thermochemistry06.md) | [🏠 Index](00-index.md) | *(end)*

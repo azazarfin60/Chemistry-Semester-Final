@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics07](Chemical-Kinetics07.md) | [🏠 Index](index.md) | [Chemical-Kinetics09 ➡](Chemical-Kinetics09.md)
+[⬅ Chemical-Kinetics07](Chemical-Kinetics07.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics09 ➡](Chemical-Kinetics09.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 36
 
-![Second Order Derivation - Part 2](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-036.png)
+> 📷 **[Diagram]** Second Order Derivation - Part 2
 
 ### **Kinetics of Second Order Reaction**
 
@@ -27,7 +27,7 @@ $$\text{Constant} = \frac{1}{(a-b)} \ln \frac{a}{b} \quad \dots (iii)$$
 
 ## Slide 37
 
-![Second Order Derivation - Final Integrated Form](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-037.png)
+> 📷 **[Diagram]** Second Order Derivation - Final Integrated Form
 
 ### **Kinetics of Second Order Reaction**
 
@@ -43,7 +43,7 @@ This is the integrated rate expression for second order reaction.
 
 ## Slide 38
 
-![Property 1: Half-life vs. Initial Concentration](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-038.png)
+> 📷 **[Diagram]** Property 1: Half-life vs. Initial Concentration
 
 ### **Properties of Second Order Reaction**
 
@@ -64,7 +64,7 @@ $$t_{1/2} \propto \frac{1}{a}$$
 
 ## Slide 39
 
-![Property 2: Rate Constant Dependency on Units](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-039.png)
+> 📷 **[Diagram]** Property 2: Rate Constant Dependency on Units
 
 ### **Properties of Second Order Reaction**
 
@@ -82,7 +82,7 @@ So, the new value of $k$ is $1/m$ times of previous value.
 
 ## Slide 40
 
-![Property 3: Conversion to Pseudo-First Order](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-040.png)
+> 📷 **[Diagram]** Property 3: Conversion to Pseudo-First Order
 
 ### **Properties of Second Order Reaction**
 
@@ -104,4 +104,4 @@ This is the mathematical expression of $1^{st}$ order kinetics.
 
 ---
 
-[⬅ Chemical-Kinetics07](Chemical-Kinetics07.md) | [🏠 Index](index.md) | [Chemical-Kinetics09 ➡](Chemical-Kinetics09.md)
+[⬅ Chemical-Kinetics07](Chemical-Kinetics07.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics09 ➡](Chemical-Kinetics09.md)

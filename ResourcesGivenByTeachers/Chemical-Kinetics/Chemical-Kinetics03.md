@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics02](Chemical-Kinetics02.md) | [🏠 Index](index.md) | [Chemical-Kinetics04 ➡](Chemical-Kinetics04.md)
+[⬅ Chemical-Kinetics02](Chemical-Kinetics02.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics04 ➡](Chemical-Kinetics04.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 11
 
-![Molecularity & Order of Reaction Definitions](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-011.png)
+> 📷 **[Diagram]** Molecularity & Order of Reaction Definitions
 
 ### **Molecularity & Order of Reaction**
 
@@ -30,7 +30,7 @@ The slide defines **Molecularity** as the number of colliding molecular entities
 
 ## Slide 12
 
-![Chemical Reaction Molecularity Examples](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-012.png)
+> 📷 **[Diagram]** Chemical Reaction Molecularity Examples
 
 ### **Molecularity & Order of Reaction**
 
@@ -47,7 +47,7 @@ The slide defines **Molecularity** as the number of colliding molecular entities
 
 ## Slide 13
 
-![Differences between Molecularity and Order](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-013.png)
+> 📷 **[Diagram]** Differences between Molecularity and Order
 
 ### **Molecularity & Order of Reaction**
 
@@ -64,7 +64,7 @@ The slide defines **Molecularity** as the number of colliding molecular entities
 
 ## Slide 14
 
-![Factors Affecting Reaction Rate](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-014.png)
+> 📷 **[Diagram]** Factors Affecting Reaction Rate
 
 ### **Factors Affecting the Rate**
 
@@ -94,7 +94,7 @@ The slide compares the combustion of steel Wool vs. a steel nail to illustrate s
 
 ## Slide 15
 
-![Surface Area Visualization](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-015.png)
+> 📷 **[Diagram]** Surface Area Visualization
 
 ### **Factors Affecting the Rate**
 
@@ -111,4 +111,4 @@ The progression shows that as the particle size decreases, the exposed surface a
 
 ---
 
-[⬅ Chemical-Kinetics02](Chemical-Kinetics02.md) | [🏠 Index](index.md) | [Chemical-Kinetics04 ➡](Chemical-Kinetics04.md)
+[⬅ Chemical-Kinetics02](Chemical-Kinetics02.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics04 ➡](Chemical-Kinetics04.md)

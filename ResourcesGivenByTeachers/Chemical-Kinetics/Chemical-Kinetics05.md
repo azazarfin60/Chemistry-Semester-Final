@@ -1,4 +1,4 @@
-[⬅ Chemical-Kinetics04](Chemical-Kinetics04.md) | [🏠 Index](index.md) | [Chemical-Kinetics06 ➡](Chemical-Kinetics06.md)
+[⬅ Chemical-Kinetics04](Chemical-Kinetics04.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics06 ➡](Chemical-Kinetics06.md)
 
 ---
 
@@ -6,7 +6,7 @@
 
 ## Slide 21
 
-![Derivation of First Order Rate Law - Part 1](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-021.png)
+> 📷 **[Diagram]** Derivation of First Order Rate Law - Part 1
 
 ### **Kinetics of First Order Reaction**
 
@@ -28,7 +28,7 @@ When, $t = 0$, then $x = 0$, From eq- (ii)
 
 ## Slide 22
 
-![Derivation of First Order Rate Law - Part 2](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-022.png)
+> 📷 **[Diagram]** Derivation of First Order Rate Law - Part 2
 
 ### **Kinetics of First Order Reaction**
 
@@ -48,7 +48,7 @@ This is the integrated rate expression for first order reaction.
 
 ## Slide 23
 
-![Alternative Derivation - Part 1](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-023.png)
+> 📷 **[Diagram]** Alternative Derivation - Part 1
 
 ### **Kinetics of First Order Reaction- Alternative Method**
 
@@ -78,7 +78,7 @@ $-\ln c_0 = \text{constant} \quad \dots (iv)$
 
 ## Slide 24
 
-![Alternative Derivation - Part 2](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-024.png)
+> 📷 **[Diagram]** Alternative Derivation - Part 2
 
 ### **Kinetics of First Order Reaction- Alternative Method**
 
@@ -97,7 +97,7 @@ This is the integrated rate expression for first order reaction.
 
 ## Slide 25
 
-![Examples of First Order Reactions](file:///home/azaz/Downloads/Documents/Chemical-Kinetics/Chemical-Kinetics-025.png)
+> 📷 **[Diagram]** Examples of First Order Reactions
 
 ### **Example of First Order Reaction**
 
@@ -120,4 +120,4 @@ This is the integrated rate expression for first order reaction.
 
 ---
 
-[⬅ Chemical-Kinetics04](Chemical-Kinetics04.md) | [🏠 Index](index.md) | [Chemical-Kinetics06 ➡](Chemical-Kinetics06.md)
+[⬅ Chemical-Kinetics04](Chemical-Kinetics04.md) | [🏠 Index](00-index.md) | [Chemical-Kinetics06 ➡](Chemical-Kinetics06.md)

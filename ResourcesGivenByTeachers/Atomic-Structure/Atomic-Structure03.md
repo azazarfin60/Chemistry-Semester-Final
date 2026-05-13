@@ -1,4 +1,4 @@
-[⬅ Atomic-Structure02](Atomic-Structure02.md) | [🏠 Index](index.md) | [Atomic-Structure04 ➡](Atomic-Structure04.md)
+[⬅ Atomic-Structure02](Atomic-Structure02.md) | [🏠 Index](00-index.md) | [Atomic-Structure04 ➡](Atomic-Structure04.md)
 
 ---
 
@@ -37,7 +37,7 @@ Many scientists used atomic models to understand the structure of the atom in th
 
 **ATOMIC MODELS**
 
-![Timeline of Atomic Models](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-013.png)
+> 📷 **[Diagram]** Timeline of Atomic Models
 
 **Diagram Analysis:**
 This slide presents a visual timeline of the evolution of atomic theory:
@@ -53,7 +53,7 @@ This slide presents a visual timeline of the evolution of atomic theory:
 
 ### **Rutherford Gold Foil Experiment**
 
-![Rutherford Gold Foil Experiment Setup](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-014.png)
+> 📷 **[Diagram]** Rutherford Gold Foil Experiment Setup
 
 **Diagram Analysis:**
 The diagram illustrates the experimental setup used by Ernest Rutherford:
@@ -70,7 +70,7 @@ The diagram illustrates the experimental setup used by Ernest Rutherford:
 
 **SCATTERING OF ALPHA PARTICLES**
 
-![Microscopic view of Alpha Scattering](file:///home/azaz/Downloads/Documents/Atomic-Structure/Atomic-Structure-015.png)
+> 📷 **[Diagram]** Microscopic view of Alpha Scattering
 
 **Observations of Rutherford's alpha ray scattering experiment:**
 1. Most of the $\alpha$-particles passed straight through the gold foil without any deviation.
@@ -87,4 +87,4 @@ This microscopic view shows alpha particles (green circles with '++') interactin
 
 ---
 
-[⬅ Atomic-Structure02](Atomic-Structure02.md) | [🏠 Index](index.md) | [Atomic-Structure04 ➡](Atomic-Structure04.md)
+[⬅ Atomic-Structure02](Atomic-Structure02.md) | [🏠 Index](00-index.md) | [Atomic-Structure04 ➡](Atomic-Structure04.md)

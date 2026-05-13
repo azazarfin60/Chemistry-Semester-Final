@@ -1,4 +1,4 @@
-[⬅ Solution01](Solution01.md) | [🏠 Index](index.md) | [Solution03 ➡](Solution03.md)
+[⬅ Solution01](Solution01.md) | [🏠 Index](00-index.md) | [Solution03 ➡](Solution03.md)
 
 ---
 
@@ -9,7 +9,7 @@ author: "Digitized Slides"
 
 # Slide 06
 
-![Ideal and Non-ideal Solutions](Solution-006.png)
+> 📷 **[Diagram]** Ideal and Non-ideal Solutions
 
 ## **Ideal and Non-ideal Solutions**
 
@@ -33,7 +33,7 @@ This comprehensive table provides a point-by-point comparison between ideal and 
 
 # Slide 07
 
-![Units of Concentration - Part 1](Solution-007.png)
+> 📷 **[Diagram]** Units of Concentration - Part 1
 
 ## **Units of Concentration**
 
@@ -47,7 +47,7 @@ This comprehensive table provides a point-by-point comparison between ideal and 
 
 # Slide 08
 
-![Units of Concentration - Part 2](Solution-008.png)
+> 📷 **[Diagram]** Units of Concentration - Part 2
 
 ## **Units of Concentration (Continued)**
 
@@ -60,7 +60,7 @@ This comprehensive table provides a point-by-point comparison between ideal and 
 
 # Slide 09
 
-![Units of Concentration - Part 3](Solution-009.png)
+> 📷 **[Diagram]** Units of Concentration - Part 3
 
 ## **Units of Concentration (Continued)**
 
@@ -74,7 +74,7 @@ This comprehensive table provides a point-by-point comparison between ideal and 
 
 # Slide 10
 
-![Concentration Units Summary](Solution-010.png)
+> 📷 **[Diagram]** Concentration Units Summary
 
 ## **Units of Concentration Summary**
 
@@ -96,4 +96,4 @@ This comprehensive table provides a point-by-point comparison between ideal and 
 
 ---
 
-[⬅ Solution01](Solution01.md) | [🏠 Index](index.md) | [Solution03 ➡](Solution03.md)
+[⬅ Solution01](Solution01.md) | [🏠 Index](00-index.md) | [Solution03 ➡](Solution03.md)

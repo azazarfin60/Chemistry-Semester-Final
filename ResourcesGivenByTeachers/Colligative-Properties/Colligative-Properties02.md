@@ -1,4 +1,4 @@
-[⬅ Colligative-Properties01](Colligative-Properties01.md) | [🏠 Index](index.md) | [Colligative-Properties03 ➡](Colligative-Properties03.md)
+[⬅ Colligative-Properties01](Colligative-Properties01.md) | [🏠 Index](00-index.md) | [Colligative-Properties03 ➡](Colligative-Properties03.md)
 
 ---
 
@@ -8,7 +8,7 @@
 
 ## Slide 6
 
-![Slide 6](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-006.png)
+> 📷 **[Diagram]** Slide 6
 
 ### Exact Copy of Text
 **Raoult’s Law of Lowering of the Vapour Pressure**
@@ -34,7 +34,7 @@ The slide features a portrait of François-Marie Raoult in the top right corner.
 
 ## Slide 7
 
-![Slide 7](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-007.png)
+> 📷 **[Diagram]** Slide 7
 
 ### Exact Copy of Text
 **Raoult’s Law of Lowering of the Vapour Pressure**
@@ -55,14 +55,14 @@ Here, vapour pressure of solvent is constant at a given temperature. So, vapour 
 * It is not applicable to solutes which dissociate or associate in a particular solution.
 
 ### Diagram Analysis
-This slide completes the mathematical derivation started on Slide 6, showing that the vapor pressure of the solution ($P$) is directly proportional to the mole fraction of the solvent ($x_1$). 
+This slide completes the mathematical derivation started on Slide 6, showing that the vapor pressure of the solution ($P$) is directly proportional to the mole fraction of the solvent ($x_1$).
 It also includes a section in green highlighting the "Limitations of Raoult's law", which are crucial for defining the scope of the theory (ideality, non-volatility, and no particle aggregation/dissociation).
 
 ---
 
 ## Slide 8
 
-![Slide 8](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-008.png)
+> 📷 **[Diagram]** Slide 8
 
 ### Exact Copy of Text
 **Molecular Mass of Solute**
@@ -83,15 +83,15 @@ $M_2 = \frac{w_2/M_1}{\frac{-w_1}{P_o - P/P_o}}$ ------------------- (ii)
 From eq- (ii), molecular mass of solute can be calculated.
 
 ### Diagram Analysis
-The slide focuses on the practical application of Raoult's Law: determining the molecular mass of an unknown solute. 
-It starts with the approximation for "very dilute solutions" where the number of moles of solute ($n$) is negligible compared to the moles of solvent ($N$) in the denominator. 
+The slide focuses on the practical application of Raoult's Law: determining the molecular mass of an unknown solute.
+It starts with the approximation for "very dilute solutions" where the number of moles of solute ($n$) is negligible compared to the moles of solvent ($N$) in the denominator.
 The final expression (ii) rearranges the terms to solve for $M_2$. Note: The visual representation of the final formula in the slide is slightly unconventional due to formatting, but it follows the standard algebraic rearrangement of $n = w_2/M_2$ and $N = w_1/M_1$.
 
 ---
 
 ## Slide 9
 
-![Slide 9](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-009.png)
+> 📷 **[Diagram]** Slide 9
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -119,7 +119,7 @@ This slide presents a step-by-step solution to a numerical problem. It demonstra
 
 ## Slide 10
 
-![Slide 10](file:///home/azaz/Downloads/Documents/Colligative-Properties/Colligative-Properties-010.png)
+> 📷 **[Diagram]** Slide 10
 
 ### Exact Copy of Text
 **Numerical Problem**
@@ -143,4 +143,4 @@ This slide provides another numerical example, this time using vapor pressure lo
 
 ---
 
-[⬅ Colligative-Properties01](Colligative-Properties01.md) | [🏠 Index](index.md) | [Colligative-Properties03 ➡](Colligative-Properties03.md)
+[⬅ Colligative-Properties01](Colligative-Properties01.md) | [🏠 Index](00-index.md) | [Colligative-Properties03 ➡](Colligative-Properties03.md)
