@@ -57,7 +57,7 @@ The foundational data layer. This directory contains the raw, original lecture s
 
 ## 🚀 How to Use This Repository
 
-1.  **Start in `boss_notes/`**: Open the [Boss Notes Index](boss_notes/index.md) and begin reading through Phase 01. Use the navigation bar at the bottom of the page to proceed sequentially.
+1.  **Start in `boss_notes/`**: Open the [Boss Notes Index](boss_notes/00-index.md) and begin reading through Phase 01. Use the navigation bar at the bottom of the page to proceed sequentially.
 2.  **Review the Golden Questions**: As you read the Boss Notes, pay close attention to the "Golden Questions" section at the bottom of each file. It will show you how that specific theory was tested in past years.
 3.  **Test Yourself**: Once you finish a phase, head over to `Topicwise-Answers/` and attempt to answer all past questions for that specific topic without looking at the solutions.
 4.  **Final Polish**: In the days before the exam, open `PreviousYearQuestions/` and take a full, timed mock exam. Grade yourself using the chronological `answers/` directory.
